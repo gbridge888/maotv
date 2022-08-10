@@ -49,21 +49,21 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "sort-list", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
+  "bfjiequshuzuqian": "class=\"stui-content__detail\", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "更新：</span>", //状态前关键词
   "zhuangtaihou": "</p>", //状态后关键词
-  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanqian": "導演：</span>", //导演前关键词
   "daoyanhou": "</p>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</p>", //主演后关键词
   "juqingqian": "简介：</span>", //剧情前关键词
   "juqinghou": "<a", //剧情后关键词
 
-  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
-  "bfyjiequqian": "空", //不需要二次截取就填空
-  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyshifouercijiequ": "1", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "", //不需要二次截取就填空
+  "bfyjiequhou": "", //不需要二次截取就填空
   "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
   "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
   "bfbiaotiqian": ">", //播放剧集标题前关键词
