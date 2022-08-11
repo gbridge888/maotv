@@ -49,7 +49,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "sort-list", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "class=\"stui-content__playlist", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "更新：</span>", //状态前关键词
@@ -65,7 +65,7 @@
   "bfyjiequqian": "空", //不需要二次截取就填空
   "bfyjiequhou": "空", //不需要二次截取就填空
   "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
-  "bfyjiequshuzuhou": "/a></li>", //播放剧集数组后关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
   "bfbiaotiqian": ">", //播放剧集标题前关键词
   "bfbiaotihou": "<", //状播放剧集标题后关键词
   "bflianjieqian": "href=\"", //播放剧集链接前关键词
