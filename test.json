@@ -1,5 +1,5 @@
 {
-  "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/jy.jar",
+  "spider":"https://raw.githubusercontent.com/gbridge888/TvJar/master/jar/custom_spider.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[
@@ -53,7 +53,7 @@
     },
     {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_appysv2_if101资源","name":"if101-2(海外推荐)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.if101.tv/v1/vod?ac=detail"},
+    //{"key":"csp_appysv2_if101资源","name":"if101-2(海外推荐)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api.if101.tv/v1/vod?ac=detail"},
     //{"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_biubiu_iqtv","name":"iqtv(vip)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv.json"},
     {"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/naifeiorg.json"},
