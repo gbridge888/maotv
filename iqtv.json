@@ -52,10 +52,10 @@
   "bfjiequshuzuqian": "class=\"stui-content__playlist", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
-  // "zhuangtaiqian": "類型:</span>", //状态前关键词
-  // "zhuangtaihou": "</p>", //状态后关键词
-  "zhuangtaiqian": "年份：</span>",
-  "zhuangtaihou": "</a>",
+  "zhuangtaiqian": "類型:</span>", //状态前关键词
+  "zhuangtaihou": "</p>", //状态后关键词
+  "nianfenqian": "年份：</span>",
+  "nianfenhou": "</a>",
   "daoyanqian": "導演：</span>", //导演前关键词
   "daoyanhou": "</p>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
