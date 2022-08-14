@@ -31,8 +31,8 @@
     "cateVodMark": "//span[@class='pic-text']/text()",
 
     "dtUrl": "https://iqtv.vip/detail/{vid}.html",
-    "dtNode": "//div[contains(@class,'stui-content__thumb')]",
-    "dtName": "//div[contains(@class,'stui-content__thumb')]/a/@title",
+    "dtNode": "//div[@class='stui-pannel clearfix']",
+    "dtName": "//div[@class='stui-content col-pd clearfix']/div[@class='stui-content__detail']/h3/text()",
     "dtNameR": "",
     "dtImg": "//div[contains(@class,'stui-content__thumb')]/a/img/@data-original",
     "dtImgR": "",
@@ -40,8 +40,8 @@
     "dtYear": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '年份')]/following-sibling::a/text()",
     "dtArea": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '地區')]/following-sibling::a/text()",
     "dtMark": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '更新')]/following-sibling::a/text()",
-    "dtDirector": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '導演')]/following-sibling::a/text()",
-    "dtActor": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '主演')]/following-sibling::a/text()",
+    "dtDirector": "//div[contains(@class,'stui-content__detail')]/p[contains(text(), '導演')]/following-sibling::p/text()",
+    "dtActor": "//div[contains(@class,'stui-content__detail')]/p[contains(text(), '主演')]/following-sibling::p/text()",
     "dtDesc": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '简介')]/following-sibling::a/text()",
 
     "dtFromNode": "//div[contains(@class,'stui-pannel__head')]",
