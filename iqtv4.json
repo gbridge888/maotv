@@ -34,7 +34,7 @@
     "dtNode": "//div[@class='stui-pannel clearfix']",
     "dtName": "//div[@class='stui-content col-pd clearfix']/div[@class='stui-content__detail']/h3/text()",
     "dtNameR": "",
-    "dtImg": "//div[@class='stui-content__thumb']/div[@class='pic']/img/@data-original",
+    "dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
     "dtImgR": "",
     "dtCate": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '類型')]/following-sibling::a/text()",
     "dtYear": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '年份')]/following-sibling::a/text()",
