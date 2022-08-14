@@ -44,7 +44,7 @@
     "dtActor": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '主演')]/following-sibling::p/text()",
     "dtDesc": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '简介')]/following-sibling::a/text()",
 
-    "dtFromNode": "//div[contains(@class,'stui-pannel__head')]",
+    "dtFromNode": "//div[contains(@class, 'stui-pannel')]/div[contains(@class, 'stui-pannel__head')]/h3",
     "dtFromName": "/text()",
     "dtFromNameR": "",
     "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
