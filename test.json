@@ -55,7 +55,7 @@
       "key": "csp_xpath_iqtv",
       "name": "iqtv(XPF)",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
