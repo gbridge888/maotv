@@ -41,9 +41,9 @@
     "dtArea": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '地區')]/following-sibling::a/text()",
     "dtMark": "",
     //"dtDesc": "//div[contains(@class,'stui-content__desc')]",
-    "dtDesc": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '地區')]/following-sibling::a/text()",
+    "dtDesc": "'地區'",
     //"dtActor": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '主演')]/following-sibling::text()",
-    "dtActor": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '地區')]/following-sibling::a/text()",
+    "dtActor": "'導演,導演'",
     //"dtDirector": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '導演')]/following-sibling::text()",
     "dtDirector": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '地區')]/following-sibling::a/text()",
     
