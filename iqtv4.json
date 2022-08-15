@@ -42,8 +42,8 @@
     "dtMark": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '更新')]/following-sibling::a/text()",
     "dtDirector": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '導演')]/following-sibling::text()",
     "dtActor": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '主演')]/following-sibling::text()",
-    "dtDesc": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '简介')]/following-sibling::a/text()",
-
+    //"dtDesc": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '简介')]/following-sibling::a/text()",
+    "dtDesc": "",
     "dtFromNode": "//div[contains(@class, 'stui-pannel')]/div[contains(@class, 'stui-pannel__head')]/h3",
     "dtFromName": "/text()",
     "dtFromNameR": "",
