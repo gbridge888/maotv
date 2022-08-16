@@ -42,7 +42,7 @@
     "dtMark": "",
     "dtActor": "//div[@class='stui-content__detail']/p[contains(@class,'data')][3]",
     "dtDirector": "//div[@class='stui-content__detail']/p[contains(@class,'data')][4]",
-    "dtDesc": "//div[contains(@id, 'desc')][1]",
+    "dtDesc": "//div[@class='stui-content__detail']/p[contains(@class,'data')][4]",
     
     "dtFromNode": "//div[contains(@class, 'stui-pannel')]/div[contains(@class, 'stui-pannel__head')]/h3",
     "dtFromName": "/text()",
