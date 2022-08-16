@@ -31,8 +31,8 @@
     "cateVodMark": "//span[@class='pic-text']/text()",
 
     "dtUrl": "https://iqtv.vip/detail/{vid}.html",
-    "dtNode": "//div[@class='stui-pannel clearfix']",
-    "dtName": "//div[@class='stui-content col-pd clearfix']/div[@class='stui-content__detail']/h3/text()",
+    "dtNode": "//div[contains(@class,'stui-pannel')]",
+    "dtName": "//div[contains(@class,'stui-content')]/div[@class='stui-content__detail']/h3/text()",
     "dtNameR": "",
     "dtImg": "//div[@class='stui-content__thumb']/a[@class='pic']/img/@data-original",
     "dtImgR": "",
@@ -42,7 +42,7 @@
     "dtMark": "",
     "dtActor": "//div[@class='stui-content__detail']/p[contains(@class,'data')][3]",
     "dtDirector": "//div[@class='stui-content__detail']/p[contains(@class,'data')][4]",
-    "dtDesc": "//div[@class='stui-content__detail']/p[contains(@class,'data')][4]",
+    "dtDesc": "//div[contains(@class, 'stui-pannel')]//div[contains(@class, 'stui-content__desc')][1]",
     
     "dtFromNode": "//div[contains(@class, 'stui-pannel')]/div[contains(@class, 'stui-pannel__head')]/h3",
     "dtFromName": "/text()",
