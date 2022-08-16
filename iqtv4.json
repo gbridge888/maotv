@@ -40,8 +40,8 @@
     "dtYear": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '年份')]/following-sibling::a/text()",
     "dtArea": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '地區')]/following-sibling::a/text()",
     "dtMark": "",
-    "dtDesc": "//div[contains(@class,'stui-content__desc')]",
-    "dtActor": "//div[@class='stui-content col-pd clearfix']/div[@class='stui-content__detail']/p/following-sibling::*/text()",
+    "dtDesc": "//div[contains(@class, 'stui-pannel') and contains(@id, 'desc')]/div[2]",
+    "dtActor": "//div[@class='stui-content__detail']/p[contains(@class,'data')][3]",
     "dtDirector": "//div[@class='stui-content__detail']/p[contains(@class,'data')][4]",
     
     "dtFromNode": "//div[contains(@class, 'stui-pannel')]/div[contains(@class, 'stui-pannel__head')]/h3",
