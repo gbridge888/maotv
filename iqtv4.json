@@ -42,7 +42,7 @@
     "dtMark": "",
     "dtDesc": "//div[contains(@class,'stui-content__desc')]",
     "dtActor": "//div[@class='stui-content col-pd clearfix']/div[@class='stui-content__detail']/p/following-sibling::*/text()",
-    "dtDirector": "//div[contains(@class,'stui-content__detail')]/p/span[contains(text(), '導演')]/following-sibling::text()",
+    "dtDirector": "//div[@class='stui-content__detail']/p[contains(@class,'data')][4]",
     
     "dtFromNode": "//div[contains(@class, 'stui-pannel')]/div[contains(@class, 'stui-pannel__head')]/h3",
     "dtFromName": "/text()",
