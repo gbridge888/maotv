@@ -3,7 +3,7 @@
   "name": "FosiTV",
   "url": "https://fositv.com", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  "User": "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", //这个不用动，是个别网站播放需要请求头时才用到
   "shouye": "1",
 
   "fenlei": "电影$/vodtype/1/page/#电视剧$/vodtype/2/page/#综艺$/vodtype/3/page/#动漫$/vodtype/4/page/#纪录$/vodtype/5/page/", //网站列表的分类
