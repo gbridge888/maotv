@@ -58,7 +58,7 @@
   "daoyanhou": "</a>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</a>", //主演后关键词
-  "juqingqian": "sketch content>"", //剧情前关键词
+  "juqingqian": "sketch content>\"", //剧情前关键词
   "juqinghou": "<a", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
