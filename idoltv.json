@@ -28,7 +28,7 @@
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=50",
+  "sousuohou": "&limit=100",
   "sousuohouzhui": "/vod/", //搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
@@ -58,8 +58,8 @@
   "daoyanhou": "</a>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</a>", //主演后关键词
-  "juqingqian": "description", //剧情前关键词
-  "juqinghou": "</div", //剧情后关键词
+  "juqingqian": "description\" content=\"", //剧情前关键词
+  "juqinghou": ">", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyjiequqian": "空", //不需要二次截取就填空
