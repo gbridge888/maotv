@@ -40,7 +40,7 @@
 {"key":"csp_biubiu_idolTV","name":"idolTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/idoltv.json"},		
 {"key":"csp_biubiu_guangsuzy","name":"光速资源(xml)","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/guangsuzy.json"},
 {"key":"唐人街影院(xml)","name":"唐人街影院(xml)","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_pangzitv","name":"pangziTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/pangzitv.json"},
+//{"key":"csp_biubiu_pangzitv","name":"pangziTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/pangzitv.json"},
 //{"key":"csp_biubiu_iqtv","name":"iqtv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv.json"},
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
