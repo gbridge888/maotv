@@ -1,67 +1,72 @@
 {
-  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-  "homeUrl": "https://olevod.com",
-  "dcVipFlag": "true",
-  "pCfgJs": "https://olevod.com/static/js/playerconfig.js",
-  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
-  "dcShow2Vip": {},
-  "dcPlayUrl": "true",
-  "cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'5'))]",
-  "cateName": "/text()",
-  "cateId": "/@href",
-  "cateIdR": "/index.php/vod/type/id/(\\d+).html",
-  "cateManual": {},    
-  "homeVodNode": "//div[contains(@class, 'pannel')]//ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]/li//a[contains(@class,'vodlist_thumb')]",
-  "homeVodName": "/@title",
-  "homeVodId": "/@href",
-  "homeVodIdR": "/index.php/vod/type/id/(\\w+).html",
-  "homeVodImg": "/@data-original",
-  "homeVodImgR": "\\S+(http\\S+)",
-  "homeVodMark": "/span[contains(@class,'text_dy') and contains(@class,'style')]/text()",
-  "cateUrl": "https://olevod.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-  "cateVodNode": "//ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]//li//a[contains(@class,'vodlist_thumb')]",
-  "cateVodName": "/@title",
-  "cateVodId": "/@href",
-  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
-  "cateVodImg": "/@data-original",
-  "cateVodImgR": "\\S+(http\\S+)",
-  "cateVodMark": "/span[contains(@class,'text_dy') and contains(@class,'style')]/text()",
-  "dtUrl": "https://olevod.com/index.php/vod/detail/id/{vid}.html",
-  "dtNode": "//div[contains(@class,'hot_banner')]",
-  "dtName": "//div[@class='content_box clearfix']/div/a/@title",
-  "dtNameR": "",
-  "dtImg": "//div[@class='content_box clearfix']/div/a/@data-original",
-  "dtImgR": "\\S+(http\\S+)",
-  "dtYear": "//div[contains(@class,'content_detail')]//span[contains(@class,'text_muted hidden_xs') and contains(text(), '年份')]/following-sibling::*/text()",
-  "dtYearR": "",
-  "dtArea": "//div[contains(@class,'content_detail')]//span[contains(@class,'text_muted hidden_xs') and contains(text(), '地区')]/following-sibling::*/text()",
-  "dtAreaR": "",
-  "dtCate": "//div[contains(@class,'content_detail')]//span[contains(@class,'text_muted hidden_xs') and contains(text(), '类型')]/following-sibling::*/text()",
-  "dtCateR": "",
-  "dtMark": "//div[contains(@class,'content_detail')]//span[contains(text(), '状态')]/following-sibling::*/text()",
-  "dtMarkR": "",
-  "dtActor": "//div[contains(@class,'content_detail')]//span[contains(text(), '主演')]/following-sibling::*/text()",
-  "dtActorR": "",
-  "dtDirector": "//div[contains(@class,'content_detail')]//span[contains(text(), '导演')]/following-sibling::*/text()",
-  "dtDirectorR": "",
-  "dtDesc": "///div[contains(@class,'content_detail')]//span[contains(@class,'left text_muted') and contains(text(), '简介')]/parent::text()",
-  "dtDescR": "",
-  "dtFromNode": "//div[contains(@class,'play_source_tab')]/a",
-  "dtFromName": "/@alt",
-  "dtFromNameR": "",
-  "dtUrlNode": "//div[contains(@class,'playlist_full')]/ul[contains(@class,'content_playlist clearfix')]",
-  "dtUrlSubNode": "//li/a",
-  "dtUrlId": "/@href",
-  "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
-  "dtUrlName": "/text()",
-  "dtUrlNameR": "",
-  "playUrl": "https://olevod.com/index.php/vod/play/id/{playUrl}.html",
-  "playUa": "",
-  "searchUrl": "https://olevod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
-  "scVodNode": "json:list",
-  "scVodName": "name",
-  "scVodId": "id",
-  "scVodIdR": "",
-  "scVodImg": "pic",
-  "scVodMark": ""
-}
+  "author": "20220712",
+  "name": "Olevod TV",
+  "url": "https://olevod.tv", //填网站链接
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36", //这个不用动，是个别网站播放需要请求头时才用到
+  "shouye": "1",
+
+  "fenlei": "電影$/index.php/vod/type/id/1/page/#電視劇$/index.php/vod/type/id/2/page/#綜藝$/index.php/vod/type/id/3/page/", //网站列表的分类
+  "houzhui": ".html", //网站翻页链接的后缀
+
+  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //不需要二次截取就填空
+  "jiequhou": "空", //不需要二次截取就填空
+  "jiequshuzuqian": "vodlist_thumb lazyload", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "</a>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span",
+
+
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=50",
+  "sousuohouzhui": "/index.php/vod/detail/id/", //搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "content_playlist", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
+
+  "zhuangtaiqian": "状态：</span>", //状态前关键词
+  "zhuangtaihou": "</em>", //状态后关键词
+  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanhou": "</a>", //导演态后关键词
+  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanhou": "</a>", //主演后关键词
+  "juqingqian": "简介：</span>", //剧情前关键词
+  "juqinghou": "</a>", //剧情后关键词
+
+  "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空", //不需要二次截取就填空
+  "bfyjiequhou": "空", //不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
+  "bfbiaotiqian": ">", //播放剧集标题前关键词
+  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bflianjieqian": "href=\"", //播放剧集链接前关键词
+  "bflianjiehou": "\"" //播放剧集链接后关键词
