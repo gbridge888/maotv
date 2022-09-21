@@ -66,8 +66,8 @@
   "bfyjiequhou": "空", //不需要二次截取就填空
   "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
   "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
-  "bfbiaotiqian": ">", //播放剧集标题前关键词
-  "bfbiaotihou": "<", //状播放剧集标题后关键词
+  "bfbiaotiqian": "title=\"", //播放剧集标题前关键词
+  "bfbiaotihou": "\"", //状播放剧集标题后关键词
   "bflianjieqian": "href=\"", //播放剧集链接前关键词
   "bflianjiehou": "\"" //播放剧集链接后关键词
 }
