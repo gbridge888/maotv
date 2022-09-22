@@ -12,11 +12,11 @@
   "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "空", //不需要二次截取就填空
   "jiequhou": "空", //不需要二次截取就填空
-  "jiequshuzuqian": "lazyload animsition-link\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuqian": "myui-vodlist__box", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "</a>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
-  "biaotiqian": "cinema_title\">", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "background: url(", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": ")", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "title=\">", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotihou": "<", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
@@ -49,7 +49,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "myui-content__list sort-list clearfix", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "yui-content__list sort-list", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "更新：</span>", //状态前关键词
