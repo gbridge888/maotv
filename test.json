@@ -48,7 +48,7 @@
 {"key":"HOHO(xml)","name":"HOHO(xml)","type":0,"api":"https://www.hoho.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"冲TMTV(xml)","name":"冲TMTV(xml)","type":0,"api":"https://chongtmtv.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"juhiTV(XB)","name":"juhiTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/juhitv.json"},
-//{"key":"捷华(XB)","name":"捷华(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/jiehua.json"},
+{"key":"捷华(XB)","name":"捷华(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/jiehua.json"},
 //{"key":"csp_biubiu_iqtv","name":"iqtv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv.json"},
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
