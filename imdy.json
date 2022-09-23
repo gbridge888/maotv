@@ -49,7 +49,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "module-play-list-content", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "module-play-list", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "更新：</span>", //状态前关键词
