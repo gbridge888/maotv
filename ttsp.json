@@ -49,7 +49,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "playlist_notfull", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "play_source_tab list_scroll", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "状态：</span>", //状态前关键词
