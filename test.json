@@ -53,7 +53,7 @@
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"💿Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"奈飞中文(XPF)","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/naifeiorg.json"},
+//{"key":"奈飞中文(XPF)","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/naifeiorg.json"},
 //{"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/cupfox.json"},
 {"key":"小宝影院(XB)","name":"🥒小宝影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/xiaoheimi.json"},
 {"key":"起飞影院(XB)","name":"起飞影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/qfitv2.json"},
