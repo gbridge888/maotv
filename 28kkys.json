@@ -50,13 +50,13 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "mo-back-click mo-back-write", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</li>", //播放截取的列表数组的后关键词
+  "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": ">更新", //状态前关键词
   "zhuangtaihou": "</span>", //状态后关键词
-  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanqian": "导演:&nbsp;</span>", //导演前关键词
   "daoyanhou": "</a>", //导演态后关键词
-  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanqian": "主演:&nbsp;</span>", //主演前关键词
   "zhuyanhou": "</a>", //主演后关键词
   "juqingqian": ">短评:", //剧情前关键词
   "juqinghou": "</li>", //剧情后关键词
