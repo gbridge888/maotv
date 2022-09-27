@@ -49,7 +49,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "mo-back-click mo-back-write", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "mo-movs-item mo-sort-boxs", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</ul>", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": ">更新", //状态前关键词
