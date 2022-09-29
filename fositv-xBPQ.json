@@ -1,7 +1,7 @@
 {
 "免嗅":"1",
-//"线路数组": "href=\"#playlist&&</li>",
-//"线路标题": "tab\">&&</a>",
+"线路数组": "href=\"#playlist&&</li>",
+"线路标题": "tab\">&&</a>",
 "播放标题":"html\">&&</a>",
 "播放数组":"class=\"myui-content__list&&</ul>",
 "分类url":"https://fositv.com/vodshow/{cateId}-{area}----------{year}.html",
@@ -142,10 +142,6 @@
     ],
     "2": [
       {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
         "key": "area",
         "name": "地区",
         "value": [
@@ -304,10 +300,6 @@
         "name": "地区",
         "value": [
           {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
             "n": "全部",
             "v": ""
           },
@@ -430,10 +422,6 @@
     ],
     "4": [
       {
-        "key": "area",
-        "name": "地区",
-        "value": [
-          {
         "key": "area",
         "name": "地区",
         "value": [
