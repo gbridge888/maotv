@@ -73,6 +73,7 @@
 //{"key":"csp_xb_lgyy","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_olevod","name":"olevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.olehdtv.com/index.php/vod/show/id/{cateId}/--------{catePg}---.html"},		
 {"key":"csp_xb_oulevod","name":"oulevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oulevod.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html"},
+{"key":"csp_xb_茶杯狐","name":"茶杯狐(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cupfox.cc/search.php?searchtype=5&tid={cateId}&year={year}&area={area}"},
 		
 //XYQ
 {key:'csp_XYQBiu_片吧',name:'片吧(XYQ)',type:3,api:'csp_XYQBiu',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb.json'},
