@@ -5,7 +5,7 @@
 "播放标题":"html\">&&</a>",
 "播放数组":"class=\"myui-content__list&&</ul>",
 "分类url":"https://www.mbomovie.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html",
-"分类":"电影$1#电视剧$2#综艺$4#动漫$3",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "筛选":{"1":[
       {
         "key": "area",
