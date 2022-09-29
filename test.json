@@ -62,7 +62,7 @@
 {"key":"看片狂人(XB)","name":"看片狂人(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/kpkuang.json"},
 {"key":"豆芽影院(XB)","name":"豆芽影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/imdy.json"},
 {"key":"咖啡影院(XB)","name":"咖啡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/filmcaf2.json"},
-{"key":"天天视频(XB)","name":"天天视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ttsp.json"},
+//{"key":"天天视频(XB)","name":"天天视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ttsp.json"},
 {"key":"大米星球(XB)","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/dmxq1.json"},
 {"key":"影视工场(XB)","name":"影视工场(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ysgc.json"},
 {"key":"28K影视(XB)","name":"28K影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/28kkys.json"},
