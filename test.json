@@ -53,7 +53,7 @@
 //{"key":"iqtv(XB)","name":"iqtv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv.json"},
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
 {"key":"If101","name":"💿If101","type":3,"api":"csp_If101","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
-{"key":"Olevod","name":"💿Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
+//{"key":"Olevod","name":"💿Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
 //{"key":"奈飞中文(XPF)","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/naifeiorg.json"},
 //{"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/cupfox.json"},
 {"key":"小宝影院(XB)","name":"🥒小宝影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/xiaoheimi.json"},
@@ -70,7 +70,7 @@
 {"key":"美果TV(XB)","name":"美果TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/mgtv1.json"},
 
 //XBiu
-{"key":"csp_xb_lgyy","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+//{"key":"csp_xb_lgyy","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_olevod","name":"olevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevod.tv/index.php/vod/show/id/{cateId}/--------{catePg}---.html"},		
 {"key":"csp_xb_oulevod","name":"oulevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oulevod.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html"},
 		
@@ -81,6 +81,7 @@
 //XBPQ
 {key:'csp_xBPQ_蓝光',name:'蓝光影院(xBPQ)',type:3,api:'csp_xBPQ',searchable:0,quickSearch:0,filterable:1,ext:'https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/l6u7o1g0.json'},
 {key:'csp_xBPQ_olevod',name:'olevod(xBPQ)',type:3,api:'csp_xBPQ',searchable:0,quickSearch:0,filterable:1,ext:'https://raw.githubusercontent.com/gbridge888/maotv/main/olevod-xBPQ.json'},
+{key:'csp_xBPQ_oulevod',name:'oulevod(xBPQ)',type:3,api:'csp_xBPQ',searchable:0,quickSearch:0,filterable:1,ext:'https://raw.githubusercontent.com/gbridge888/maotv/main/oulevod-xBPQ.json'},
 		
 //{"key":"csp_biubiu_fosiTV","name":"FosiTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/fositvXB.json"},
 //{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
