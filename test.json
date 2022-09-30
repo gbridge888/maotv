@@ -51,7 +51,7 @@
 {"key":"新视觉影院(XB)","name":"新视觉影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/dy6080.json"},
 //{"key":"胖子视频(XB)","name":"胖子视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/pangzitv.json"},
 //{"key":"iqtv(XB)","name":"iqtv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv.json"},
-{"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
+{"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
 {"key":"If101","name":"💿If101","type":3,"api":"csp_If101","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
 //{"key":"Olevod","name":"💿Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;7DC752B1F04075EE50FE6A691E682356"},
 //{"key":"奈飞中文(XPF)","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/naifeiorg.json"},
