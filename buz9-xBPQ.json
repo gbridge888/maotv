@@ -6,7 +6,7 @@
 "播放数组":"class=\"myui-content__list&&</ul>",
 "分类url":"https://www.buz9.com/vodshow/{cateId}-{area}----------{year}.html",
 "分类":"电影$dianying#电视剧$lianxuju#综艺$gangtaizongyi#动漫$dongman",
-"筛选":{"dianyin":[
+"筛选":{"dianying":[
       {
         "key": "area",
         "name": "地区",
