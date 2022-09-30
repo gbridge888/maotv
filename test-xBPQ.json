@@ -1,0 +1,13 @@
+{
+"免嗅":"1",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+"播放标题":"<span>&&</span>",
+"播放数组":"class=\"module-play-list&&</div>",
+"分类url":"https://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+"分类":"电影$1#电视剧$2#综艺$4#动漫$3",
+"地区": "替换[大陆$大陆>>中国大陆$中国大陆||香港$香港>>中国香港$中国香港||台湾$台湾>>中国台湾$中国台湾]",
+"年份": "2000-2022",
+"排序": "1",
+"筛选": "1"
+}
