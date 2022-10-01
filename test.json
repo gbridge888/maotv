@@ -38,7 +38,7 @@
         "其他剧"
       ]
 },
-{"key":"MBO影视(xml)","name":"MBO影视(xml)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},	
+{"key":"MBO影视(xml)","name":"MBO影视(xml)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"idolTV(XB)","name":"idolTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/idoltv.json"},		
 {"key":"艾旦影视(xml)","name":"艾旦影视(xml)","type":0,"api":"https://www.lovedan.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"蛋蛋魔法(xml)","name":"蛋蛋魔法(xml)","type":0,"api":"https://ddmf.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
