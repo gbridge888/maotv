@@ -1,10 +1,10 @@
 {
 "免嗅":"1",
-//"线路数组": "class=\"iconfont">&#xe62f&&</a>",
-//"线路标题": "<b>&&</b>",
+"线路数组": "" alt=\">&&</a>",
+"线路标题": "&nbsp;&&</a>",
 "播放标题":"html\">&&</a>",
 "播放数组":"class=\"content_playlist&&</ul>",
-"分类url":"https://www.tangrenjie.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html",
+"分类url":"https://www.ttsp.tv/vodshow/{cateId}-{area}----------{year}.html",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "地区": "1",
 "年份": "2000-2022",
