@@ -1,0 +1,19 @@
+{
+"主页url": "https://www.tangrenjie.tv",
+"请求头": "",
+"热门推荐": "1",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"免嗅":"1",
+//"线路数组": "class=\"module-tab-item tab-item&&</div>",
+//"线路标题": "<span>&&</span>",
+"播放标题":"html\">&&</a>",
+"播放数组":"class=\"content_playlist&&</ul>",
+"分类url":"https://www.tangrenjie.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"地区": "1",
+"年份": "2000-2022",
+"排序": "1",
+"筛选": "1"
+}
