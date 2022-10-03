@@ -98,6 +98,7 @@
 //{key:"csp_xBPQ_饭团影视",name:"饭团影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/fantuanhd-xBPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},			
 {key:"csp_xBPQ_宝仙HD",name:"宝仙HD(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/webdillo-xBPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},		
 {key:"csp_xBPQ_唐人街影院",name:"唐人街影院(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/tangrenjie-BPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},		
+{key:"csp_xBPQ_buz9",name:"buz9(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/buz9-BPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},		
 		
 //{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长影视","name":"厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
