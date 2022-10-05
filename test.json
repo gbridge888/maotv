@@ -71,7 +71,6 @@
 
 //XBiu (Best for searchable)
 {'key':'csp_xb_VOFLIX','name':'VOFLIX(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.voflix.com/show/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_哔滴影视','name':'哔滴影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.bdys01.com/s/all?type={cateId}&area={area}&year={year}'},
 {'key':'csp_xb_神马影院','name':'神马影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.smdyy.cc/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_28K影视','name':'28K影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://28kkys.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_大米星球','name':'大米星球(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://dami2.me/vodshow/{cateId}-{area}----------{year}.html'},
