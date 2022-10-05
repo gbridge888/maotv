@@ -70,6 +70,14 @@
 {"key":"美果TV(XB)","name":"美果TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/mgtv1.json"},
 
 //XBiu (Best for searchable)
+{'key':'csp_xb_美果TV','name':'美果TV(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.mgtv1.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_28K影视','name':'28K影视(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://28kkys.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_大米星球','name':'大米星球(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://dami2.me/vodshow/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_咖啡影院','name':'咖啡影院(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://filmcaf.com/vodshow/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_看片狂人','name':'看片狂人(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.kpkuang.de/vodshow/{cateId}-{area}----------{year}--.html'},
+{'key':'csp_xb_起飞影院','name':'起飞影院(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.qfitv.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_idolTV','name':'idolTV(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://idoltv.tv/vodshow/{cateId}----{year}.html'},
+{'key':'csp_xb_新视觉影院','name':'新视觉影院(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.dy6080.vip/vodshow/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_buz9','name':'buz9(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.buz9.com/vodshow/{cateId}-{area}----------{year}.html'},
 //{"key":"csp_xb_lgyy","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_olevod","name":"olevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevod.tv/index.php/vod/show/id/{cateId}/--------{catePg}---.html"},		
