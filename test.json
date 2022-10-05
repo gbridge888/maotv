@@ -90,8 +90,6 @@
 //{key:"csp_XYQBiu_凌云影视",name:"凌云影视(XYQ)",type:3,api:"csp_XYQBiu",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/lingyun.json"},
 		
 //XBPQ (Best for filterable)
-{key:'csp_xBPQ_美果TV',name:'美果TV(xBPQ)',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.githubusercontent.com/gbridge888/maotv/main/美果TV-xBPQ.json',jar:'https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE'},
-{key:'csp_xBPQ_idolTV',name:'idolTV(xBPQ)',type:3,api:'csp_xBPQ',searchable:1,quickSearch:1,filterable:1,ext:'https://raw.githubusercontent.com/gbridge888/maotv/main/idolTV-xBPQ.json',jar:'https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE'},
 {key:"csp_xBPQ_片吧",name:"片吧(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb-xBPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},
 {key:"csp_xBPQ_极品影视",name:"极品影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/jpys-xBPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},
 //{key:"csp_xBPQ_olevod",name:"olevod(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod-xBPQ.json",jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/xBPQ0927.jar;md5;8FD8E0F9C947F937E5B3F1E7D7D58BEE"},
