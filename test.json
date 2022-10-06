@@ -123,8 +123,8 @@
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,jar:"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;658DBDFC9DA4E946B63429A32885CCE6"},
-{"key":"555电影","name":"555电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"555电影","name":"555电影","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":0,"quickSearch":0,"filterable":1},
@@ -132,7 +132,7 @@
 //{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5848531ky0.oicp.vip/TS/token.json"},
 //{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5848531ky0.oicp.vip/TS/token.json"},
 //{"key":"zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5848531ky0.oicp.vip/TS/token.json"},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://5848531ky0.oicp.vip/TS/token.json"},
+//{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://5848531ky0.oicp.vip/TS/token.json"},
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 
 //道長
