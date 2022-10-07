@@ -157,7 +157,7 @@
 {"key":"dr_奇珍异兽","name":"🔗奇珍异兽(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=奇珍异兽","searchable":0,"quickSearch":0,"filterable":1},
 //{"key":"dr_凌云影视","name":"🔗凌云影视(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=凌云影视","searchable":0,"quickSearch":0,"filterable":1},
 //{"key":"dr_101","name":"🔗101影视(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=l0l","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"dr_360","name":"🔗360影视(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=360影视","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"dr_360","name":"🔗360影视(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=360影视","searchable":0,"quickSearch":0,"filterable":1},
 //{"key":"dr_番茄影视","name":"🔗番茄影视(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=番茄影视","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_优酷","name":"🔗优酷官采(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=优酷","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"dr_奇优影院","name":"🔗奇优影院(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=奇优影院","searchable":0,"quickSearch":0,"filterable":1},
