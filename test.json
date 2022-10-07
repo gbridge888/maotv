@@ -94,7 +94,7 @@
 {'key':'csp_xb_起飞影院','name':'起飞影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.qfitv.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_新视觉影院','name':'新视觉影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.dy6080.vip/vodshow/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_buz9','name':'buz9(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.buz9.com/vodshow/{cateId}-{area}----------{year}.html'},
-{"key":"csp_xb_lgyy","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{'key':'csp_xb_lgyy','name':'蓝光影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html'},
 {"key":"csp_xb_olevod","name":"olevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevod.tv/index.php/vod/show/id/{cateId}/--------{catePg}---.html"},		
 //{"key":"csp_xb_oulevod","name":"oulevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://oulevod.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html"},
 {"key":"csp_xb_茶杯狐","name":"茶杯狐(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cupfox.cc/search.php?searchtype=5&tid={cateId}&year={year}&area={area}"},
