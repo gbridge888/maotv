@@ -51,6 +51,8 @@
 {"key":"乐猪影视(XB)","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/jk/MaooXB/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"},
 		
 //XBiu (Best for searchable)
+{'key':'csp_xb_ys900','name':'ys900(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ys900.com/movie_bt/0_{area}_{year}_0_{cateId}'},
+{'key':'csp_xb_剧白白','name':'剧白白(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.jubaibai.me/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_鸭奈飞','name':'鸭奈飞(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://netflix.mom/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_小强迷','name':'小强迷(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://xqmi.top/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_库马伊','name':'库马伊(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.kmy5.com/type/{cateId}-{area}----------{year}.html'},
