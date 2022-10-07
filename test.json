@@ -174,7 +174,7 @@
 {"key":"dr_喵喵","name":"🔗喵喵(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=喵喵","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"dr_万能影视","name":"🔗万能影视(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=万能影视","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"dr_莫扎兔","name":"🔗莫扎兔(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=莫扎兔","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"dr_鸭奈飞","name":"🔗鸭奈飞(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=鸭奈飞","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"dr_鸭奈飞","name":"🔗鸭奈飞(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=鸭奈飞","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"dr_瓜皮TV","name":"🔗瓜皮TV(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=瓜皮TV","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"dr_VIP影院","name":"🔗VIP影院(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=vip影院","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"dr_蓝光影院","name":"🔗蓝光影院(DR)","type":1,"api":"http://43.139.29.179:5705/vod?rule=蓝光影院","searchable":0,"quickSearch":0,"filterable":0},
