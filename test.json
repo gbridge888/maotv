@@ -48,6 +48,7 @@
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/XC0823w.jar;md5;658DBDFC9DA4E946B63429A32885CCE6"},
 {"key":"idolTV(XB)","name":"idolTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/idoltv.json"},	
 {"key":"美果TV(XB)","name":"美果TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/mgtv1.json"},
+{"key":"乐猪影视(XB)","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/jk/MaooXB/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"},
 		
 //XBiu (Best for searchable)
 {'key':'csp_xb_鸭奈飞','name':'鸭奈飞(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://netflix.mom/vodshow/{cateId}-{area}----------{year}.html'},
