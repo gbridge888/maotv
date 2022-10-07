@@ -71,6 +71,18 @@
 //{"key":"Auete(XB)","name":"Auete(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/auete.json"},
 		
 //XBiu (Best for searchable)
+{'key':'csp_xb_小强迷','name':'小强迷(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://xqmi.top/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_库马伊','name':'库马伊(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.kmy5.com/type/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_追剧喵','name':'追剧喵(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://zjmiao.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}/'},
+{'key':'csp_xb_007影视','name':'007影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.007ts.me/show/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_影视工厂','name':'影视工厂(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ysgc.cc/vodshow/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_瓜皮TV','name':'瓜皮TV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.guapi1.com/vodshow/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_万能影视','name':'万能影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://wnvod.net/vodshow/{cateId}---{area}--------{year}.html'},
+{'key':'csp_xb_Libvio','name':'Libvio(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://libvio.fun/show/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_皮皮泡','name':'皮皮泡(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.pipipao.com/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_1080P','name':'1080P(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://1080p.tv/vodshow/{cateId}-{area}----------{year}/'},
+{'key':'csp_xb_番茄影视','name':'番茄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.tjomet.com/vodshow/{cateId}-{area}----------.html'},
+{'key':'csp_xb_101影视','name':'101影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.l0l.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_555电影','name':'555电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.555yy1.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_VOFLIX','name':'VOFLIX(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.voflix.com/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_神马影院','name':'神马影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.smdyy.cc/show/{cateId}-{area}----------{year}.html'},
