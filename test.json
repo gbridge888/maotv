@@ -72,9 +72,10 @@
 {key:"csp_xBPQ_天天视频",name:"天天视频(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/tangrenjie-xBPQ.json"},		
 {key:"csp_xBPQ_小宝影院",name:"小宝影院(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xiaoheimi-xBPQ.json"},		
 {key:"csp_xBPQ_APP影院",name:"APP影院(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/app-xBPQ.json"},			
-{key:"csp_xBPQ_干饭影视",name:"干饭影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/gfysys1-xBPQ.json"},		
-{key:"csp_xBPQ_宝仙HD",name:"宝仙HD(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/webdillo-xBPQ.json"},		
-{key:"csp_xBPQ_buz9",name:"buz9(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/buz9-BPQ.json"},
+{key:"csp_xBPQ_干饭影视",name:"干饭影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/gfysys1-xBPQ.json"},		
+{key:"csp_xBPQ_宝仙HD",name:"宝仙HD(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/webdillo-xBPQ.json"},		
+{key:"csp_xBPQ_buz9",name:"buz9(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/buz9-BPQ.json"},
+{key:"csp_xBPQ_饭团影视",name:"饭团影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/TVbox-interface/main/%E5%8A%B3%E6%80%9D/%E9%A5%AD%E5%9B%A2.json"},
 		
 //XBiu (Best for searchable)
 {'key':'csp_xb_789ba','name':'789ba(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.789ba.com/show/{cateId}-----------{year}.html'},
