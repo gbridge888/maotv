@@ -55,7 +55,7 @@
 {"key":"美果TV(XB)","name":"美果TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/mgtv1.json"},
 {"key":"乐猪影视(XB)","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/jk/MaooXB/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"},
 {"key":"骚火电影(XB)","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/jk/MaooXB/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
-{"key":"稀饭影视(XB)","name":"稀饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/xifanys.json"},
+//{"key":"稀饭影视(XB)","name":"稀饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/xifanys.json"},
 		
 //XYQ (Too complicated)
 //{key:"csp_XYQBiu_片吧",name:"片吧(XYQ)",type:3,api:"csp_XYQBiu",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb.json"},
@@ -83,7 +83,8 @@
 {key:"csp_xBPQ_宝仙HD",name:"宝仙HD(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/webdillo-xBPQ.json"},		
 {key:"csp_xBPQ_buz9",name:"buz9(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/buz9-BPQ.json"},
 {key:"csp_xBPQ_饭团影视",name:"饭团影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/TVbox-interface/main/%E5%8A%B3%E6%80%9D/%E9%A5%AD%E5%9B%A2.json"},
-
+{key:"csp_xBPQ_稀饭影视",name:"稀饭影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xifanys-xBPQ.json"},
+		
 {"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -100,7 +101,7 @@
 {'key':'csp_xb_真不卡影院','name':'真不卡影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.zbkk.net/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_Cokemv','name':'Cokemv(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://cokemv.me/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_789ba','name':'789ba(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.789ba.com/show/{cateId}-----------{year}.html'},
- {'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'},
+{'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_Chok8电影','name':'Chok8电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.chok8.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_NikeTV','name':'NikeTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ajeee.com/show/{cateId}/area/{area}/year/{year}.html'},
