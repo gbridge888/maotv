@@ -45,7 +45,7 @@
 	"api":"https://ikunzyapi.com/api.php/provide/vod",
 	"searchable":1,
 	"quickSearch":1,
-	"filterable":1
+	"filterable":1,
         "categories": [
         "韩国剧",
         "日韩综艺",
