@@ -114,7 +114,7 @@
 {'key':'csp_xb_创艺影视','name':'创艺影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.30dian.cn/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_利丽娅电影','name':'利丽娅电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.llyady.cc/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_炫猫影视','name':'炫猫影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.xuanmao520.com/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
-{'key':'csp_xb_FreeOK','name':'FreeOK(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/'},
+//{'key':'csp_xb_FreeOK','name':'FreeOK(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/'},
 {'key':'csp_xb_RP影视','name':'RP影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://mac.rp123.top/vodshow/{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_巨人影院','name':'巨人影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.jurenm.com/show/{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_爱酷影视','name':'爱酷影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.zhanlangbu.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
