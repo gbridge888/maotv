@@ -123,7 +123,7 @@
 {'key':'csp_xb_看戏影视','name':'看戏影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kanxi123.net/tags/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_花猫TV','name':'花猫TV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.huamaotv.com/list/{cateId}_1___0_{year}__{area}_.html'},
 {'key':'csp_xb_真不卡影院','name':'真不卡影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.zbkk.net/vodshow/{cateId}-{area}----------{year}.html'},
-//{'key':'csp_xb_Cokemv','name':'Cokemv(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://cokemv.me/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_核桃','name':'核桃(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://kkkk.plus/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_789ba','name':'789ba(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.789ba.com/show/{cateId}-----------{year}.html'},
 {'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
