@@ -68,6 +68,6 @@
   "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
   "bfbiaotiqian": ">", //播放剧集标题前关键词
   "bfbiaotihou": "<", //状播放剧集标题后关键词
-  "bflianjieqian": "href=\"", //播放剧集链接前关键词
-  "bflianjiehou": "\"" //播放剧集链接后关键词
+  "bflianjieqian": "href='", //播放剧集链接前关键词
+  "bflianjiehou": "'" //播放剧集链接后关键词
 }
