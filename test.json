@@ -130,7 +130,7 @@
 {'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_Chok8电影','name':'Chok8电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.chok8.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_NikeTV','name':'NikeTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ajeee.com/show/{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_唐人街影院','name':'唐人街影院(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.tangrenjie.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+//{'key':'csp_xb_唐人街影院','name':'唐人街影院(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.tangrenjie.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_F7好看剧影院','name':'F7好看剧影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.f7hkj.cc/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_4kan电影网','name':'4kan电影网(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.4kan.cc/vodshow/{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_348电影网','name':'348电影网(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.348z.com/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
