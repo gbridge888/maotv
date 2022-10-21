@@ -68,7 +68,7 @@
 {'key':'酷点资源(vod)','name':'酷点资源(vod)','type':1,'api':'https://kudian10.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'CK资源(vod)','name':'CK资源(vod)','type':1,'api':'https://ckzy.me/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'天堂官方资源(vod)','name':'天堂官方资源(vod)','type':1,'api':'http://vipmv.cc/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'金鹰资源(vod)','name':'金鹰资源(vod)','type':1,'api':'https://jyzyapi.com/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+//{'key':'金鹰资源(vod)','name':'金鹰资源(vod)','type':1,'api':'https://jyzyapi.com/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 		
 //XML
 //{'key':'闪电资源(xml)','name':'闪电资源(xml)','type':0,'api':'https://sdzyapi.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
