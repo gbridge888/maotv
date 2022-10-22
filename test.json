@@ -99,6 +99,7 @@
 {"key":"olevod(XB)","name":"olevod(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod.json"},
 {"key":"Cokemv(XB)","name":"Cokemv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/cokemv.json"},
 {"key":"卡通站(XB)","name":"卡通站(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ktkkt2.json"},
+{"key":"555(XB)","name":"555(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/555.json"},
 		
 //XYQ (Too complicated)
 //{key:"csp_XYQBiu_片吧",name:"片吧(XYQ)",type:3,api:"csp_XYQBiu",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb.json"},
@@ -176,7 +177,7 @@
 {'key':'csp_xb_1080P','name':'1080P(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://1080p.tv/vodshow/{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_番茄影视','name':'番茄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.tjomet.com/vodshow/{cateId}-{area}----------.html'},
 {'key':'csp_xb_101影视','name':'101影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.l0l.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
-{'key':'csp_xb_555电影','name':'555电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.555yy2.com/vodshow/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_555电影','name':'555电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.555yy2.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_VOFLIX','name':'VOFLIX(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.voflix.com/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_神马影院','name':'神马影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.smdyy.cc/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_28K影视','name':'28K影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://28kkys.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
