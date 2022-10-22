@@ -185,7 +185,7 @@
 {'key':'csp_xb_看片狂人','name':'看片狂人(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kpkuang.de/vodshow/{cateId}-{area}----------{year}--.html'},
 {'key':'csp_xb_起飞影院','name':'起飞影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.qfitv.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_新视觉影院','name':'新视觉影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.dy6080.vip/vodshow/{cateId}-{area}----------{year}.html'},
-//{"key":"csp_xb_olevod","name":"olevod(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevod.tv/index.php/vod/show/id/{cateId}/--------{catePg}---.html"},		
+{"key":"csp_xb_疯狗电影","name":"疯狗电影(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"},		
 {"key":"csp_xb_茶杯狐","name":"茶杯狐(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cupfox.cc/search.php?searchtype=5&tid={cateId}&year={year}&area={area}"},
 
 {"key":"空格4","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
