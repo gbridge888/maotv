@@ -178,7 +178,7 @@
 {'key':'csp_xb_1080P','name':'1080P(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://1080p.tv/vodshow/{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_番茄影视','name':'番茄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.tjomet.com/vodshow/{cateId}-{area}----------.html'},
 {'key':'csp_xb_101影视','name':'101影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.l0l.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
-{'key':'csp_xb_藍光影院','name':'藍光影院(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://www.lgyy.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html'},
+{'key':'csp_xb_藍光影院','name':'藍光影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.lgyy.cc/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html'},
 {'key':'csp_xb_VOFLIX','name':'VOFLIX(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.voflix.com/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_神马影院','name':'神马影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.smdyy.cc/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_28K影视','name':'28K影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://28kkys.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
