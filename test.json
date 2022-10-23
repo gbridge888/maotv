@@ -126,7 +126,7 @@
 {key:"csp_xBPQ_干饭影视",name:"干饭影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/gfysys1-xBPQ.json"},		
 {key:"csp_xBPQ_宝仙HD",name:"宝仙HD(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/webdillo-xBPQ.json"},		
 {key:"csp_xBPQ_buz9",name:"buz9(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/buz9-BPQ.json"},
-//{key:"csp_xBPQ_饭团影视",name:"饭团影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/TVbox-interface/main/%E5%8A%B3%E6%80%9D/%E9%A5%AD%E5%9B%A2.json"},
+{key:"csp_xBPQ_不休影院",name:"不休影院(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/bxiutv-BPQ.json"},
 //{key:"csp_xBPQ_稀饭影视",name:"稀饭影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xifanys-xBPQ.json"},
 		
 {"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
@@ -149,7 +149,7 @@
 {'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_Chok8电影','name':'Chok8电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.chok8.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_NikeTV','name':'NikeTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ajeee.com/show/{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_不休影院','name':'不休影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.bxiutv.com/btop/{cateId}/area/{area}/year/{year}.html'},
+//{'key':'csp_xb_不休影院','name':'不休影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.bxiutv.com/btop/{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_F7好看剧影院','name':'F7好看剧影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.f7hkj.cc/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_4kan电影网','name':'4kan电影网(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.4kan.cc/vodshow/{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_348电影网','name':'348电影网(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.348z.com/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
