@@ -1,5 +1,5 @@
 {
-	"spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1022.jar;md5;12D23EA29A40C066D08994E1C6D5E44B",
+	"spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1022.jar;md5;8711ED8120DBC6895275D900308BF60C",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
 		}]
