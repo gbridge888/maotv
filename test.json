@@ -18,8 +18,8 @@
       "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv4.json"
 },
 {
-      "key": "if101(xml)",
-      "name": "if101(xml)",
+      "key": "海外看(xml)",
+      "name": "海外看(xml)",
       "type": 0,
       "api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
