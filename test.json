@@ -146,7 +146,7 @@
 {"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBiu (Best for searchable)
-{'key':'csp_xb_蘭花影視','name':'蘭光影視(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.lanhua.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+{'key':'csp_xb_兰花影院','name':'兰花影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.lanhua.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_XiguTV','name':'XiguTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.xigutv.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html'},
 {'key':'csp_xb_MXONE','name':'MXONE(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.myys6.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_创艺影视','name':'创艺影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.30dian.cn/vodshow/{cateId}-{area}----------{year}.html'},
