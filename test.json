@@ -17,27 +17,23 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv4.json"
 },
+
+{"key":"空格5","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		
+//DRPY
 {
-      "key": "海外看(xml)",
-      "name": "海外看(xml)",
-      "type": 0,
-      "api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩剧",
-        "韩国综艺",
-        "日剧",
-        "国产剧",
-        "欧美剧",
-        "港剧",
-        "台剧",
-        "新马剧",
-        "泰剧",
-        "其他剧"
-      ]
+       "key" : "drpy_js_独播库",
+       "name" : "独播库[DRPY]",
+       "type" : 3,
+       "api" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/drpy.js",
+       "ext" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
 },
+
+{"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+		
+//VOD
 {
 	"key":"iKun资源(vod)",
 	"name":"iKun资源(vod)",
@@ -60,27 +56,42 @@
 	"记录片"
       ]
 },
-//DRPY
-{
-       "key" : "drpy_js_独播库",
-       "name" : "独播库[DRPY]",
-       "type" : 3,
-       "api" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/drpy.js",
-       "ext" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
-},
-		
-//VOD
-{'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
+
 {'key':'多多资源(vod)','name':'多多资源(vod)','type':1,'api':'https://www.ddzyz1.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':0,'quickSearch':0,'filterable':1},
 {'key':'U酷资源(vod)','name':'U酷资源(vod)','type':1,'api':'https://api.ukuapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'酷点资源(vod)','name':'酷点资源(vod)','type':1,'api':'https://kudian10.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'CK资源(vod)','name':'CK资源(vod)','type':1,'api':'https://ckzy.me/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'天堂官方资源(vod)','name':'天堂官方资源(vod)','type':1,'api':'http://vipmv.cc/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'金鹰资源(vod)','name':'金鹰资源(vod)','type':1,'api':'https://jyzyapi.com/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+	
+{"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //XML
 //{'key':'老鸭资源(xml)','name':'老鸭资源(xml)','type':0,'api':'https://api.apilyzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+{
+      "key": "海外看(xml)",
+      "name": "海外看(xml)",
+      "type": 0,
+      "api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩剧",
+        "韩国综艺",
+        "日剧",
+        "国产剧",
+        "欧美剧",
+        "港剧",
+        "台剧",
+        "新马剧",
+        "泰剧",
+        "其他剧"
+      ]
+},
+{'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':0,'quickSearch':0,'filterable':1},
+{'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'新浪资源(xml)','name':'新浪资源(xml)','type':0,'api':'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'快车(xml)','name':'快车(xml)','type':0,'api':'https://caiji.kczyapi.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'极客资源(xml)','name':'极客资源(xml)','type':0,'api':'https://jkzyz.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
