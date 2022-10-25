@@ -144,7 +144,7 @@
 {"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBiu (Best for searchable)
-//{'key':'csp_xb_独播库','name':'独播库(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.duboku.tv/vodshow/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_独播库','name':'独播库(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html'},
 {'key':'csp_xb_XiguTV','name':'XiguTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.xigutv.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html'},
 {'key':'csp_xb_MXONE','name':'MXONE(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.myys6.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_创艺影视','name':'创艺影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.30dian.cn/vodshow/{cateId}-{area}----------{year}.html'},
