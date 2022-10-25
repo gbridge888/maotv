@@ -1,12 +1,12 @@
 {
-    "spider" : "../1022.jar",
+    "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1022.jar;md5;8711ED8120DBC6895275D900308BF60C",
     "sites" : [
             {
             "key" : "drpy_js_独播库",
             "name" : "独播库[DRPY]",
             "type" : 3,
-            "api" : "./drpy.js",
-            "ext" : "./js/独播库.js"
+            "api" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/drpy.js",
+            "ext" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
         },
         {'key':'csp_xb_独播库','name':'独播库(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html'},
             {
