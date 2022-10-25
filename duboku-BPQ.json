@@ -1,5 +1,5 @@
 {
-"主页url": "https://www.duboku.tv",
+"主页url": "https://ca.duboku.fun",
 //"请求头": "",
 //"热门推荐": "1",
 //"起始页": "1",
@@ -16,7 +16,7 @@
 "播放标题":"html\">&&</a>",
 "播放数组":"class=\"myui-content__list&&</ul>",
 
-"分类url":"https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+"分类url":"https://ca.duboku.fun/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 "分类":"陆剧$13#日韩剧$15#短剧$21#英美剧$16#台泰剧$14#港剧$20#综艺$3#动漫$4",
 
 "地区": "1",
