@@ -156,6 +156,7 @@
 {"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBiu (Best for searchable)
+{'key':'csp_xb_电影先生','name':'电影先生(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://dyxs20.com/pianku-{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_兰花影院','name':'兰花影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.lanhua.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_XiguTV','name':'XiguTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.xigutv.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html'},
 {'key':'csp_xb_MXONE','name':'MXONE(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.myys6.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
