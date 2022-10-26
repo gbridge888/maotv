@@ -6,7 +6,6 @@
 var rule = Object.assign(muban.首图,{
 	title:'独播库',
 	host:'https://www.duboku.tv',
-        parse_json:0
 	class_parse:'.nav-list li;a&&Text;a&&href;.*/(.*?).html',
 	lazy:'js:let html=fetch(input, fetch_params);var player=JSON.parse(html.match(/var player_(.*?)=(.*?)</)[2]);var jsurl=player.url;input=jsurl',
 	搜索:'#searchList&&li;h4&&Text;a&&data-original;.detail&&p,2&&Text;a&&href;.detail&&p,3&&Text',
