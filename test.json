@@ -309,10 +309,16 @@
             "type" : 2,
             "url" : "Sequence"
         },
+	    {
+            "name":"🌐Ⓤ",
+            "type":0,
+            "url":"",
+            "header":{"User-Agent":"Mozilla/5.0"}
+        },
             {
-            "name" : "测试",
+            "name" : "秋意",
             "type" : 1,
-            "url" : "https://api.8a5.cn/10.php?url="
+            "url" : "https://api.8a5.cn/parse/player.php?url="
         },
             {
             "name" : "江湖1080",
