@@ -6,10 +6,20 @@
 	"list":{
 		"url": "http://8hysw.com/frim/{cateId}.html"
 	},
+	//(选填) 分类名
+	"cateManual": {
+		"电影": "1",
+		"电视剧": "2",
+		"综艺": "3",
+		"动漫": "4",
+		"日韩剧": "16",
+		"港台剧": "14",
+		"欧美剧": "15"
+	},
 	"playlist":{
 		
 		//(选填) 播放url的字段规则，这里需要回溯到包含单个播放源全部play_url的html节点
-		"vod_play_url": ["href='/play/", "'",-6,0,2]
+		"vod_play_url": ["href='/play/", "'",0,0,3]
 	},
 	"filter": {
       "1": [
