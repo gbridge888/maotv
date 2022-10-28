@@ -19,7 +19,7 @@
 	"playlist":{
 		
 		//(选填) 播放url的字段规则，这里需要回溯到包含单个播放源全部play_url的html节点
-		"vod_play_url": ["href='/play/", "'",-6,0,1]
+		"vod_play_url": ["href='/play/", "'",0,0,3]
 	},
 	"filter": {
       "1": [
