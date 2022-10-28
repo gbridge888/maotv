@@ -27,7 +27,14 @@
        "name" : "独播库[DRPY]",
        "type" : 3,
        "api" : "https://raw.githubusercontent.com/gbridge888/test/main/JS/lib/drpy.min.js",
-       "ext" : "https://raw.githubusercontent.com/gbridge888/maotv/main/JS/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
+       "ext" : "https://raw.githubusercontent.com/gbridge888/test/main/JS/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
+},
+{
+        "key" : "drpy_js_爱迪影视",
+        "name" : "爱迪影视[DRPY]",
+        "type" : 3,
+        "api" : "https://raw.githubusercontent.com/gbridge888/test/main/JS/lib/drpy.min.js",
+        "ext" : "https://raw.githubusercontent.com/gbridge888/test/main/JS/js/爱迪影视.js"
 },
 
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
@@ -163,7 +170,7 @@
 {'key':'csp_xb_海兔','name':'海兔(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.haitu.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_创艺影视','name':'创艺影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.30dian.cn/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_利丽娅电影','name':'利丽娅电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.llyady.cc/vodshow/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_愛迪','name':'愛迪(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://aidi.tv/show/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_愛迪','name':'愛迪(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://aidi.tv/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_考拉资源','name':'考拉资源(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://ikaola.tv/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_RP影视','name':'RP影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://mac.rp123.top/vodshow/{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_巨人影院','name':'巨人影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.jurenm.com/show/{cateId}/area/{area}/year/{year}.html'},
