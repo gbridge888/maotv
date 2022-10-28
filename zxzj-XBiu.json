@@ -1,7 +1,7 @@
 {
 	"homeUrl": "https://www.zxzj.vip/",
 	"list":{
-		"url": "https://zxzj.vip/vodshow/{cateId}-{area}----{catePg}------{year}.html"
+		"url": "https://zxzj.vip/vodshow/{cateId}-{area}----------{year}.html"
 	},	
 	"filter": {
       "1": [
