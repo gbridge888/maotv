@@ -4,13 +4,13 @@
 		"User-Agent":"Mozilla/5.0"
 	},
 	"list":{
-		"url": "https://www.hdmoli.com/mlist/{cateId}.html"
+		"url": "https://www.hdmoli.com/mlist/index{cateId}.html"
 	},
 	//(选填) 分类名
 	"cateManual": {
-		"电影": "index1",
-		"电视剧": "index2",
-		"动漫": "index41"
+		"电影": "1",
+		"电视剧": "2",
+		"动漫": "41"
 	},
 //	"playlist":{
 		
@@ -18,7 +18,7 @@
 //		"vod_play_url": ["href='/play/","'",-6,0,3]
 //	},
 	"filter": {
-      "index1": [
+      "1": [
         {
           "key": "area",
           "name": "地区",
@@ -67,7 +67,7 @@
           ]
         }
       ],
-      "index2": [
+      "2": [
         {
           "key": "area",
           "name": "地区",
@@ -116,7 +116,7 @@
           ]
         }
       ],
-      "index41": [
+      "41": [
         {
           "key": "area",
           "name": "地区",
