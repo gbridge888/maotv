@@ -4,7 +4,7 @@
 		"User-Agent":"Mozilla/5.0"
 	},
 	"list":{
-		"url": "https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"
+		"url": "https://www.hdmoli.com/mlist/{cateId}.html"
 	},
 	//(选填) 分类名
 	"cateManual": {
