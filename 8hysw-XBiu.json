@@ -1,5 +1,8 @@
 {
 	"homeUrl": "http://8hysw.com",
+	"header":{
+		"User-Agent":"Mozilla/5.0"
+	},
 	"list":{
 		"url": "http://8hysw.com/frim/{cateId}.html"
 	},	
