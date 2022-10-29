@@ -4,12 +4,13 @@
 		"User-Agent":"Mozilla/5.0"
 	},
 	"list":{
-		"url": "https://www.hdmoli.com/mlist/index{cateId}.html"
+		"url": "https://www.hdmoli.com/mlist/{cateId}.html"
 	},
 	//(选填) 分类名
 	"cateManual": {
-		"电影": "1",
-		"电视剧": "2",
-		"动漫": "41"
+		"电影": "index1",
+		"电视剧": "index2",
+		"韩剧": "index16",
+		"动漫": "index41"
 	}
 }
