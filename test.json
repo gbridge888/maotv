@@ -205,7 +205,7 @@
 {'key':'csp_xb_人人影视','name':'人人影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.rr520.cc/show/{cateId}-----------{year}.html'},
 {'key':'csp_xb_大师兄影视','name':'大师兄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://dsxys.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_天涯电影网','name':'天涯电影网(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.tianyays.com/vodshow/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_奈落影视','name':'奈落影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://newfii.com/vodshow/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_奈落影视','name':'奈落影视(XBiu)','type':3,'api':'csp_XBiu','searchable':0,'quickSearch':0,'filterable':1,'ext':'https://newfii.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_剧白白','name':'剧白白(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.jubaibai.me/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_鸭奈飞','name':'鸭奈飞(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://netflix.mom/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_小强迷','name':'小强迷(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://xqmi.top/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
