@@ -168,7 +168,7 @@
 //XBiu (Best for searchable)
 {'key':'csp_xb_热播库','name':'热播库(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html'},
 {'key':'csp_xb_花猫TV','name':'花猫TV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.huamaotv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html'},
-//{'key':'csp_xb_HDIK','name':'HDIK(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://hdik.xyz/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html'},
+{'key':'csp_xb_iqtv','name':'iqtv(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://iqtv.vip/list/id-{cateId}-area-{area}-by--page--year-{year}.html'},
 //{'key':'csp_xb_纽约影院','name':'纽约影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.nycvod.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_电影先生','name':'电影先生(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://dyxs20.com/pianku-{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_兰花影院','name':'兰花影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.lanhua.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
