@@ -1,0 +1,22 @@
+{
+"站名":"追剧达人",
+"主页url":"https://zjdr666.com",
+  
+"免嗅":"1",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+  
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+
+"播放数组":"class=\"module-play-list-content&&</div>",
+"播放标题":"<span>&&</span>",
+//"播放链接":"href=\"&&\"",
+
+"分类url":"https://zjdr666.com/vodshow/area/{area}/id/{cateId}/year/{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"地区": "1",
+"年份": "2000-2022",
+"排序": "1",
+"筛选": "1"
+}
