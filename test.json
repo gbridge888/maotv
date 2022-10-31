@@ -8,16 +8,16 @@
 	"sites": [
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"T4(2)","name":"T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
-{
-      "key": "iqtv(XPF)",
-      "name": "iqtv(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv4.json"
-},
+//{
+//      "key": "iqtv(XPF)",
+//      "name": "iqtv(XPF)",
+//      "type": 3,
+//      "api": "csp_XPathMacFilter",
+//      "searchable": 1,
+//     "quickSearch": 1,
+//      "filterable": 1,
+//      "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv4.json"
+//},
 
 {"key":"空格5","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
@@ -169,7 +169,7 @@
 //XBiu (Best for searchable)
 {'key':'csp_xb_热播库','name':'热播库(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html'},
 {'key':'csp_xb_花猫TV','name':'花猫TV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.huamaotv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html'},
-{'key':'csp_xb_iqtv','name':'iqtv(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-XBiu.json'},
+//{'key':'csp_xb_iqtv','name':'iqtv(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-XBiu.json'},
 //{'key':'csp_xb_纽约影院','name':'纽约影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.nycvod.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_电影先生','name':'电影先生(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://dyxs20.com/pianku-{cateId}-{area}----------{year}/'},
 {'key':'csp_xb_兰花影院','name':'兰花影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.lanhua.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
