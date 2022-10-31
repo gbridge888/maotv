@@ -7,8 +7,8 @@
 "过滤词":"=http#.jpg#.png#.ico#.gif#.js",
 
 "数组": "class=\"module-item-pic&&</div>",
-//"线路数组": "class=\"module-tab-item tab-item&&</div>",
-//"线路标题": "<span>>&&</span>",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
 
 "播放数组":"class=\"module-blocklist\"&&</div>",
 "播放标题":"<span>&&</span>",
