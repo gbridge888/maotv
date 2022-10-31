@@ -7,6 +7,9 @@
 		"url": "https://iqtv.vip/list/id-{cateId}-area-{area}-by--page--year-{year}.html",
                 "vod_pic":["data-original=\"", "\""]
 	},
+        "detail":{
+                "vod_pic": ["<img class=\"lazyload\" data-original=\"","\""]
+        },
 	//(选填) 分类名
 	"cateManual": {
 		"電影": "1",
