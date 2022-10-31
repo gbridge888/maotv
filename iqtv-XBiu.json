@@ -4,7 +4,8 @@
 		"User-Agent":"Mozilla/5.0"
 	},
 	"list":{
-		"url": "https://iqtv.vip/list/id-{cateId}-area-{area}-by--page--year-{year}.html"
+		"url": "https://iqtv.vip/list/id-{cateId}-area-{area}-by--page--year-{year}.html",
+                "vod_pic":["data-original=\"", "\""]
 	},
 	//(选填) 分类名
 	"cateManual": {
