@@ -9,39 +9,9 @@
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"T4(2)","name":"T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
 
-//VOD
-{
-	"key":"iKun资源(vod)",
-	"name":"iKun资源(vod)",
-	"type":1,
-	"api":"https://ikunzyapi.com/api.php/provide/vod",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-        "categories": [
-        "韩国剧",
-        "日韩综艺",
-	"日本剧",
-	"香港剧",
-        "台湾剧",
-	"欧美剧",
-        "国产剧",
-	"泰国剧",
-        "海外剧",
-        "港台综艺",
-	"记录片"
-      ]
-},
 
-{'key':'多多资源(vod)','name':'多多资源(vod)','type':1,'api':'https://www.ddzyz1.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'U酷资源(vod)','name':'U酷资源(vod)','type':1,'api':'https://api.ukuapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'酷点资源(vod)','name':'酷点资源(vod)','type':1,'api':'https://kudian10.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-//{'key':'CK资源(vod)','name':'CK资源(vod)','type':1,'api':'https://ckzy.me/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'天堂官方资源(vod)','name':'天堂官方资源(vod)','type':1,'api':'http://vipmv.cc/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
-//{'key':'金鹰资源(vod)','name':'金鹰资源(vod)','type':1,'api':'https://jyzyapi.com/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
-	
-{"key":"空格7","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"空格7","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+//{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //XML
 //{'key':'老鸭资源(xml)','name':'老鸭资源(xml)','type':0,'api':'https://api.apilyzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
@@ -84,8 +54,42 @@
 {"key":"冲TMTV(xml)","name":"冲TMTV(xml)","type":0,"api":"https://chongtmtv.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1},
 
-//{"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-//{"key":"xbpq","name":"------以下为xBPQ资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+
+//VOD
+{
+	"key":"iKun资源(vod)",
+	"name":"iKun资源(vod)",
+	"type":1,
+	"api":"https://ikunzyapi.com/api.php/provide/vod",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+        "categories": [
+        "韩国剧",
+        "日韩综艺",
+	"日本剧",
+	"香港剧",
+        "台湾剧",
+	"欧美剧",
+        "国产剧",
+	"泰国剧",
+        "海外剧",
+        "港台综艺",
+	"记录片"
+      ]
+},
+
+{'key':'多多资源(vod)','name':'多多资源(vod)','type':1,'api':'https://www.ddzyz1.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'U酷资源(vod)','name':'U酷资源(vod)','type':1,'api':'https://api.ukuapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'酷点资源(vod)','name':'酷点资源(vod)','type':1,'api':'https://kudian10.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
+//{'key':'CK资源(vod)','name':'CK资源(vod)','type':1,'api':'https://ckzy.me/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'天堂官方资源(vod)','name':'天堂官方资源(vod)','type':1,'api':'http://vipmv.cc/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
+//{'key':'金鹰资源(vod)','name':'金鹰资源(vod)','type':1,'api':'https://jyzyapi.com/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+
+{"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+{"key":"xbpq","name":"------以下为xBPQ资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBPQ (Best for filterable)
 {key:"csp_xBPQ_iqtv",name:"iqtv(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-BPQ.json"},
@@ -163,9 +167,6 @@
 //{"key":"AliPS","name":"盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://刚刚.live/json/alitoken.json"},
 {"key":"Zxzj","name":"在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 {"key":"push_agent","name":"PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://刚刚.live/json/alitoken.json"},
-
-{"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 {"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
