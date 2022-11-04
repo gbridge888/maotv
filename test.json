@@ -162,7 +162,7 @@
 {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
 //{"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Gitcafe","searchable":"0","quickSearch":"0","filterable":"1","ext":"http://刚刚.live/json/alitoken.json"},
 //{"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
-{"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
+//{"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
 {"key":"Xiaoh","name":"Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 //{"key":"If101","name":"101","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"13441dbe4dee12dafffb93c56ec3e9e4"},
 //{"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://刚刚.live/json/alitoken.json"},
