@@ -14,7 +14,7 @@
 //{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //XML
-//{'key':'老鸭资源(xml)','name':'老鸭资源(xml)','type':0,'api':'https://api.apilyzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'紅牛资源(xml)','name':'紅牛资源(xml)','type':0,'api':'https://www.hongniuzy2.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 {
       "key": "海外看(xml)",
       "name": "海外看(xml)",
