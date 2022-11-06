@@ -14,7 +14,7 @@
 //{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //XML
-{'key':'紅牛资源(xml)','name':'紅牛资源(xml)','type':0,'api':'https://www.hongniuzy2.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
+//{'key':'紅牛资源(xml)','name':'紅牛资源(xml)','type':0,'api':'https://www.hongniuzy2.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 {
       "key": "海外看(xml)",
       "name": "海外看(xml)",
@@ -93,7 +93,7 @@
 
 //XBPQ (Best for filterable)
 {key:"csp_xBPQ_iqtv",name:"iqtv(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-BPQ.json"},
-{key:"csp_xBPQ_鸭奈飞",name:"鸭索奈飞(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/yanetflix-BPQ.json"},
+{key:"csp_xBPQ_鸭奈飞",name:"鸭奈飞(xBPQ)",type:3,api:"csp_xBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/yanetflix-BPQ.json"},
 {key:"csp_xBPQ_oulevod",name:"oulevod(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/oulevod-xBPQ.json"},
 {key:"csp_xBPQ_MBO影视",name:"MBO影视(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/mbomovie-xBPQ.json"},
 {key:"csp_xBPQ_纽约影院",name:"纽约影院(xBPQ)",type:3,api:"csp_xBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/nycvod-BPQ.json"},
