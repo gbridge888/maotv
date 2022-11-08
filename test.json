@@ -2,9 +2,16 @@
         "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1107.jar;md5;41F35234ACA02B1295D0F35DF154E8B4",
         //"spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1106.jar;md5;BAAC029984EFF135C91DE2BB1F5D5937",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
-		}]
-	}],
+        //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
+	//	}]
+	//}],
+        "lives": [
+          {
+          "name": "直播",
+          "type": 0,
+          "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+          }
+        ],
 	"sites": [
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://5848531ky0.oicp.vip/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"T4(2)","name":"T4","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
