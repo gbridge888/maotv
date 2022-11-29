@@ -88,7 +88,7 @@
       ]
 },
 
-{'key':'多多资源(vod)','name':'多多资源(vod)','type':1,'api':'https://www.ddzyz1.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
+//{'key':'多多资源(vod)','name':'多多资源(vod)','type':1,'api':'https://www.ddzyz1.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'U酷资源(vod)','name':'U酷资源(vod)','type':1,'api':'https://api.ukuapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'酷点资源(vod)','name':'酷点资源(vod)','type':1,'api':'https://kudian10.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'天空资源(vod)','name':'天空资源(vod)','type':1,'api':'https://api.tiankongapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
