@@ -218,7 +218,7 @@
 {'key':'csp_xb_007影视','name':'007影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.007ts.me/show/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_瓜皮TV','name':'瓜皮TV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.guapi1.com/vodshow/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_万能影视','name':'万能影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://wnvod.net/vodshow/{cateId}---{area}--------{year}.html'},
-{'key':'csp_xb_Libvio','name':'Libvio(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://libvio.com/show/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_Libvio','name':'Libvio(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://libvio.com/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_皮皮泡','name':'皮皮泡(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.pipipao.com/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_1080P','name':'1080P(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://1080p.tv/vodshow/{cateId}-{area}----------{year}/'},
 //{'key':'csp_xb_番茄影视','name':'番茄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.tjomet.com/vodshow/{cateId}-{area}----------.html'},
