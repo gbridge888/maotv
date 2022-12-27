@@ -5,7 +5,7 @@
 "播放标题":"html\">&&</a>",
 "播放数组":"class=\"myui-content__list&&</ul>",
 "分类url":"https://xiaoheimi.net/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
+//"分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21",
 "地区": "",
 "年份": "",
 "排序": "",
