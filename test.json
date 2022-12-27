@@ -59,7 +59,7 @@
 //{"key":"HOHO(xml)","name":"HOHO(xml)","type":0,"api":"https://www.hoho.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"冲TMTV(xml)","name":"冲TMTV(xml)","type":0,"api":"https://chongtmtv.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {'key':'紅牛资源(xml)','name':'紅牛资源(xml)','type':0,'api':'https://www.hongniuzy2.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
-{"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/top98_1.jar"},
+{"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/top98_1.jar"},
 
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
