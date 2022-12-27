@@ -6,8 +6,8 @@
 "播放数组":"class=\"module-play-list&&</div>",
 "分类url":"https://www.imdy.tv/vodshow/{cateId}-{area}----------{year}.html",
 "分类":"电影$SCCCCS#电视剧$qCCCCS#综艺$xCCCCS#动漫$ICCCCS",
-"地区": "",
-"年份": "",
-"排序": "",
-"筛选": ""
+"地区": "1",
+"年份": "2000-2023",
+"排序": "1",
+"筛选": "1"
 }
