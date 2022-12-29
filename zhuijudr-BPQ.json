@@ -16,7 +16,7 @@
 
 "分类url":"https://zhuijudr.com/vodshow/area/{area}/id/{cateId}/year/{year}.html",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"地区": "1",
+"地区": "",
 "年份": "2000-2023",
 "排序": "1",
 "筛选": "1"
