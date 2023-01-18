@@ -201,8 +201,8 @@
 {'key':'csp_xb_F7好看剧影院','name':'F7好看剧影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.f7hkj.cc/vodshow/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_Hdmoli','name':'Hdmoli(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://raw.githubusercontent.com/gbridge888/maotv/main/hdmoli-XBiu.json'},
 {'key':'csp_xb_348电影网','name':'348电影网(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.348z.com/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
-{'key':'csp_xb_23影视','name':'23影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.23wm.net/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
-{'key':'csp_xb_1080kkk电影','name':'1080kkk电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.1080kkk.com/ys/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_23影视','name':'23影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.23wm.net/vodshow/area/{area}/id/{cateId}/year/{year}.html'},
+//{'key':'csp_xb_1080kkk电影','name':'1080kkk电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.1080kkk.com/ys/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_hei19','name':'hei19(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://hei19.com/catalog?column={cateId}&area={area}&year={year}&sort=1'},
 //{'key':'csp_xb_看視界','name':'看視界(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.1080kan.cc/show/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_看了么','name':'看了么(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ksksl.com/show/{cateId}/area/{area}/year/{year}.html'},
@@ -235,7 +235,7 @@
 //{'key':'csp_xb_起飞影院','name':'起飞影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.qfitv.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 //{'key':'csp_xb_新视觉影院','name':'新视觉影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.dy6080.vip/vodshow/{cateId}-{area}----------{year}.html'},
 //{"key":"csp_xb_疯狗电影","name":"疯狗电影(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html"},		
-{"key":"csp_xb_茶杯狐","name":"茶杯狐(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cupfox.cc/search.php?searchtype=5&tid={cateId}&year={year}&area={area}"}
+//{"key":"csp_xb_茶杯狐","name":"茶杯狐(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.cupfox.cc/search.php?searchtype=5&tid={cateId}&year={year}&area={area}"}
 
 ],
     "parses" : [
