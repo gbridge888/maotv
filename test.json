@@ -177,7 +177,7 @@
 {'key':'csp_xb_热播库','name':'热播库(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.reboku.cc/s/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_花猫TV','name':'花猫TV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.huamaotv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html'},
 {'key':'csp_xb_歐帝影院','name':'歐帝影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.odivod.com/vodshow/{cateId}-{area}----------{year}.html'},
-//{'key':'csp_xb_电影先生','name':'电影先生(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://dyxs20.com/pianku-{cateId}-{area}----------{year}/'},
+{'key':'csp_xb_無名小站','name':'無名小站(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://blssv.com/vodshow-{cateId}/area/{area}/year/{year}/'},
 //{'key':'csp_xb_兰花影院','name':'兰花影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'http://www.lanhua.tv/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
 {'key':'csp_xb_XiguTV','name':'XiguTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.xigutv.com/index.php/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}.html'},
 {'key':'csp_xb_海兔','name':'海兔(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.haitu.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
