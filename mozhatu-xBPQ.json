@@ -13,8 +13,8 @@
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
 "搜索链接前缀": "",
-
-"分类url":"https://www.mozhatu.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html",
+// https://www.mozhatu.com/vodshow/1-%E9%9F%A9%E5%9B%BD----------2023/
+"分类url":"https://www.mozhatu.com/vodshow/{cateId}-{area}----------{year}",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录$5",
 "地区": "1",
 "年份": "2000-2023",
