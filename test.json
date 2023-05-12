@@ -130,7 +130,7 @@
 {key:"csp_XBPQ_炫猫影视",name:"炫猫影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xuanmao520-BPQ.json"},
 {key:"csp_XBPQ_莫扎兔",name:"莫扎兔(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/mozhatu-xBPQ.json"},
 {key:"csp_XBPQ_多瑙影视",name:"多瑙影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/dnvods.json"},
-{key:"csp_XBPQ_Olevod",name:"Olevod(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod-xBPQ.json"},		
+//{key:"csp_XBPQ_Olevod",name:"Olevod(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod-xBPQ.json"},		
 
 {"key":"空格5","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
