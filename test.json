@@ -121,7 +121,7 @@
 //{key:"csp_XBPQ_在线之家",name:"在线之家(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/zxzj-xBPQ.json"},
 {key:"csp_XBPQ_天天视频",name:"天天视频(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/tangrenjie-xBPQ.json"},			
 {key:"csp_XBPQ_APP影院",name:"APP影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/app-xBPQ.json"},			
-{key:"csp_XBPQ_干饭影视",name:"干饭影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/gfysys1-xBPQ.json"},		
+//{key:"csp_XBPQ_干饭影视",name:"干饭影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/gfysys1-xBPQ.json"},		
 {key:"csp_XBPQ_宝仙HD",name:"宝仙HD(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/webdillo-xBPQ.json"},		
 {key:"csp_XBPQ_buz9",name:"buz9(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/buz9-BPQ.json"},
 {key:"csp_XBPQ_不休影院",name:"不休影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/bxiutv-BPQ.json"},
