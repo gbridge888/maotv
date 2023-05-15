@@ -136,6 +136,7 @@
 {"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //DRPY
+{'key':'drpy_js_HG影院[V2]','name':'HG影院[V2]','type':3,'api':'./libs/drpy2.min.js','ext':'./js/HG影院[V2].js'},
 {'key':'drpy_js_孜然影视','name':'孜然影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/孜然影视.js'},
 {'key':'drpy_js_番茄影视','name':'番茄影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/番茄影视.js'},
 {'key':'drpy_js_皮皮鸭','name':'皮皮鸭','type':3,'api':'./libs/drpy2.min.js','ext':'./js/皮皮鸭.js'},
