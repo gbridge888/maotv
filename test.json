@@ -92,7 +92,6 @@
 {key:"csp_XBPQ_唐人街影院",name:"唐人街影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/tangrenjie-BPQ.json"},
 {key:"csp_XBPQ_小宝影院",name:"小宝影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xiaoheimi-xBPQ.json"},
 {key:"csp_XBPQ_南瓜影院",name:"南瓜影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xxc-BPQ.json"},		
-//{key:"csp_XBPQ_HDIK",name:"HDIK(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/hdik-BPQ.json"},
 {key:"csp_XBPQ_愛迪",name:"愛迪(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/aiditv-BPQ.json"},				
 {key:"csp_XBPQ_HoHo",name:"HoHo(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/hoho-BPQ.json"},
 {key:"csp_XBPQ_片吧",name:"片吧(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb-xBPQ.json"},
@@ -248,13 +247,7 @@
 {'key':'drpy_js_310直播','name':'310直播','type':3,'api':'./libs/drpy2.min.js','ext':'./js/310直播.js'},
 {'key':'drpy_js_139影视','name':'139影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/139影视.js'},
 {'key':'drpy_js_1080P','name':'1080P','type':3,'api':'./libs/drpy2.min.js','ext':'./js/1080P.js'},
-{
-       "key" : "drpy_js_独播库",
-       "name" : "独播库[DRPY]",
-       "type" : 3,
-       "api" : "https://raw.githubusercontent.com/gbridge888/test/main/JS/lib/drpy2.min.js",
-       "ext" : "https://raw.githubusercontent.com/gbridge888/test/main/JS/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js"
-},
+
 
 {"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
