@@ -136,6 +136,7 @@
 {"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //DRPY
+{'key':'drpy_js_酷客影院','name':'酷客影院','type':3,'api':'./libs/drpy2.min.js','ext':'./js/酷客影院.js'},
 {'key':'drpy_js_欧帝影院','name':'欧帝影院','type':3,'api':'./libs/drpy2.min.js','ext':'./js/欧帝影院.js'},
 {'key':'drpy_js_乐猪TV','name':'乐猪TV','type':3,'api':'./libs/drpy2.min.js','ext':'./js/乐猪TV.js'},
 {'key':'drpy_js_鸭奈飞','name':'鸭奈飞','type':3,'api':'./libs/drpy2.min.js','ext':'./js/鸭奈飞.js'},
