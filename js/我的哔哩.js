@@ -6,10 +6,10 @@ DMBox下载:https://t.me/pipixiawerun
 
 /* Cookie设置
 Cookie改为预设获取蜂蜜大佬Github的
-https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt
+https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt
 
 Cookie获取方法
-https://github.com/UndCover/PyramidStore/blob/main/list.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
+https://ghproxy.net/https://raw.githubusercontent.com/UndCover/PyramidStore/main/list.md
 
 Cookie设置方法1: DR-PY 后台管理界面
 CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
@@ -105,7 +105,8 @@ var rule = {
         "User-Agent":"PC_UA",
         "Referer": "https://www.bilibili.com",
         // "Cookie":"$bili_cookie"
-        "Cookie":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
+        // "Cookie":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
+        "Cookie":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt"
     },
     timeout:5000,
     limit:8,
@@ -117,5 +118,5 @@ var rule = {
     一级:'js:let html=request(input);function title_rep(title){if(/keyword/.test(title)){title=title.replace(\'<em class="keyword">\',"").replace("</em>","");log("名称替换👉"+title)};return title}function turnDHM(duration){let min=duration.split(":")[0];let sec=duration.split(":")[1];if(min==0){return sec+"秒"}else if(0<min&&min<60){return min+"分"}else if(60<=min&&min<1440){if(min%60==0){let h=min/60;return h+"小时"}else{let h=min/60;h=(h+"").split(".")[0];let m=min%60;return h+"小时"+m+"分"}}else if(min>=1440){let d=min/60/24;d=(d+"").split(".")[0];let h=min/60%24;h=(h+"").split(".")[0];let m=min%60;let dhm="";if(d>0){dhm=d+"天"}if(h>=1){dhm=dhm+h+"小时"}if(m>0){dhm=dhm+m+"分"}return dhm}return null}let videos=[];let vodList=JSON.parse(html).data.result;vodList.forEach(function(vod){let aid=vod["aid"];let title=vod["title"].trim().replace("&quot;","\'");title=title_rep(title);title=title_rep(title);title=title_rep(title);let img="https:"+vod["pic"];let remark=turnDHM(vod["duration"]);videos.push({vod_id:aid,vod_name:title,vod_pic:img,vod_remarks:remark})});VODS=videos',
     二级:'js:let html=request(input);let jo=JSON.parse(html).data;let aid=jo["aid"];let title=jo["title"].replace(\'<em class="keyword">\',"").replace("</em>","");let pic=jo["pic"];let desc=jo["desc"];let year=jo["pubdate"];let dire=jo["owner"]["name"];let typeName=jo["tname"];let remark=jo["duration"];let vod={vod_id:aid,vod_name:title,vod_pic:pic,type_name:typeName,vod_year:year,vod_area:"bilidanmu",vod_remarks:remark,vod_tags:"mv",vod_director:dire,vod_content:desc};let ja=jo["pages"];let playurls=[];ja.forEach(function(tmpJo){let cid=tmpJo["cid"];let part=tmpJo["part"].replace("#","﹟").replace("$","﹩");playurls.push(part+"$"+aid+"_"+cid)});let playUrl=playurls.join("#");vod["vod_play_from"]="B站";vod["vod_play_url"]=playUrl;VOD=vod;',
     搜索:'*',
-    预处理:'if(rule_fetch_params.headers.Cookie.startsWith("http")){rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);setItem(RULE_CK,cookie)};log(rule_fetch_params.headers.Cookie)',
+    // 预处理:'if(rule_fetch_params.headers.Cookie.startsWith("http")){rule_fetch_params.headers.Cookie=fetch(rule_fetch_params.headers.Cookie);setItem(RULE_CK,cookie)};log(rule_fetch_params.headers.Cookie)',
 }
