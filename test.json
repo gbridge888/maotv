@@ -102,7 +102,8 @@
 {key:"csp_XBPQ_不休影院",name:"不休影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/bxiutv-BPQ.json"},
 {key:"csp_XBPQ_厂长影视",name:"厂长影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/czspp-BPQ.json"},
 {key:"csp_XBPQ_炫猫影视",name:"炫猫影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xuanmao520-BPQ.json"},
-
+{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/我的哔哩.js"},
+		
 {"key":"空格5","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
