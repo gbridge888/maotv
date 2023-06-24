@@ -87,8 +87,8 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "quickSearch": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/custom_spider.jar"
+      "quickSearch": 1
+//      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/custom_spider.jar"
 },
 
 {"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
