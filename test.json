@@ -87,7 +87,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "filterable": 1,
-      "changeable": 1,
+      "quickSearch": 1,
       "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/custom_spider.jar"
 },
 
