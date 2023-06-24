@@ -88,7 +88,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;836941085af643869ef5e0d9dce6d301"
+      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/custom_spider.jar;md5;836941085af643869ef5e0d9dce6d301"
 },
 
 {"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
