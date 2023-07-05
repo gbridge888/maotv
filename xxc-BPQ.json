@@ -1,6 +1,6 @@
 {
 "站名":"南瓜影院",
-"主页url":"https://www.xxc.la",
+"主页url":"https://4k.xxc.la",
   
 "免嗅":"1",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
@@ -13,7 +13,7 @@
 "播放标题":"\">&&</a>",
 //"播放链接":"href=\"&&\"",
 
-"分类url":"https://www.xxc.la/vodshow/{cateId}-{area}----------{year}/",
+"分类url":"https://4k.xxc.la/vodshow/{cateId}-{area}----------{year}/",
 "分类":"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman",
 "地区": "1",
 "年份": "2000-2023",
