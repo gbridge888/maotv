@@ -63,7 +63,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/custom_spider.jar;md5;16f9147da64cbbc596831"
+      "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;da248d3decd2fb6776b2ce39013c3e6e"
 },
 {
       "key": "星星",
@@ -72,7 +72,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/custom_spider.jar;md5;16f9147da64cbbc596831"
+      "jar": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;da248d3decd2fb6776b2ce39013c3e6e"
 },
 {
       "key": "獨播",
