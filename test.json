@@ -63,7 +63,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;104fe5b844fc2bf63f2082c5a9b8b4aa"
+      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;B65FBD46A646519FEA2B594F2FAF4138"
 },
 {
       "key": "星星",
@@ -72,17 +72,17 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;104fe5b844fc2bf63f2082c5a9b8b4aa"
+      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;B65FBD46A646519FEA2B594F2FAF4138"
 },
-{
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/duboku.json"
-},
+//{
+//      "key": "獨播",
+//      "name": "獨播",
+//      "type": 3,
+//      "api": "csp_XPathMacFilter",
+//      "searchable": 1,
+//      "changeable": 1,
+//      "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/duboku.json"
+//},
 
 //{'key':'U酷资源(vod)','name':'U酷资源(vod)','type':1,'api':'https://api.ukuapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 
@@ -90,8 +90,8 @@
 {"key":"xbpq","name":"------以下为xBPQ资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBPQ (Best for filterable)
-{"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1},
-{key:"csp_XBPQ_94itv",name:"94itv(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-BPQ.json"},
+//{"key":"csp_Nbys","name":"👑泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":0,"filterable":1},
+//{key:"csp_XBPQ_94itv",name:"94itv(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-BPQ.json"},
 {key:"csp_XBPQ_oulevod",name:"oulevod(xBPQ)",type:3,api:"csp_XBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/oulevod-xBPQ.json"},
 {key:"csp_XBPQ_多瑙影视",name:"多瑙影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/dnvods.json"},
 //{key:"csp_XBPQ_唐人街影院",name:"唐人街影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:0,quickSearch:0,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/tangrenjie-BPQ.json"},
