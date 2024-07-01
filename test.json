@@ -2,16 +2,16 @@
         //"spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1112.jar;md5;6F4ED9389C950C4826B2CFA415978ECB",
         "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;C45057E6962866AC965326BF8942CDD4",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-        "lives":[{"group":"redirect","channels":[{"name":"live","urls":["http://home.jundie.top:81/Cat/tv/live.txt"]
-		}]
-	}],
-        //"lives": [
-        //  {
-        //  "name": "直播",
-        //  "type": 0,
-        //  "url": "http://home.jundie.top:81/Cat/tv/live.txt"
-        //  }
-        //],
+        //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["http://home.jundie.top:81/Cat/tv/live.txt"]
+	//	}]
+	//}],
+        "lives": [
+          {
+          "name": "直播",
+          "type": 0,
+          "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+          }
+        ],
 	"sites": [
 
 
