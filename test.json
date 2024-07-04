@@ -56,15 +56,15 @@
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //VOD
-{
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
-},
+//{
+//      "key": "泥巴",
+//      "name": "泥巴",
+//      "type": 3,
+//      "api": "csp_Zhaozy",
+//      "searchable": 1,
+//      "changeable": 1,
+//      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
+//},
 {
       "key": "星星",
       "name": "星星",
