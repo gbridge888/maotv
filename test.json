@@ -60,10 +60,10 @@
       "key": "泥巴",
       "name": "泥巴",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;B65FBD46A646519FEA2B594F2FAF4138"
+      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
 },
 {
       "key": "星星",
@@ -72,7 +72,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;B65FBD46A646519FEA2B594F2FAF4138"
+      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
 },
 //{
 //      "key": "獨播",
