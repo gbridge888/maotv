@@ -1,0 +1,16 @@
+{
+"免嗅":"1",
+//"线路数组": "class=\"module-tab-item tab-item&&</div>",
+//"线路标题": "<span>&&</span>",
+//"播放标题":"html\">&&</a>",
+//"播放数组":"class=\"playlist-mobile playlist&&</ul>",
+"搜索url": "https://94580.net/search.html?wd={wd}",
+"搜索模式": "1",
+"搜索二次截取": "",
+"分类url":"https://94580.net/show/id/{cateId}/year/{year}.html",
+"分类":"電影$1#電視劇$2#綜藝$3#動漫$4",
+"地区": "1",
+"年份": "2000-2024",
+"排序": "1",
+"筛选": "1"
+}
