@@ -42,7 +42,7 @@
 //},
 {'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'新浪资源(xml)','name':'新浪资源(xml)','type':0,'api':'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
+//{'key':'新浪资源(xml)','name':'新浪资源(xml)','type':0,'api':'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'快车(xml)','name':'快车(xml)','type':0,'api':'https://caiji.kczyapi.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'量子资源(xml)','name':'量子资源(xml)','type':0,'api':'https://cj.lzcaiji.com/api.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'淘片资源(xml)','name':'淘片资源(xml)','type':0,'api':'https://taopianapi.com/home/cjapi/as/mc10/vod/xml','searchable':1,'quickSearch':1,'filterable':1},
