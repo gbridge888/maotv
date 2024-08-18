@@ -86,6 +86,23 @@
       "changeable": 1,
       "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;7751AB5675370251EC75B701AAFA6F1C"
 },
+{
+      "key": "大米星球",
+      "name": "🌌大米┃星球┃蓝光",
+      "type": 3,
+      "api": "csp_AppDaMi",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+},
+{
+      "key": "剧兔",
+      "name": "🐇剧兔┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.zjtu.one/api.php/app/"
+},
 //{
 //      "key": "獨播",
 //      "name": "獨播",
