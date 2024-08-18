@@ -102,7 +102,10 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "ext": "https://www.zjtu.one/api.php/app/"
+      "ext": "https://www.zjtu.one/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
 },
 {
       "key": "影馆",
@@ -110,7 +113,10 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "ext": "https://4kdyg.top/api.php/v1.vod"
+      "ext": "https://4kdyg.top/api.php/v1.vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
 },
 {
       "key": "大师兄",
