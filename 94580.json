@@ -1,7 +1,7 @@
 {
 "免嗅":"1",
-"播放标题":"tab\">&&</a>",
-"播放数组":"class=\"myui-content__list scrollbar&&</ul>",
+"播放标题":"&nbsp;&&</span>",
+"播放数组":"class=\"hl-from-btn hl-text-muted&&</a>",
 "搜索url": "https://www.lovedan.net/vodsearch/{wd}-------------.html",
 "搜索模式": "1",
 "搜索二次截取": "",
