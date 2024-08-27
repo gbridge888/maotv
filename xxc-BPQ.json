@@ -3,7 +3,7 @@
 "搜索url": "https://www.ngyyww.com/search/-------------.html?wd={wd}",
 "搜索模式": "1",
 "搜索二次截取": "",
-"播放数组":"class=\"nav nav-tabs active&&</div>",
+"播放数组":"class=\"nav nav-tabs active&&</ul>",
 "播放标题":"html\">&&</a>",
   
 "分类url":"https://www.ngyyww.com/vod/{cateId}/area/{area}/year/{year}.html",
