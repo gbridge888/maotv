@@ -1,6 +1,9 @@
 {
 "免嗅":"1",
 
+"搜索url": "https://aidi.tv/vsearch/-------------.html?wd={wd}",
+"搜索模式": "1",
+"搜索二次截取": "",
 "播放数组":"class=\"content_playlist list_scroll&&</ul>",
 "播放标题":"blank\">&&</a>",
 //"播放链接":"href=\"&&\"",
