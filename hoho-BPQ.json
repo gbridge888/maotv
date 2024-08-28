@@ -3,7 +3,7 @@
 //"数组": "class=\"module-item-pic&&</div>",
 //"线路数组": "class=\"module-tab-item tab-item&&</div>",
 //"线路标题": "<span>&&</span>",
-"搜索url": "https://niqiutv.com/vod/search/wd/{wd}.html",
+"搜索url": "https://www.olevod.com/search?q={wd}",
 "搜索模式": "1",
 "搜索二次截取": "",
 "分类url":"https://www.olevod.com/nav/{cateId}/{area}/{year}/%E5%85%A8%E9%83%A8%E7%B1%BB%E5%9E%8B/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E6%9C%80%E6%96%B0.html",
