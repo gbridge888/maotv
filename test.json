@@ -50,7 +50,7 @@
 {"key":"蛋蛋魔法(xml)","name":"蛋蛋魔法(xml)","type":0,"api":"https://ddmf.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源(xml)","name":"光速资源(xml)","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"唐人街影院(xml)","name":"唐人街影院(xml)","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"HOHO(xml)","name":"HOHO(xml)","type":0,"api":"https://www.hoho.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"7喜影院(xml)","name":"7喜影院(xml)","type":0,"api":"https://www.7xi.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
