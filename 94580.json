@@ -3,7 +3,7 @@
 //"播放标题":"&nbsp;&&</span>",
 //"播放数组":"class=\"hl-from-btn hl-text-muted&&</a>",
 "图片": "data-src=\"&&\"",
-"搜索url": "https://www.jiehua.tv/vodsearch/{wd}-------------/",
+"搜索url": "https://cnys.tv/vodsearch-wd-{wd}.html",
 "搜索模式": "1",
 "搜索二次截取": "",
 "分类url":"https://cnys.tv/vodshow-{cateId}-area-{area}-year-{year}.html",
