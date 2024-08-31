@@ -317,34 +317,34 @@
 {'key':'drpy_js_139影视','name':'139影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/139影视.js'},
 
 
-{"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+//{"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"idolTV(XB)","name":"idolTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/idoltv.json"},	
-{"key":"olevod(XB)","name":"olevod(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod.json"},
-{"key":"Cokemv(XB)","name":"Cokemv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/cokemv.json"},
-{"key":"卡通站(XB)","name":"卡通站(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ktkkt2.json"},
-{"key":"555(XB)","name":"555(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/555.json"},
+//{"key":"olevod(XB)","name":"olevod(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod.json"},
+//{"key":"Cokemv(XB)","name":"Cokemv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/cokemv.json"},
+//{"key":"卡通站(XB)","name":"卡通站(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ktkkt2.json"},
+//{"key":"555(XB)","name":"555(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/555.json"},
 //{"key":"Hdmoli(XB)","name":"Hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/hdmoli.json"},
 		
 //XYQ (Too complicated)
 //{key:"csp_XYQBiu_片吧",name:"片吧(XYQ)",type:3,api:"csp_XYQBiu",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb.json"},
 
-{"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+//{"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBiu (Best for searchable)
 {'key':'csp_xb_歐帝影院','name':'歐帝影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.odivod.com/vodshow/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_海兔','name':'海兔(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.haitu.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
-{'key':'csp_xb_巨人影院','name':'巨人影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.jurenm.com/show/{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_看戏影视','name':'看戏影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kanxi123.net/tags/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_789ba','name':'789ba(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.789ba.com/show/{cateId}-----------{year}.html'},
-{'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_NikeTV','name':'NikeTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ajeee.com/show/{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_F7好看剧影院','name':'F7好看剧影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.f7hkj.cc/vodshow/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_飘花播播','name':'飘花播播(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.piaohuabo.com/vodshow/{cateId}-----------{year}.html'},
-{'key':'csp_xb_看片狂人','name':'看片狂人(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kpkuang.de/vodshow/{cateId}-{area}----------{year}--.html'}
+//{'key':'csp_xb_海兔','name':'海兔(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.haitu.tv/vod/show/area/{area}/id/{cateId}/year/{year}.html'},
+//{'key':'csp_xb_巨人影院','name':'巨人影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.jurenm.com/show/{cateId}/area/{area}/year/{year}.html'},
+//{'key':'csp_xb_看戏影视','name':'看戏影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kanxi123.net/tags/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_789ba','name':'789ba(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.789ba.com/show/{cateId}-----------{year}.html'},
+{'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'}
+//{'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
+//{'key':'csp_xb_NikeTV','name':'NikeTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ajeee.com/show/{cateId}/area/{area}/year/{year}.html'},
+//{'key':'csp_xb_F7好看剧影院','name':'F7好看剧影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.f7hkj.cc/vodshow/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_飘花播播','name':'飘花播播(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.piaohuabo.com/vodshow/{cateId}-----------{year}.html'},
+//{'key':'csp_xb_看片狂人','name':'看片狂人(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kpkuang.de/vodshow/{cateId}-{area}----------{year}--.html'}
 
 ],
     "parses" : [
