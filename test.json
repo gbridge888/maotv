@@ -337,7 +337,7 @@
 {'key':'csp_xb_歐帝影院','name':'歐帝影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.odivod.com/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_大师兄影视','name':'大师兄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://dsxys.pro/vodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_大米星球','name':'大米星球(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://damixqfun.com/cnvodshow/{cateId}-{area}----------{year}.html'},
-//{'key':'csp_xb_看戏影视','name':'看戏影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.kanxi123.net/tags/{cateId}-{area}----------{year}.html'},
+{'key':'csp_xb_大师兄影视2','name':'大师兄影视2(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.dsxysw.com/show/{cateId}/area/{area}/year/{year}.html'},
 //{'key':'csp_xb_789ba','name':'789ba(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.789ba.com/show/{cateId}-----------{year}.html'},
 {'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'}
 //{'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.citydy.com/show/id-{cateId}/area/{area}/year/{year}.html'},
