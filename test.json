@@ -86,16 +86,16 @@
       "changeable": 1,
       "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;7751AB5675370251EC75B701AAFA6F1C"
 },
-{
-      "key": "大米星球",
-      "name": "🌌大米┃星球┃蓝光",
-      "type": 3,
-      "api": "csp_AppDaMi",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-},
+//{
+//      "key": "大米星球",
+//      "name": "🌌大米┃星球┃蓝光",
+//      "type": 3,
+//      "api": "csp_AppDaMi",
+//      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1
+//},
 {
       "key": "剧兔",
       "name": "🐇剧兔┃蓝光┃纯净",
@@ -118,28 +118,28 @@
       "quickSearch": 1,
       "filterable": 1
 },
-{
-      "key": "大师兄",
-      "name": "🐥师兄┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=大师兄"
-},
-{
-      "key": "素白白",
-      "name": "🩴拖鞋┃秒播┃纯净",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-},
+//{
+//      "key": "大师兄",
+//      "name": "🐥师兄┃蓝光┃纯净",
+//      "type": 3,
+//      "api": "csp_XBPQ",
+//      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1,
+//      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=大师兄"
+//},
+//{
+//      "key": "素白白",
+//      "name": "🩴拖鞋┃秒播┃纯净",
+//      "type": 3,
+//      "api": "csp_Subaibai",
+//      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1,
+//      "changeable": 1
+//},
 //{
 //      "key": "獨播",
 //      "name": "獨播",
@@ -201,7 +201,7 @@
 //key':'drpy_js_评书随身听','name':'评书随身听','type':3,'api':'./libs/drpy2.min.js','ext':'./js/评书随身听.js'},
 //{'key':'drpy_js_虎牙直播','name':'虎牙直播','type':3,'api':'./libs/drpy2.min.js','ext':'./js/虎牙直播.js'},
 //'key':'drpy_js_蓝光影院','name':'蓝光影院','type':3,'api':'./libs/drpy2.min.js','ext':'./js/蓝光影院.js'},
-{'key':'drpy_js_落攻阁影视','name':'落攻阁影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/落攻阁影视.js'},
+//{'key':'drpy_js_落攻阁影视','name':'落攻阁影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/落攻阁影视.js'},
 //'key':'drpy_js_萌蛋蛋[V2]','name':'萌蛋蛋[V2]','type':3,'api':'./libs/drpy2.min.js','ext':'./js/萌蛋蛋[V2].js'},
 //{'key':'drpy_js_菜狗','name':'菜狗','type':3,'api':'./libs/drpy2.min.js','ext':'./js/菜狗.js'},
 //{'key':'drpy_js_花猫TV','name':'花猫TV','type':3,'api':'./libs/drpy2.min.js','ext':'./js/花猫TV.js'},
