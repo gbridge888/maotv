@@ -340,7 +340,7 @@
 {'key':'csp_xb_大师兄影视2','name':'大师兄影视2(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.maykk.com/dsxshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_大师兄影视3','name':'大师兄影视3(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ruiding3bu.com/ruvodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'},
-{'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.olevod.com/nav/{cateId}/{area}/{year}/%E5%85%A8%E9%83%A8%E7%B1%BB%E5%9E%8B/%E5%85%A8%E9%83%A8/%E5%85%A8%E9%83%A8/%E6%9C%80%E6%96%B0.html'}
+{'key':'csp_xb_City电影','name':'City电影(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.7xi.tv/vodshow/{cateId}-{area}----------{year}/'}
 //{'key':'csp_xb_NikeTV','name':'NikeTV(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ajeee.com/show/{cateId}/area/{area}/year/{year}.html'},
 //{'key':'csp_xb_F7好看剧影院','name':'F7好看剧影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.f7hkj.cc/vodshow/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_飘花播播','name':'飘花播播(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.piaohuabo.com/vodshow/{cateId}-----------{year}.html'},
