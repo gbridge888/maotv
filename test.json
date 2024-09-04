@@ -19,27 +19,27 @@
 //{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //XML
-//{
-//      "key": "海外看(xml)",
-//      "name": "海外看(xml)",
-//      "type": 0,
-//      "api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "categories": [
-//        "韩剧",
-//        "韩国综艺",
-//        "日剧",
-//        "国产剧",
-//        "欧美剧",
-//        "港剧",
-//        "台剧",
-//        "新马剧",
-//        "泰剧",
-//        "其他剧"
-//      ]
-//},
+{
+      "key": "黑木耳(xml)",
+      "name": "黑木耳(xml)",
+      "type": 0,
+      "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩剧",
+        "韩国综艺",
+        "日剧",
+        "国产剧",
+        "欧美剧",
+        "港剧",
+        "台剧",
+        "新马剧",
+        "泰剧",
+        "其他剧"
+      ]
+},
 //{'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'新浪资源(xml)','name':'新浪资源(xml)','type':0,'api':'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
@@ -50,7 +50,7 @@
 {"key":"蛋蛋魔法(xml)","name":"蛋蛋魔法(xml)","type":0,"api":"https://ddmf.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源(xml)","name":"光速资源(xml)","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"唐人街影院(xml)","name":"唐人街影院(xml)","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"黑木耳(xml)","name":"黑木耳(xml)","type":0,"api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"黑木耳(xml)","name":"黑木耳(xml)","type":0,"api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
@@ -60,7 +60,7 @@
 //      "key": "泥巴",
 //      "name": "泥巴",
 //      "type": 3,
-//      "api": "csp_Zhaozy",
+//      "api": "csp_Z黑木耳haozy",
 //      "searchable": 1,
 //      "changeable": 1,
 //      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
