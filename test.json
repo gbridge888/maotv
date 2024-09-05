@@ -49,7 +49,7 @@
 {"key":"艾旦影视(xml)","name":"艾旦影视(xml)","type":0,"api":"https://www.lovedan.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"蛋蛋魔法(xml)","name":"蛋蛋魔法(xml)","type":0,"api":"https://ddmf.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源(xml)","name":"光速资源(xml)","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"唐人街影院(xml)","name":"唐人街影院(xml)","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"吉吉巳资源(xml)","name":"吉吉巳资源(xml)","type":0,"api":"https://cj.jijisi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"黑木耳(xml)","name":"黑木耳(xml)","type":0,"api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
