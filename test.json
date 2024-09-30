@@ -243,7 +243,7 @@
 //{'key':'drpy_js_我爱跟剧','name':'我爱跟剧','type':3,'api':'./libs/drpy2.min.js','ext':'./js/我爱跟剧.js'},
 //{'key':'drpy_js_我爱电影网','name':'我爱电影网','type':3,'api':'./libs/drpy2.min.js','ext':'./js/我爱电影网.js'},
 //{'key':'drpy_js_思古影视','name':'思古影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/思古影视.js'},
-{'key':'drpy_js_快看','name':'快看','type':3,'api':'./libs/drpy2.min.js','ext':'./js/快看.js'},
+//{'key':'drpy_js_快看','name':'快看','type':3,'api':'./libs/drpy2.min.js','ext':'./js/快看.js'},
 //{'key':'drpy_js_影视工场','name':'影视工场','type':3,'api':'./libs/drpy2.min.js','ext':'./js/影视工场.js'},
 //{'key':'drpy_js_开眼视频','name':'开眼视频','type':3,'api':'./libs/drpy2.min.js','ext':'./js/开眼视频.js'},
 //{'key':'drpy_js_广播迷FM','name':'广播迷FM','type':3,'api':'./libs/drpy2.min.js','ext':'./js/广播迷FM.js'},
@@ -335,10 +335,10 @@
 {"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBiu (Best for searchable)
-{'key':'csp_xb_歐帝影院','name':'歐帝影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.odivod.com/vodshow/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_歐帝影院','name':'歐帝影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.odivod.com/vodshow/{cateId}-{area}----------{year}.html'},
 //{'key':'csp_xb_大师兄影视','name':'大师兄影视(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://dsxys.pro/vodshow/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_大米星球','name':'大米星球(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://damixqfun.com/cnvodshow/{cateId}-{area}----------{year}.html'},
-{'key':'csp_xb_大师兄影视2','name':'大师兄影视2(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.maykk.com/dsxshow/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_大米星球','name':'大米星球(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://damixqfun.com/cnvodshow/{cateId}-{area}----------{year}.html'},
+//{'key':'csp_xb_大师兄影视2','name':'大师兄影视2(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.maykk.com/dsxshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_大师兄影视3','name':'大师兄影视3(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.ruiding3bu.com/ruvodshow/{cateId}-{area}----------{year}.html'},
 {'key':'csp_xb_饭团','name':'饭团(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.fantuantva.com/s/{cateId}/area/{area}/year/{year}.html'},
 {'key':'csp_xb_7喜影院','name':'7喜影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.7xi.tv/vodshow/{cateId}-{area}----------{year}/'}
