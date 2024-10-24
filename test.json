@@ -53,8 +53,8 @@
 {"key":"华为吧影视(xml)","name":"华为吧影视(xml)","type":0,"api":"https://hw8.live/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"黑木耳(xml)","name":"黑木耳(xml)","type":0,"api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+//{"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //VOD
 //{
@@ -66,27 +66,27 @@
 //      "changeable": 1,
 //      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
 //},
-{
-      "key": "韩圈",
-      "name": "🦄韩圈┃蓝光┃无广",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-},
-{
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;7751AB5675370251EC75B701AAFA6F1C"
-},
+//{
+//      "key": "韩圈",
+//      "name": "🦄韩圈┃蓝光┃无广",
+//      "type": 3,
+//      "api": "csp_HanXiaoQuan",
+//      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+//      "playerType": 2,
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1,
+//      "timeout": 10
+//},
+//{
+//      "key": "星星",
+//      "name": "星星",
+//      "type": 3,
+//      "api": "csp_Star",
+//      "searchable": 1,
+//      "changeable": 1,
+//      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;7751AB5675370251EC75B701AAFA6F1C"
+//},
 //{
 //      "key": "大米星球",
 //      "name": "🌌大米┃星球┃蓝光",
@@ -97,28 +97,28 @@
 //      "quickSearch": 1,
 //      "filterable": 1
 //},
-{
-      "key": "剧兔",
-      "name": "🐇剧兔┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "ext": "https://www.zjtu.one/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-},
-{
-      "key": "影馆",
-      "name": "🐖野猪┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "ext": "https://4kdyg.top/api.php/v1.vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-},
+//{
+//      "key": "剧兔",
+//      "name": "🐇剧兔┃蓝光┃纯净",
+//      "type": 3,
+//      "api": "csp_AppYsV2",
+//      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+//      "ext": "https://www.zjtu.one/api.php/app/",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1
+//},
+//{
+//      "key": "影馆",
+//      "name": "🐖野猪┃蓝光┃纯净",
+//      "type": 3,
+//      "api": "csp_AppYsV2",
+//      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+//      "ext": "https://4kdyg.top/api.php/v1.vod",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1
+//},
 //{
 //      "key": "大师兄",
 //      "name": "🐥师兄┃蓝光┃纯净",
