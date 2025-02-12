@@ -321,7 +321,7 @@
 //{"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 //{"key":"xb","name":"------以下为XB资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"idolTV(XB)","name":"idolTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/idoltv.json"},	
+{"key":"idolTV(XB)","name":"idolTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/idoltv.json"}	
 //{"key":"olevod(XB)","name":"olevod(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/olevod.json"},
 //{"key":"Cokemv(XB)","name":"Cokemv(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/cokemv.json"},
 //{"key":"卡通站(XB)","name":"卡通站(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/gbridge888/maotv/main/ktkkt2.json"},
@@ -331,8 +331,8 @@
 //XYQ (Too complicated)
 //{key:"csp_XYQBiu_片吧",name:"片吧(XYQ)",type:3,api:"csp_XYQBiu",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/pbpb.json"},
 
-{"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"空格3","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
+//{"key":"xbiu","name":"------以下为Xbiu资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBiu (Best for searchable)
 //{'key':'csp_xb_歐帝影院','name':'歐帝影院(XBiu)','type':3,'api':'csp_XBiu','searchable':1,'quickSearch':1,'filterable':1,'ext':'https://www.odivod.com/vodshow/{cateId}-{area}----------{year}.html'},
