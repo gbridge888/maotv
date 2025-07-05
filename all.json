@@ -3,19 +3,19 @@
     {
       "name": "Judy直播",
       "type": 0,
-      "url": "https://230taiwan.pendy.dpdns.org/?type=m3u&proxy=true",
+      "url": "http://4gtv.korice.eu.org/?type=m3u&proxy=true",
       "ext": {}
     },
     {
       "name": "SMT直播",
       "type": 3,
-      "api": "https://json.doube.eu.org/python/live_smt.py",
+      "api": "https://raw.githubusercontent.com/gbridge888/maotv/refs/heads/main/smt_0516.py",
       "ext": {}
     },
     {
       "name": "BeeSport",
       "type": 3,
-      "api": "https://json.doube.eu.org/python/live_beesport.py",
+      "api": "https://raw.githubusercontent.com/gbridge888/maotv/refs/heads/main/live_beesport.py",
       "ext": {},
       "header": {
           "Referer": "https://p.m82xg4z0cdbz7.com/"
@@ -33,9 +33,9 @@
       }
     },
     {
-      "name": "Render Judy",
+      "name": "Render m3u888",
       "type": 0,
-      "url": "https://kim888.zabc.net/?type=m3u&proxy=true",
+      "url": "https://m3u888.zabc.net/?type=m3u",
       "ext": {}
     }
   ]
