@@ -90,8 +90,8 @@ class Spider(Spider):
             'Content-Type': 'application/json',
             'accept-language': 'zh-CN,zh;q=0.9',
             'cache-control': 'no-cache',
-            'origin': 'https://beesport.net',
-            'referer': 'https://beesport.net/live-tv',
+            'origin': 'https://beesports.net',
+            'referer': 'https://beesports.net/live-tv',
         }
 
         json_data = {
