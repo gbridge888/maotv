@@ -13,15 +13,6 @@
       "ext": {}
     },
     {
-      "name": "BeeSport",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/gbridge888/maotv/refs/heads/main/live_beesport.py",
-      "ext": {},
-      "header": {
-          "Referer": "https://p.m82xg4z0cdbz7.com/"
-      }
-    },
-    {
       "name": "LiTV直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/gbridge888/Sub/refs/heads/main/live/live_litv.py",
@@ -31,6 +22,12 @@
               "https": "http://localhost:8089"
           }
       }
+    },
+    {
+      "name": "AKTV",
+      "type": 0,
+      "url": "https://aktv.space/live.m3u",
+      "ext": {}
     },
     {
       "name": "Render m3u888",
