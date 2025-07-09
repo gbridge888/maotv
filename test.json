@@ -14,7 +14,7 @@
         ],
 	"sites": [
 
-{"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/ok0709.jar;md5;d6c550913a69efc65f8781b51cbf3de8"},
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/ok0709.jar;md5;d6c550913a69efc65f8781b51cbf3de8"},
 //{"key":"空格7","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 //{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
