@@ -1,14 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",免費訂閲：請勿販賣...
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2025-7-22 #佛系維護...
-https://epg.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護内容：維護 Gather「增加 翡翠/無綫新聞-随时拉闸」
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",公告说明：推流源·「隨時拉閘 / 晚安"0-6"」
-https://epg.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",限制條件：請保持 訂閲IP 與 觀看IP 一致
-https://epg.iill.top/v/302.mp4
+#EXTM3U
 
 #EXTINF:-1 tvg-id="LOVE NATURE 4K" tvg-name="LOVE NATURE 4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•4K「IPV4」",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -2792,10 +2782,3 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="スターチャンネル3" tvg-name="スターチャンネル3" tvg-logo="https://epg.iill.top/logo/スターチャンネル3.png" group-title="•日本「JP」",スターチャンネル3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="--------------------------",---------------
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•myTV「请到GitHub获取」",仅支持安卓·不懂问ChatGPT
-https://epg.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="MPD" tvg-name="MPD" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="---------------------------",https://github.com/YanG-1989
-https://epg.iill.top/v/302.mp4
