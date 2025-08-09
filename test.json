@@ -19,28 +19,28 @@
 //{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
 //XML
-{
-      "key": "黑木耳(xml)",
-      "name": "黑木耳(xml)",
-      "type": 0,
-      "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "韩剧",
-        "韩国综艺",
-        "电影",
-        "日剧",
-        "国产剧",
-        "欧美剧",
-        "港剧",
-        "台剧",
-        "新马剧",
-        "泰剧",
-        "其他剧"
-      ]
-},
+//{
+//      "key": "黑木耳(xml)",
+//      "name": "黑木耳(xml)",
+//      "type": 0,
+//      "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+//      "searchable": 1,
+//      "quickSearch": 1,
+//      "filterable": 1,
+//      "categories": [
+//        "韩剧",
+//        "韩国综艺",
+//        "电影",
+//        "日剧",
+//        "国产剧",
+//        "欧美剧",
+//        "港剧",
+//        "台剧",
+//        "新马剧",
+//        "泰剧",
+//        "其他剧"
+//      ]
+//},
 //{'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
 //{'key':'新浪资源(xml)','name':'新浪资源(xml)','type':0,'api':'https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/','searchable':1,'quickSearch':1,'filterable':1},
@@ -282,7 +282,7 @@
 //{'key':'drpy_js_剧白白','name':'剧白白','type':3,'api':'./libs/drpy2.min.js','ext':'./js/剧白白.js'},
 //{'key':'drpy_js_创艺影视[V2]','name':'创艺影视[V2]','type':3,'api':'./libs/drpy2.min.js','ext':'./js/创艺影视[V2].js'},
 //{'key':'drpy_js_创艺影视','name':'创艺影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/创艺影视.js'},
-{'key':'drpy_js_凌云影视','name':'凌云影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/凌云影视.js'},
+//{'key':'drpy_js_凌云影视','name':'凌云影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/凌云影视.js'},
 //{'key':'drpy_js_农民影视','name':'农民影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/农民影视.js'},
 //{'key':'drpy_js_六度TV','name':'六度TV','type':3,'api':'./libs/drpy2.min.js','ext':'./js/六度TV.js'},
 //{'key':'drpy_js_兔小贝','name':'兔小贝','type':3,'api':'./libs/drpy2.min.js','ext':'./js/兔小贝.js'},
