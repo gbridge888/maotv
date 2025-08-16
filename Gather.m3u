@@ -23,7 +23,7 @@ http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 #EXTINF:-1 group-title="•韩国「KO」",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-EXTINF:-1 group-title="•韩国「KO」",Gugak TV
+#EXTINF:-1 group-title="•韩国「KO」",Gugak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="•韩国「KO」",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
