@@ -167,7 +167,7 @@
 //{key:"csp_XBPQ_米兰影院",name:"米兰影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/iqtv-BPQ.json"},
 //{key:"csp_XBPQ_CN影院",name:"CN影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/94580.json"},
 //{key:"csp_XBPQ_多瑙影视",name:"多瑙影视(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/dnvods.json"},
-{key:"csp_XBPQ_韓劇網",name:"韓劇網(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/kortw-BPQ.json"},
+//{key:"csp_XBPQ_韓劇網",name:"韓劇網(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/kortw-BPQ.json"},
 {key:"csp_XBPQ_小宝影院",name:"小宝影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xiaoheimi-xBPQ.json"},
 //{key:"csp_XBPQ_南瓜影院",name:"南瓜影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/xxc-BPQ.json"},		
 //{key:"csp_XBPQ_愛迪",name:"愛迪(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/aiditv-BPQ.json"},				
