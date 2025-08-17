@@ -83,8 +83,10 @@
 体育频道|Skysports Mix,Smart//:id=tiankongmix
 体育频道|CCTV-5 体育频道,Smart//:id=cctv5
 体育频道|CCTV-5+ 体育赛事 HD,Smart//:id=cctv5plus
+体育频道|爱尔达体育1台,Smart//:id=eltasport1_twn
 体育频道|爱尔达体育2台,Smart//:id=eltasport2_twn
 体育频道|爱尔达体育3台,Smart//:id=eltasport3_twn
+体育频道|爱尔达体育4台,Smart//:id=eltasports4_twn
 体育频道|Rugby Pass TV,Smart//:id=Rugbypasstv
 体育频道|RTM Sports HD,Smart//:id=Rtmsport
 体育频道|Arena,Smart//:id=Arena
@@ -174,8 +176,10 @@
 台湾|星卫电影,Smart//:id=xingwei_movie
 台湾|爱尔达影剧,Smart//:id=eltayingju_twn
 台湾|AFC 亚洲旅游台,Smart//:id=asiatravel_twn
+台湾|爱尔达体育1台,Smart//:id=eltasport1_twn
 台湾|爱尔达体育2台,Smart//:id=eltasport2_twn
 台湾|爱尔达体育3台,Smart//:id=eltasport3_twn
+台湾|爱尔达体育4台,Smart//:id=eltasports4_twn
 
 电影频道|HBO_HD,Smart//:id=hbohd_twn
 电影频道|HBO_HITS,Smart//:id=hbohit_twn
