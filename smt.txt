@@ -119,7 +119,7 @@
 台湾|民视新闻台 FTV News,Smart//:id=ftvnew_taiwan
 台湾|民视台湾台,Smart//:id=ftvtaiwan_twn
 台湾|华视 CTS HD,Smart//:id=ctshd_twn
-台湾|公视 CTV,Smart//:id=ctv18_twn
+台湾|天映頻道,Smart//:id=ctv18_twn
 台湾|八大第一 GTV First,Smart//:id=badafirst
 台湾|八大综合 GTV Metro,Smart//:id=badazhonghe
 台湾|八大戏剧 GTV Drama,Smart//:id=badadrama
