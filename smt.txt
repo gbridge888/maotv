@@ -189,10 +189,19 @@
 台湾|HBO Family,Smart//:id=fyi_twn
 台湾|公视,Smart//:id=ctv_taiwan
 台湾|中视经典,Smart//:id=zhongshi_twn
-台湾|爱尔达体育 1,Smart//:id=eltasport_twn
+台湾|爱尔达体育1台(备用),Smart//:id=eltasport_twn
 台湾|ELEVEN 1,Smart//:id=golfchannel_twn
 台湾|博斯高球1,Smart//:id=bosigolf1_twn
 台湾|探索动力,Smart//:id=discoveryturbo_twn
+台湾|Nickelodeon,Smart//:id=nickelodeon_twn
+台湾|年代MUCH,Smart//:id=niandaitv_twn
+台湾|緯來戲劇,Smart//:id=videolandtv
+台湾|JET綜合,Smart//:id=jet
+台湾|壹新聞,Smart//:id=yinews
+台湾|amc電影台,Smart//:id=starmoviesgold_twn
+台湾|緯來育樂,Smart//:id=videolandmax
+台湾|NHK,Smart//:id=NHK
+台湾|布袋戏,Smart//:id=pilitw_twn
 
 电影频道|HBO_HD,Smart//:id=hbohd_twn
 电影频道|HBO_HITS,Smart//:id=hbohit_twn
