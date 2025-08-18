@@ -12,6 +12,12 @@
 香港|凤凰卫视,Smart//:id=phoenixtv_hd
 香港|凤凰资讯,Smart//:id=phoenixinfo_hd
 香港|Viu6,Smart//:id=viusix_twn
+香港|J2(备用),Smart//:id=j2_hkdavid
+香港|TVB 星河,Smart//:id=tvbxinhe_twn
+香港|Viu TV 69,Smart//:id=viutv69_hkdavid
+香港|无线财经资讯台,Smart//:id=tvbcaijing_twn
+香港|珍珠台(备用),Smart//:id=pearl_hkdavid
+香港|翡翠台(备用),Smart//:id=jade_mike
 
 中国|CCTV-1 综合 HD,Smart//:id=cctv1
 中国|CCTV-2 财经,Smart//:id=cctv2
@@ -180,6 +186,13 @@
 台湾|爱尔达体育2台,Smart//:id=eltasport2_twn
 台湾|爱尔达体育3台,Smart//:id=eltasport3_twn
 台湾|爱尔达体育4台,Smart//:id=eltasports4_twn
+台湾|HBO Family,Smart//:id=fyi_twn
+台湾|公视,Smart//:id=ctv_taiwan
+台湾|中视经典,Smart//:id=zhongshi_twn
+台湾|爱尔达体育 1,Smart//:id=eltasport_twn
+台湾|ELEVEN 1,Smart//:id=golfchannel_twn
+台湾|博斯高球1,Smart//:id=bosigolf1_twn
+台湾|探索动力,Smart//:id=discoveryturbo_twn
 
 电影频道|HBO_HD,Smart//:id=hbohd_twn
 电影频道|HBO_HITS,Smart//:id=hbohit_twn
@@ -372,6 +385,18 @@
 马来西亚|Astro Rusi,Smart//:id=Rusi
 马来西亚|WION,Smart//:id=Wion
 马来西亚|RTM Asean,Smart//:id=Rtmasean
+马来西亚|TV3(备用),Smart//:id=tv3_twn
+马来西亚|Warna(备用),Smart//:id=Warna
+马来西亚|Ria(备用),Smart//:id=Ria49
+马来西亚|Ria-3,Smart//:id=Ria_quanjia
+马来西亚|Prima(备用),Smart//:id=Prima49
+马来西亚|HBO Hits,Smart//:id=Hbohits
+马来西亚|Citra,Smart//:id=Citra
+马来西亚|Awesome TV,Smart//:id=Awesome_mega
+马来西亚|Astro Premier,Smart//:id=Astropremier
+马来西亚|欢喜台(备用),Smart//:id=Huahee_backup
+马来西亚|AOD,Smart//:id=AodHD
+马来西亚|One,Smart//:id=One_mega
 
 印度尼西亚|TVRI National,Smart//:id=TVRI
 印度尼西亚|RCTI,Smart//:id=Rcti
