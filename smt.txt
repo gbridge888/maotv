@@ -12,6 +12,7 @@
 香港|凤凰卫视,Smart//:id=phoenixtv_hd
 香港|凤凰资讯,Smart//:id=phoenixinfo_hd
 香港|Viu6,Smart//:id=viusix_twn
+
 中国|CCTV-1 综合 HD,Smart//:id=cctv1
 中国|CCTV-2 财经,Smart//:id=cctv2
 中国|CCTV-3 综艺 HD,Smart//:id=cctv3
@@ -27,6 +28,7 @@
 中国|CCTV-14 少儿,Smart//:id=cctv14
 中国|CCTV-6,Smart//:id=cctv6
 中国|CCTV-15 音乐,Smart//:id=cctv15
+
 中国|湖南卫视,Smart//:id=hunan_twn
 中国|浙江卫视,Smart//:id=zhejiang_twn
 中国|江苏卫视,Smart//:id=jiangsu_twn
@@ -45,6 +47,7 @@
 中国|凤凰资讯,Smart//:id=phoenixinfo_hd
 中国|CCTV-5 体育频道,Smart//:id=cctv5
 中国|CCTV-5+ 体育赛事 HD,Smart//:id=cctv5plus
+
 体育频道|Astro Premier League 1,Smart//:id=go_assp1
 体育频道|Astro EPL 1 backup,Smart//:id=go_assp1x
 体育频道|Astro Premier League 2,Smart//:id=go_assp2
@@ -93,6 +96,7 @@
 体育频道|Astro Beinsports 1,Smart//:id=Astrobein1
 体育频道|Astro Beinsports 2,Smart//:id=Astrobein2
 体育频道|Astro Beinsports 3,Smart//:id=Astrobein3
+
 台湾|TVBS News 新闻台,Smart//:id=tvbs_n
 台湾|TVBS 欢乐台 （备份）,Smart//:id=tvbshuanle_twn
 台湾|TVBS HD,Smart//:id=tvbs
@@ -100,14 +104,14 @@
 台湾|中天娱乐 CTI Entertaiment,Smart//:id=ctient
 台湾|中天综合 CTI Metro,Smart//:id=ctizhonghe
 台湾|中天亚洲台,Smart//:id=ctiasia_twn
-台湾|台视 TTV HD,Smart//:id=ttv_
+台湾|台视 TTV HD,Smart//:id=ttv_taiwan
 台湾|台视新闻台,Smart//:id=ttvnews_twn
 台湾|台视综合台,Smart//:id=ttvzhonghe
 台湾|中视 HD,Smart//:id=zhongshihd_twn
 台湾|中视新闻台,Smart//:id=zhongshinews_twn
-台湾|民视 HD,Smart//:id=ftvhd_
-台湾|民视新闻台 FTV News,Smart//:id=ftvnew_
-台湾|民视台湾台,Smart//:id=ftv_twn
+台湾|民视 HD,Smart//:id=ftvhd_taiwan
+台湾|民视新闻台 FTV News,Smart//:id=ftvnew_taiwan
+台湾|民视台湾台,Smart//:id=ftvtaiwan_twn
 台湾|华视 CTS HD,Smart//:id=ctshd_twn
 台湾|公视 CTV,Smart//:id=ctv18_twn
 台湾|八大第一 GTV First,Smart//:id=badafirst
@@ -117,7 +121,7 @@
 台湾|HBO_HD,Smart//:id=hbohd_twn
 台湾|HBO_HITS,Smart//:id=hbohit_twn
 台湾|Hollywood Movies,Smart//:id=hollywoodmovies_twn
-台湾|三立台湾 Sanli ,Smart//:id=sanli
+台湾|三立台湾 Sanli Taiwan,Smart//:id=sanlitaiwan
 台湾|三立戏剧台,Smart//:id=sanlixiju_twn
 台湾|三立综合 Sanli Metro,Smart//:id=sanlizhonghe
 台湾|三立都会台,Smart//:id=sanlidouhui
@@ -127,7 +131,7 @@
 台湾|东森戏剧 ETTV Drama,Smart//:id=ettvdrama
 台湾|东森超视,Smart//:id=ettvsuper
 台湾|东森财经新闻 ETTV Business,Smart//:id=ettvcaijing_twn
-台湾|寰宇财经,Smart//:id=huanyu_twn
+台湾|寰宇财经,Smart//:id=huanyutaiwan_twn
 台湾|寰宇新闻台,Smart//:id=huanyuxinwen_twn
 台湾|公视2,Smart//:id=ctv2_twn
 台湾|大爱1台,Smart//:id=daai_twn
@@ -135,7 +139,7 @@
 台湾|龙华戏剧 Lunghua Drama,Smart//:id=lunghuaxiju_twn
 台湾|龙华经典台,Smart//:id=lunghuajingdian_twn
 台湾|龙华偶像,Smart//:id=lunghuaidol_twn
-台湾|AXN ,Smart//:id=axn_twn
+台湾|AXN Taiwan,Smart//:id=axn_twn
 台湾|靖天国际台,Smart//:id=jingtianintl_twn
 台湾|年代新闻,Smart//:id=niandainews_twn
 台湾|纬来日本台,Smart//:id=videolandjapan
@@ -176,13 +180,14 @@
 台湾|爱尔达体育2台,Smart//:id=eltasport2_twn
 台湾|爱尔达体育3台,Smart//:id=eltasport3_twn
 台湾|爱尔达体育4台,Smart//:id=eltasports4_twn
+
 电影频道|HBO_HD,Smart//:id=hbohd_twn
 电影频道|HBO_HITS,Smart//:id=hbohit_twn
 电影频道|Hollywood Movies,Smart//:id=hollywoodmovies_twn
 电影频道|CCTV-6,Smart//:id=cctv6
 电影频道|CINEMAX,Smart//:id=cinemax_twn
 电影频道|Cinemax,Smart//:id=Cinemax
-电影频道|AXN ,Smart//:id=axn_twn
+电影频道|AXN Taiwan,Smart//:id=axn_twn
 电影频道|大爱2台,Smart//:id=daai2_twn
 电影频道|东森电影 ETTV Movie,Smart//:id=ettvmovie
 电影频道|东森洋片 ETTV Western,Smart//:id=ettvwestern
@@ -214,6 +219,7 @@
 电影频道|Astrol Kplus,Smart//:id=Kplus
 电影频道|Rock Actions,Smart//:id=Rockaction
 电影频道|Rock Entertainment,Smart//:id=Rockentertain
+
 纪录频道|Natgeo_HD,Smart//:id=natgeohd_twn
 纪录频道|NatGeo_Wild HD,Smart//:id=natgeowild_twn
 纪录频道|Animal_Planet,Smart//:id=animalplanet_twn
@@ -236,6 +242,7 @@
 纪录频道|Foodnetwork Hd,Smart//:id=Foodnetwork
 纪录频道|HGTV,Smart//:id=HGTV
 纪录频道|AFC 亚洲旅游台,Smart//:id=asiatravel_twn
+
 新闻频道|Skynews,Smart//:id=skynews_twn
 新闻频道|ABC News,Smart//:id=abcnews_glo
 新闻频道|东森财经新闻 ETTV Business,Smart//:id=ettvcaijing_twn
@@ -254,6 +261,7 @@
 新闻频道|BBC World News,Smart//:id=Bbcnews
 新闻频道|Bloomberg News,Smart//:id=bloomberg_twn
 新闻频道|Al-Jazeera,Smart//:id=aljazeera_twn
+
 儿童频道|Baby TV Eng,Smart//:id=Babytv
 儿童频道|CBeebies,Smart//:id=Cbeebies
 儿童频道|Kids TV,Smart//:id=KidsTV
@@ -266,6 +274,7 @@
 儿童频道|Cartoon Network,Smart//:id=Cn
 儿童频道|Nickelodeon,Smart//:id=Nickelodeon
 儿童频道|Nick Jr,Smart//:id=Nickjr
+
 新加坡|Channel 5,Smart//:id=Channel5HD
 新加坡|Channel 8,Smart//:id=Channel8HD
 新加坡|Suria,Smart//:id=Suria
@@ -279,6 +288,7 @@
 新加坡|MeWatch Suria,Smart//:id=Mewatch_Suria
 新加坡|MeWatch Vasantham,Smart//:id=Mewatch_Vasantham
 新加坡|MeWatch CNA,Smart//:id=Mewatch_cna
+
 马来西亚|TV1,Smart//:id=TV1
 马来西亚|TV1 backup,Smart//:id=TV1_backup
 马来西亚|TV2,Smart//:id=TV2
@@ -362,6 +372,7 @@
 马来西亚|Astro Rusi,Smart//:id=Rusi
 马来西亚|WION,Smart//:id=Wion
 马来西亚|RTM Asean,Smart//:id=Rtmasean
+
 印度尼西亚|TVRI National,Smart//:id=TVRI
 印度尼西亚|RCTI,Smart//:id=Rcti
 印度尼西亚|Kompass TV,Smart//:id=Kompass
@@ -439,6 +450,7 @@
 印度|Astro Sunmusic,Smart//:id=Sunmusic
 印度|Vijay Super,Smart//:id=vijaysuper_raj
 印度|Vellithirai,Smart//:id=Vellithirai
+
 泰国|Channel 3 Thailand,Smart//:id=ch3_pat
 泰国|Channel 5 Thailand,Smart//:id=ch5_pat
 泰国|Channel 7 Thailand,Smart//:id=ch7_pat
@@ -458,6 +470,7 @@
 泰国|Nbt,Smart//:id=nbt_pat
 泰国|New,Smart//:id=new_pat
 泰国|TPTV,Smart//:id=tptv_pat
+
 英国|BBC 1,Smart//:id=bbc1_antik
 英国|BBC 2,Smart//:id=bbc2_antik
 英国|CBBC,Smart//:id=cbbc_antik
@@ -501,6 +514,7 @@
 英国|Skysports Main Event,Smart//:id=tiankongmain
 英国|Skysports News,Smart//:id=tiankongnews
 英国|Al-Jazeera,Smart//:id=aljazeera_twn
+
 越南|ANTV,Smart//:id=viet_antv
 越南|VTV 1,Smart//:id=viet_vtv1
 越南|VTV 7,Smart//:id=viet_vtv7
@@ -513,6 +527,7 @@
 越南|Danang TV2 HD,Smart//:id=viet_danangtv2
 越南|HBTV HD,Smart//:id=viet_hbtv
 越南|PTTH 1,Smart//:id=viet_ptth1
+
 韩国|Arirang HD,Smart//:id=arirang_korea
 韩国|Yonhap News,Smart//:id=yonhapnews_korea
 韩国|CBS,Smart//:id=cbs_korea
@@ -530,6 +545,7 @@
 韩国|J the Kpop,Smart//:id=jthekpop_korea
 韩国|EBS Kids,Smart//:id=ebskids_korea
 韩国|CGNTV,Smart//:id=cgntv_korea
+
 日本|NHK-総合-2,Smart//:id=nhkg_japan
 日本|NHK-E,Smart//:id=nhke_japan
 日本|テレビ朝日 Asahi TV,Smart//:id=asahitv_japan
@@ -544,28 +560,3 @@
 日本|BS-TBS,Smart//:id=bstbs_japan
 日本|NHK Oaska,Smart//:id=nhkosaka_japan
 日本|NHK World,Smart//:id=nhkworld_japan
-台湾|HBO Family,Smart//:id=fyi_twn
-台湾|公视,Smart//:id=ctv_
-台湾|中视经典,Smart//:id=zhongshi_twn
-台湾|爱尔达体育 1,Smart//:id=eltasport_twn
-台湾|ELEVEN 1,Smart//:id=golfchannel_twn
-台湾|博斯高球1,Smart//:id=bosigolf1_twn
-台湾|探索动力,Smart//:id=discoveryturbo_twn
-香港|J2(备用),Smart//:id=j2_hkdavid
-香港|TVB 星河,Smart//:id=tvbxinhe_twn
-香港|Viu TV 69,Smart//:id=viutv69_hkdavid
-香港|无线财经资讯台,Smart//:id=tvbcaijing_twn
-香港|珍珠台(备用),Smart//:id=pearl_hkdavid
-香港|翡翠台(备用),Smart//:id=jade_mike
-马来西亚|TV3(备用),Smart//:id=tv3_twn
-马来西亚|Warna(备用),Smart//:id=Warna
-马来西亚|Ria(备用),Smart//:id=Ria49
-马来西亚|Ria-3,Smart//:id=Ria_quanjia
-马来西亚|Prima(备用),Smart//:id=Prima49
-马来西亚|HBO Hits,Smart//:id=Hbohits
-马来西亚|Citra,Smart//:id=Citra
-马来西亚|Awesome TV,Smart//:id=Awesome_mega
-马来西亚|Astro Premier,Smart//:id=Astropremier
-马来西亚|欢喜台(备用),Smart//:id=Huahee_backup
-马来西亚|AOD,Smart//:id=AodHD
-马来西亚|One,Smart//:id=One_mega
