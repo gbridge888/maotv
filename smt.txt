@@ -152,7 +152,7 @@
 台湾|纬来电影台,Smart//:id=videolandmovie
 台湾|纬来体育台,Smart//:id=videolandsport
 台湾|纬来综合台,Smart//:id=videolandzonghe
-台湾|纬来育乐,Smart//:id=videolandyule
+台湾|纬来育乐(备用),Smart//:id=videolandyule
 台湾|纬来精彩,Smart//:id=videolandspecial_twn
 台湾|好消息 2,Smart//:id=good2_twn
 台湾|大爱2台,Smart//:id=daai2_twn
