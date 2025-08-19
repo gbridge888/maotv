@@ -588,7 +588,6 @@
 其他|DAZN 2,Smart//:id=dazn2_twn
 其他|信大,Smart//:id=xinda_twn
 其他|靖洋卡通,Smart//:id=jingyangcartoon_twn
-其他|Discovery Sci,Smart//:id=discoverysc_twn
 其他|Lifetime,Smart//:id=lifetime_twn
 其他|HGTV,Smart//:id=hgtv_twn
 其他|愛爾達綜合,Smart//:id=eltazonghe
@@ -598,15 +597,12 @@
 其他|Sky News,Smart//:id=skynews_antik
 其他|HBO Hits,Smart//:id=hbohead_twn
 其他|HBO Signature,Smart//:id=hbosignature_twn
-其他|Astro 歡喜台(Mega),Smart//:id=Huahee_mega
 其他|ESPN,Smart//:id=espn
 其他|Skysports Arena,Smart//:id=tiankongarena
 其他|Skysports Football,Smart//:id=tiankongfootball
 其他|Skysports Golf,Smart//:id=tiankonggolf
 其他|Skysports NFL,Smart//:id=tiankongnfl
 其他|Skysports Racing,Smart//:id=tiankongracing
-其他|UFC,Smart//:id=ufc_mega
 其他|NBA,Smart//:id=nbatv_twn
-其他|TVB星河台(粵),Smart//:id=Xinhe_mega
 其他|CCTV-16,Smart//:id=cctv16
 其他|CCTV-17,Smart//:id=cctv17
