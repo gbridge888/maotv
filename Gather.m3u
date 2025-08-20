@@ -51,3 +51,329 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="•韩国「KO」",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="云TV",凤凰中文
+http://iptv.4666888.xyz/iptv.php?id=20060
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="云TV",凤凰资讯
+http://iptv.4666888.xyz/iptv.php?id=20061
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="云TV",凤凰香港
+http://iptv.4666888.xyz/iptv.php?id=20062
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="云TV",凤凰中文
+http://iptv.4666888.xyz/iptv.php?id=20063
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="云TV",凤凰资讯
+http://iptv.4666888.xyz/iptv.php?id=20064
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="云TV",凤凰香港
+http://iptv.4666888.xyz/iptv.php?id=20065
+#EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="" group-title="云TV",TVB翡翠
+http://iptv.4666888.xyz/iptv.php?id=20066
+#EXTINF:-1 tvg-id="TVB翡翠(新加坡)" tvg-name="TVB翡翠(新加坡)" tvg-logo="" group-title="云TV",TVB翡翠(新加坡)
+http://iptv.4666888.xyz/iptv.php?id=20067
+#EXTINF:-1 tvg-id="TVB翡翠(马来)" tvg-name="TVB翡翠(马来)" tvg-logo="" group-title="云TV",TVB翡翠(马来)
+http://iptv.4666888.xyz/iptv.php?id=20068
+#EXTINF:-1 tvg-id="TVB无线新闻" tvg-name="TVB无线新闻" tvg-logo="" group-title="云TV",TVB无线新闻
+http://iptv.4666888.xyz/iptv.php?id=20069
+#EXTINF:-1 tvg-id="TVB无线新闻(北美)" tvg-name="TVB无线新闻(北美)" tvg-logo="" group-title="云TV",TVB无线新闻(北美)
+http://iptv.4666888.xyz/iptv.php?id=20070
+#EXTINF:-1 tvg-id="TVB明珠" tvg-name="TVB明珠" tvg-logo="" group-title="云TV",TVB明珠
+http://iptv.4666888.xyz/iptv.php?id=20071
+#EXTINF:-1 tvg-id="TVB_Plus" tvg-name="TVB_Plus" tvg-logo="" group-title="云TV",TVB_Plus
+http://iptv.4666888.xyz/iptv.php?id=20072
+#EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" tvg-logo="" group-title="云TV",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv.php?id=20073
+#EXTINF:-1 tvg-id="TVB生活" tvg-name="TVB生活" tvg-logo="" group-title="云TV",TVB生活
+http://iptv.4666888.xyz/iptv.php?id=20074
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="" group-title="云TV",ViuTV
+http://iptv.4666888.xyz/iptv.php?id=20075
+#EXTINF:-1 tvg-id="ViuTV6" tvg-name="ViuTV6" tvg-logo="" group-title="云TV",ViuTV6
+http://iptv.4666888.xyz/iptv.php?id=20076
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="" group-title="云TV",HOY76
+http://iptv.4666888.xyz/iptv.php?id=20077
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="" group-title="云TV",HOY77
+http://iptv.4666888.xyz/iptv.php?id=20078
+#EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="" group-title="云TV",HOY78
+http://iptv.4666888.xyz/iptv.php?id=20079
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="" group-title="云TV",RTHK31
+http://iptv.4666888.xyz/iptv.php?id=20080
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="" group-title="云TV",RTHK32
+http://iptv.4666888.xyz/iptv.php?id=20081
+#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="" group-title="云TV",Now新闻
+http://iptv.4666888.xyz/iptv.php?id=20082
+#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="" group-title="云TV",Now新闻
+http://iptv.4666888.xyz/iptv.php?id=20083
+#EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="" group-title="云TV",Now新闻
+http://iptv.4666888.xyz/iptv.php?id=20084
+#EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="" group-title="云TV",Now财经
+http://iptv.4666888.xyz/iptv.php?id=20085
+#EXTINF:-1 tvg-id="Now星影(粤)" tvg-name="Now星影(粤)" tvg-logo="" group-title="云TV",Now星影(粤)
+http://iptv.4666888.xyz/iptv.php?id=20086
+#EXTINF:-1 tvg-id="Now爆谷(粤)" tvg-name="Now爆谷(粤)" tvg-logo="" group-title="云TV",Now爆谷(粤)
+http://iptv.4666888.xyz/iptv.php?id=20087
+#EXTINF:-1 tvg-id="Now星影(国)" tvg-name="Now星影(国)" tvg-logo="" group-title="云TV",Now星影(国)
+http://iptv.4666888.xyz/iptv.php?id=20088
+#EXTINF:-1 tvg-id="Now爆谷(国)" tvg-name="Now爆谷(国)" tvg-logo="" group-title="云TV",Now爆谷(国)
+http://iptv.4666888.xyz/iptv.php?id=20089
+#EXTINF:-1 tvg-id="Now紫金国际" tvg-name="Now紫金国际" tvg-logo="" group-title="云TV",Now紫金国际
+http://iptv.4666888.xyz/iptv.php?id=20090
+#EXTINF:-1 tvg-id="Now剧集" tvg-name="Now剧集" tvg-logo="" group-title="云TV",Now剧集
+http://iptv.4666888.xyz/iptv.php?id=20091
+#EXTINF:-1 tvg-id="Now直播" tvg-name="Now直播" tvg-logo="" group-title="云TV",Now直播
+http://iptv.4666888.xyz/iptv.php?id=20093
+#EXTINF:-1 tvg-id="Now英超1" tvg-name="Now英超1" tvg-logo="" group-title="云TV",Now英超1
+http://iptv.4666888.xyz/iptv.php?id=20092
+#EXTINF:-1 tvg-id="Now668赛马" tvg-name="Now668赛马" tvg-logo="" group-title="云TV",Now668赛马
+http://iptv.4666888.xyz/iptv.php?id=20094
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="云TV",TVB1
+http://iptv.4666888.xyz/iptv.php?id=20095
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="" group-title="云TV",TVBJ1
+http://iptv.4666888.xyz/iptv.php?id=20096
+#EXTINF:-1 tvg-id="TVBE" tvg-name="TVBE" tvg-logo="" group-title="云TV",TVBE
+http://iptv.4666888.xyz/iptv.php?id=20097
+#EXTINF:-1 tvg-id="TVB明珠剧集" tvg-name="TVB明珠剧集" tvg-logo="" group-title="云TV",TVB明珠剧集
+http://iptv.4666888.xyz/iptv.php?id=20098
+#EXTINF:-1 tvg-id="TVB翡翠剧集" tvg-name="TVB翡翠剧集" tvg-logo="" group-title="云TV",TVB翡翠剧集
+http://iptv.4666888.xyz/iptv.php?id=20099
+#EXTINF:-1 tvg-id="TVB黄金华剧" tvg-name="TVB黄金华剧" tvg-logo="" group-title="云TV",TVB黄金华剧
+http://iptv.4666888.xyz/iptv.php?id=20100
+#EXTINF:-1 tvg-id="TVB星河(粤)" tvg-name="TVB星河(粤)" tvg-logo="" group-title="云TV",TVB星河(粤)
+http://iptv.4666888.xyz/iptv.php?id=20101
+#EXTINF:-1 tvg-id="TVB星河(国)" tvg-name="TVB星河(国)" tvg-logo="" group-title="云TV",TVB星河(国)
+http://iptv.4666888.xyz/iptv.php?id=20102
+#EXTINF:-1 tvg-id="TVB武侠(粤)" tvg-name="TVB武侠(粤)" tvg-logo="" group-title="云TV",TVB武侠(粤)
+http://iptv.4666888.xyz/iptv.php?id=20103
+#EXTINF:-1 tvg-id="TVB武侠(国)" tvg-name="TVB武侠(国)" tvg-logo="" group-title="云TV",TVB武侠(国)
+http://iptv.4666888.xyz/iptv.php?id=20104
+#EXTINF:-1 tvg-id="TVB千禧经典" tvg-name="TVB千禧经典" tvg-logo="" group-title="云TV",TVB千禧经典
+http://iptv.4666888.xyz/iptv.php?id=20105
+#EXTINF:-1 tvg-id="MYTV_SUPER黄金翡翠" tvg-name="MYTV_SUPER黄金翡翠" tvg-logo="" group-title="云TV",MYTV_SUPER黄金翡翠
+http://iptv.4666888.xyz/iptv.php?id=20106
+#EXTINF:-1 tvg-id="MYTV_SUPER经典" tvg-name="MYTV_SUPER经典" tvg-logo="" group-title="云TV",MYTV_SUPER经典
+http://iptv.4666888.xyz/iptv.php?id=20107
+#EXTINF:-1 tvg-id="MYTV_SUPER黄金华剧" tvg-name="MYTV_SUPER黄金华剧" tvg-logo="" group-title="云TV",MYTV_SUPER黄金华剧
+http://iptv.4666888.xyz/iptv.php?id=20108
+#EXTINF:-1 tvg-id="MYTV_SUPER亚洲剧" tvg-name="MYTV_SUPER亚洲剧" tvg-logo="" group-title="云TV",MYTV_SUPER亚洲剧
+http://iptv.4666888.xyz/iptv.php?id=20109
+#EXTINF:-1 tvg-id="MYTV_SUPER少儿" tvg-name="MYTV_SUPER少儿" tvg-logo="" group-title="云TV",MYTV_SUPER少儿
+http://iptv.4666888.xyz/iptv.php?id=20110
+#EXTINF:-1 tvg-id="MYTV_SUPER_FREE" tvg-name="MYTV_SUPER_FREE" tvg-logo="" group-title="云TV",MYTV_SUPER_FREE
+http://iptv.4666888.xyz/iptv.php?id=20111
+#EXTINF:-1 tvg-id="MYTV_SUPER粤语片" tvg-name="MYTV_SUPER粤语片" tvg-logo="" group-title="云TV",MYTV_SUPER粤语片
+http://iptv.4666888.xyz/iptv.php?id=20112
+#EXTINF:-1 tvg-id="MYTV_SUPER戏曲" tvg-name="MYTV_SUPER戏曲" tvg-logo="" group-title="云TV",MYTV_SUPER戏曲
+http://iptv.4666888.xyz/iptv.php?id=20113
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="" group-title="云TV",天映经典
+http://iptv.4666888.xyz/iptv.php?id=20114
+#EXTINF:-1 tvg-id="天映经典2" tvg-name="天映经典2" tvg-logo="" group-title="云TV",天映经典2
+http://iptv.4666888.xyz/iptv.php?id=20115
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="云TV",天映频道
+http://iptv.4666888.xyz/iptv.php?id=20116
+#EXTINF:-1 tvg-id="天映频道2" tvg-name="天映频道2" tvg-logo="" group-title="云TV",天映频道2
+http://iptv.4666888.xyz/iptv.php?id=20117
+#EXTINF:-1 tvg-id="PopC电影" tvg-name="PopC电影" tvg-logo="" group-title="云TV",PopC电影
+http://iptv.4666888.xyz/iptv.php?id=20118
+#EXTINF:-1 tvg-id="创世电视" tvg-name="创世电视" tvg-logo="" group-title="云TV",创世电视
+http://iptv.4666888.xyz/iptv.php?id=20119
+#EXTINF:-1 tvg-id="美亚电影(港)" tvg-name="美亚电影(港)" tvg-logo="" group-title="云TV",美亚电影(港)
+http://iptv.4666888.xyz/iptv.php?id=20120
+#EXTINF:-1 tvg-id="星光视界" tvg-name="星光视界" tvg-logo="" group-title="云TV",星光视界
+http://iptv.4666888.xyz/iptv.php?id=20121
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="云TV",重温经典
+http://iptv.4666888.xyz/iptv.php?id=20122
+#EXTINF:-1 tvg-id="88赛马" tvg-name="88赛马" tvg-logo="" group-title="云TV",88赛马
+http://iptv.4666888.xyz/iptv.php?id=20123
+#EXTINF:-1 tvg-id="有线18赛马" tvg-name="有线18赛马" tvg-logo="" group-title="云TV",有线18赛马
+http://iptv.4666888.xyz/iptv.php?id=20124
+#EXTINF:-1 tvg-id="无线18赛马" tvg-name="无线18赛马" tvg-logo="" group-title="云TV",无线18赛马
+http://iptv.4666888.xyz/iptv.php?id=20125
+#EXTINF:-1 tvg-id="28AI赛马" tvg-name="28AI赛马" tvg-logo="" group-title="云TV",28AI赛马
+http://iptv.4666888.xyz/iptv.php?id=20126
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="" group-title="云TV",澳视澳门
+http://iptv.4666888.xyz/iptv.php?id=20127
+#EXTINF:-1 tvg-id="澳门Macau" tvg-name="澳门Macau" tvg-logo="" group-title="云TV",澳门Macau
+http://iptv.4666888.xyz/iptv.php?id=20128
+#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="" group-title="云TV",澳门资讯
+http://iptv.4666888.xyz/iptv.php?id=20129
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="" group-title="云TV",澳门莲花
+http://iptv.4666888.xyz/iptv.php?id=20130
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="" group-title="云TV",澳门体育
+http://iptv.4666888.xyz/iptv.php?id=20131
+#EXTINF:-1 tvg-id="天映CM+" tvg-name="天映CM+" tvg-logo="" group-title="云TV",天映CM+
+http://iptv.4666888.xyz/iptv.php?id=20132
+#EXTINF:-1 tvg-id="TVB-EYT" tvg-name="TVB-EYT" tvg-logo="" group-title="云TV",TVB-EYT
+http://iptv.4666888.xyz/iptv.php?id=20133
+#EXTINF:-1 tvg-id="TVB-Music" tvg-name="TVB-Music" tvg-logo="" group-title="云TV",TVB-Music
+http://iptv.4666888.xyz/iptv.php?id=20134
+#EXTINF:-1 tvg-id="TVB-Sports" tvg-name="TVB-Sports" tvg-logo="" group-title="云TV",TVB-Sports
+http://iptv.4666888.xyz/iptv.php?id=20135
+#EXTINF:-1 tvg-id="TVB-劇場" tvg-name="TVB-劇場" tvg-logo="" group-title="云TV",TVB-劇場
+http://iptv.4666888.xyz/iptv.php?id=20136
+#EXTINF:-1 tvg-id="TVB-煲劇" tvg-name="TVB-煲劇" tvg-logo="" group-title="云TV",TVB-煲劇
+http://iptv.4666888.xyz/iptv.php?id=20137
+#EXTINF:-1 tvg-id="TVB-獎門人" tvg-name="TVB-獎門人" tvg-logo="" group-title="云TV",TVB-獎門人
+http://iptv.4666888.xyz/iptv.php?id=20138
+#EXTINF:-1 tvg-id="TVB-話當年" tvg-name="TVB-話當年" tvg-logo="" group-title="云TV",TVB-話當年
+http://iptv.4666888.xyz/iptv.php?id=20139
+#EXTINF:-1 tvg-id="TVB-識嘆" tvg-name="TVB-識嘆" tvg-logo="" group-title="云TV",TVB-識嘆
+http://iptv.4666888.xyz/iptv.php?id=20140
+#EXTINF:-1 tvg-id="TVB-識食" tvg-name="TVB-識食" tvg-logo="" group-title="云TV",TVB-識食
+http://iptv.4666888.xyz/iptv.php?id=20141
+#EXTINF:-1 tvg-id="TVB-金曲" tvg-name="TVB-金曲" tvg-logo="" group-title="云TV",TVB-金曲
+http://iptv.4666888.xyz/iptv.php?id=20142
+#EXTINF:-1 tvg-id="新加坡MU" tvg-name="新加坡MU" tvg-logo="" group-title="云TV",新加坡MU
+http://iptv.4666888.xyz/iptv.php?id=20284
+#EXTINF:-1 tvg-id="新加坡M5" tvg-name="新加坡M5" tvg-logo="" group-title="云TV",新加坡M5
+http://iptv.4666888.xyz/iptv.php?id=20285
+#EXTINF:-1 tvg-id="新加坡M8" tvg-name="新加坡M8" tvg-logo="" group-title="云TV",新加坡M8
+http://iptv.4666888.xyz/iptv.php?id=20286
+#EXTINF:-1 tvg-id="Hub娱家" tvg-name="Hub娱家" tvg-logo="" group-title="云TV",Hub娱家
+http://iptv.4666888.xyz/iptv.php?id=20287
+#EXTINF:-1 tvg-id="Hub都会" tvg-name="Hub都会" tvg-logo="" group-title="云TV",Hub都会
+http://iptv.4666888.xyz/iptv.php?id=20288
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="云TV",TVBS新闻
+http://iptv.4666888.xyz/iptv.php?id=20168
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="" group-title="云TV",三立新闻
+http://iptv.4666888.xyz/iptv.php?id=20169
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="" group-title="云TV",三立iNEWS
+http://iptv.4666888.xyz/iptv.php?id=20170
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="" group-title="云TV",中视新闻
+http://iptv.4666888.xyz/iptv.php?id=20171
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="" group-title="云TV",台视新闻
+http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="云TV",中天新闻
+http://iptv.4666888.xyz/iptv.php?id=20173
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="" group-title="云TV",东森新闻
+http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 tvg-id="东森新闻(美)" tvg-name="东森新闻(美)" tvg-logo="" group-title="云TV",东森新闻(美)
+http://iptv.4666888.xyz/iptv.php?id=20175
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="" group-title="云TV",寰宇新闻
+http://iptv.4666888.xyz/iptv.php?id=20176
+#EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="" group-title="云TV",寰宇新闻台湾
+http://iptv.4666888.xyz/iptv.php?id=20293
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="云TV",民视新闻
+http://iptv.4666888.xyz/iptv.php?id=20177
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="" group-title="云TV",年代新闻
+http://iptv.4666888.xyz/iptv.php?id=20178
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="云TV",非凡新闻
+http://iptv.4666888.xyz/iptv.php?id=20179
+#EXTINF:-1 tvg-id="摬新闻" tvg-name="摬新闻" tvg-logo="" group-title="云TV",摬新闻
+http://iptv.4666888.xyz/iptv.php?id=20180
+#EXTINF:-1 tvg-id="中天CTI+" tvg-name="中天CTI+" tvg-logo="" group-title="云TV",中天CTI+
+http://iptv.4666888.xyz/iptv.php?id=20181
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="云TV",民视
+http://iptv.4666888.xyz/iptv.php?id=20182
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="云TV",中视
+http://iptv.4666888.xyz/iptv.php?id=20183
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="" group-title="云TV",华视
+http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="" group-title="云TV",公视
+http://iptv.4666888.xyz/iptv.php?id=20185
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="" group-title="云TV",台视
+http://iptv.4666888.xyz/iptv.php?id=20186
+#EXTINF:-1 tvg-id="中旺电视" tvg-name="中旺电视" tvg-logo="" group-title="云TV",中旺电视
+http://iptv.4666888.xyz/iptv.php?id=20187
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="云TV",TVBS HD
+http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="" group-title="云TV",TVBS欢乐
+http://iptv.4666888.xyz/iptv.php?id=20189
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="" group-title="云TV",TVBS亚洲
+http://iptv.4666888.xyz/iptv.php?id=20190
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="" group-title="云TV",TVBS精采
+http://iptv.4666888.xyz/iptv.php?id=20191
+#EXTINF:-1 tvg-id="TVBS综艺" tvg-name="TVBS综艺" tvg-logo="" group-title="云TV",TVBS综艺
+http://iptv.4666888.xyz/iptv.php?id=20192
+#EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="" group-title="云TV",TVBS台剧
+http://iptv.4666888.xyz/iptv.php?id=20193
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="" group-title="云TV",中天娱乐
+http://iptv.4666888.xyz/iptv.php?id=20194
+#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="" group-title="云TV",中天综合
+http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="" group-title="云TV",中天亚洲
+http://iptv.4666888.xyz/iptv.php?id=20196
+#EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一" tvg-logo="" group-title="云TV",八大第一
+http://iptv.4666888.xyz/iptv.php?id=20197
+#EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" tvg-logo="" group-title="云TV",八大综合
+http://iptv.4666888.xyz/iptv.php?id=20198
+#EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="" group-title="云TV",八大戏剧
+http://iptv.4666888.xyz/iptv.php?id=20199
+#EXTINF:-1 tvg-id="八大娱乐" tvg-name="八大娱乐" tvg-logo="" group-title="云TV",八大娱乐
+http://iptv.4666888.xyz/iptv.php?id=20200
+#EXTINF:-1 tvg-id="八大精采" tvg-name="八大精采" tvg-logo="" group-title="云TV",八大精采
+http://iptv.4666888.xyz/iptv.php?id=20201
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="" group-title="云TV",三立台湾
+http://iptv.4666888.xyz/iptv.php?id=20202
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="" group-title="云TV",三立戏剧
+http://iptv.4666888.xyz/iptv.php?id=20203
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="" group-title="云TV",三立综合
+http://iptv.4666888.xyz/iptv.php?id=20204
+#EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="" group-title="云TV",三立都会
+http://iptv.4666888.xyz/iptv.php?id=20205
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="" group-title="云TV",东森综合
+http://iptv.4666888.xyz/iptv.php?id=20206
+#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="" group-title="云TV",东森戏剧
+http://iptv.4666888.xyz/iptv.php?id=20207
+#EXTINF:-1 tvg-id="东森超视34.5" tvg-name="东森超视34.5" tvg-logo="" group-title="云TV",东森超视34.5
+http://iptv.4666888.xyz/iptv.php?id=20208
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="" group-title="云TV",华视新闻
+http://iptv.4666888.xyz/iptv.php?id=20209
+#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="" group-title="云TV",东森美洲
+http://iptv.4666888.xyz/iptv.php?id=20210
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="云TV",东森电影
+http://iptv.4666888.xyz/iptv.php?id=20211
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="云TV",东森洋片
+http://iptv.4666888.xyz/iptv.php?id=20212
+#EXTINF:-1 tvg-id="东森Yoyo" tvg-name="东森Yoyo" tvg-logo="" group-title="云TV",东森Yoyo
+http://iptv.4666888.xyz/iptv.php?id=20213
+#EXTINF:-1 tvg-id="民事第一" tvg-name="民事第一" tvg-logo="" group-title="云TV",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20214
+#EXTINF:-1 tvg-id="民事第一" tvg-name="民事第一" tvg-logo="" group-title="云TV",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20215
+#EXTINF:-1 tvg-id="民视台湾" tvg-name="民视台湾" tvg-logo="" group-title="云TV",民视台湾
+http://iptv.4666888.xyz/iptv.php?id=20216
+#EXTINF:-1 tvg-id="民事综艺" tvg-name="民事综艺" tvg-logo="" group-title="云TV",民事综艺
+http://iptv.4666888.xyz/iptv.php?id=20217
+#EXTINF:-1 tvg-id="民视旅遊" tvg-name="民视旅遊" tvg-logo="" group-title="云TV",民视旅遊
+http://iptv.4666888.xyz/iptv.php?id=20218
+#EXTINF:-1 tvg-id="民视戏剧" tvg-name="民视戏剧" tvg-logo="" group-title="云TV",民视戏剧
+http://iptv.4666888.xyz/iptv.php?id=20219
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="云TV",台视综合
+http://iptv.4666888.xyz/iptv.php?id=20220
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="云TV",中视经典
+http://iptv.4666888.xyz/iptv.php?id=20221
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="" group-title="云TV",中视菁采
+http://iptv.4666888.xyz/iptv.php?id=20222
+#EXTINF:-1 tvg-id="华艺中文" tvg-name="华艺中文" tvg-logo="" group-title="云TV",华艺中文
+http://iptv.4666888.xyz/iptv.php?id=20223
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="" group-title="云TV",智林体育
+http://iptv.4666888.xyz/iptv.php?id=20224
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="" group-title="云TV",纬来体育
+http://iptv.4666888.xyz/iptv.php?id=20225
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="" group-title="云TV",纬来日本
+http://iptv.4666888.xyz/iptv.php?id=20226
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="" group-title="云TV",纬来电影
+http://iptv.4666888.xyz/iptv.php?id=20227
+#EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="" group-title="云TV",纬来综合
+http://iptv.4666888.xyz/iptv.php?id=20228
+#EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="" group-title="云TV",纬来精采
+http://iptv.4666888.xyz/iptv.php?id=20229
+#EXTINF:-1 tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="" group-title="云TV",爱尔达影剧
+http://iptv.4666888.xyz/iptv.php?id=20230
+#EXTINF:-1 tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="" group-title="云TV",爱尔达综合
+http://iptv.4666888.xyz/iptv.php?id=20231
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="" group-title="云TV",爱尔达体育1
+http://iptv.4666888.xyz/iptv.php?id=20232
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="" group-title="云TV",爱尔达体育2
+http://iptv.4666888.xyz/iptv.php?id=20233
+#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="" group-title="云TV",爱尔达体育3
+http://iptv.4666888.xyz/iptv.php?id=20234
+#EXTINF:-1 tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="" group-title="云TV",爱尔达体育4
+http://iptv.4666888.xyz/iptv.php?id=20235
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="" group-title="云TV",靖天国际台
+http://iptv.4666888.xyz/iptv.php?id=20236
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="云TV",靖天卡通
+http://iptv.4666888.xyz/iptv.php?id=20237
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="" group-title="云TV",爱奇艺
+http://iptv.4666888.xyz/iptv.php?id=20238
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="" group-title="云TV",美亚电影
+http://iptv.4666888.xyz/iptv.php?id=20239
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="云TV",龙华电影
+http://iptv.4666888.xyz/iptv.php?id=20240
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="" group-title="云TV",龙华戏剧
+http://iptv.4666888.xyz/iptv.php
