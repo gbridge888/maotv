@@ -56,9 +56,9 @@
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a","timeout":10},
-{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a","timeout":10},
-{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/neyAUC_R.png;md5;2f4b05a693eb87f6d6834d89685cb16a","timeout":10},
+{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/tAwaWcxP.png;md5;801767b143a6b8a3b8d8d7dc8b10716","timeout":10},
+{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/tAwaWcxP.png;md5;801767b143a6b8a3b8d8d7dc8b10716","timeout":10},
+{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/tAwaWcxP.png;md5;801767b143a6b8a3b8d8d7dc8b10716","timeout":10},
 //{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/ok0709.jar;md5;d6c550913a69efc65f8781b51cbf3de8","timeout":10},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/rice0709.jar;md5;8432d174d72d5b608ae1bcd16d966847","timeout":10},
 
