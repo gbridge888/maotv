@@ -63,6 +63,28 @@ http://iptv.4666888.xyz/iptv.php?id=20063
 http://iptv.4666888.xyz/iptv.php?id=20064
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="云TV",凤凰香港
 http://iptv.4666888.xyz/iptv.php?id=20065
+#EXTINF:-1 tvg-id="Now星影(粤)" tvg-name="Now星影(粤)" tvg-logo="" group-title="云TV",Now星影(粤)
+http://iptv.4666888.xyz/iptv.php?id=20086
+#EXTINF:-1 tvg-id="Now爆谷(粤)" tvg-name="Now爆谷(粤)" tvg-logo="" group-title="云TV",Now爆谷(粤)
+http://iptv.4666888.xyz/iptv.php?id=20087
+#EXTINF:-1 tvg-id="Now星影(国)" tvg-name="Now星影(国)" tvg-logo="" group-title="云TV",Now星影(国)
+http://iptv.4666888.xyz/iptv.php?id=20088
+#EXTINF:-1 tvg-id="Now爆谷(国)" tvg-name="Now爆谷(国)" tvg-logo="" group-title="云TV",Now爆谷(国)
+http://iptv.4666888.xyz/iptv.php?id=20089
+#EXTINF:-1 tvg-id="Now剧集" tvg-name="Now剧集" tvg-logo="" group-title="云TV",Now剧集
+http://iptv.4666888.xyz/iptv.php?id=20091
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="" group-title="云TV",天映经典
+http://iptv.4666888.xyz/iptv.php?id=20114
+#EXTINF:-1 tvg-id="天映经典2" tvg-name="天映经典2" tvg-logo="" group-title="云TV",天映经典2
+http://iptv.4666888.xyz/iptv.php?id=20115
+#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="云TV",天映频道
+http://iptv.4666888.xyz/iptv.php?id=20116
+#EXTINF:-1 tvg-id="天映频道2" tvg-name="天映频道2" tvg-logo="" group-title="云TV",天映频道2
+http://iptv.4666888.xyz/iptv.php?id=20117
+#EXTINF:-1 tvg-id="PopC电影" tvg-name="PopC电影" tvg-logo="" group-title="云TV",PopC电影
+http://iptv.4666888.xyz/iptv.php?id=20118
+#EXTINF:-1 tvg-id="美亚电影(港)" tvg-name="美亚电影(港)" tvg-logo="" group-title="云TV",美亚电影(港)
+http://iptv.4666888.xyz/iptv.php?id=20120
 #EXTINF:-1 tvg-id="TVB翡翠" tvg-name="TVB翡翠" tvg-logo="" group-title="云TV",TVB翡翠
 http://iptv.4666888.xyz/iptv.php?id=20066
 #EXTINF:-1 tvg-id="TVB翡翠(新加坡)" tvg-name="TVB翡翠(新加坡)" tvg-logo="" group-title="云TV",TVB翡翠(新加坡)
@@ -103,18 +125,8 @@ http://iptv.4666888.xyz/iptv.php?id=20083
 http://iptv.4666888.xyz/iptv.php?id=20084
 #EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="" group-title="云TV",Now财经
 http://iptv.4666888.xyz/iptv.php?id=20085
-#EXTINF:-1 tvg-id="Now星影(粤)" tvg-name="Now星影(粤)" tvg-logo="" group-title="云TV",Now星影(粤)
-http://iptv.4666888.xyz/iptv.php?id=20086
-#EXTINF:-1 tvg-id="Now爆谷(粤)" tvg-name="Now爆谷(粤)" tvg-logo="" group-title="云TV",Now爆谷(粤)
-http://iptv.4666888.xyz/iptv.php?id=20087
-#EXTINF:-1 tvg-id="Now星影(国)" tvg-name="Now星影(国)" tvg-logo="" group-title="云TV",Now星影(国)
-http://iptv.4666888.xyz/iptv.php?id=20088
-#EXTINF:-1 tvg-id="Now爆谷(国)" tvg-name="Now爆谷(国)" tvg-logo="" group-title="云TV",Now爆谷(国)
-http://iptv.4666888.xyz/iptv.php?id=20089
 #EXTINF:-1 tvg-id="Now紫金国际" tvg-name="Now紫金国际" tvg-logo="" group-title="云TV",Now紫金国际
 http://iptv.4666888.xyz/iptv.php?id=20090
-#EXTINF:-1 tvg-id="Now剧集" tvg-name="Now剧集" tvg-logo="" group-title="云TV",Now剧集
-http://iptv.4666888.xyz/iptv.php?id=20091
 #EXTINF:-1 tvg-id="Now直播" tvg-name="Now直播" tvg-logo="" group-title="云TV",Now直播
 http://iptv.4666888.xyz/iptv.php?id=20093
 #EXTINF:-1 tvg-id="Now英超1" tvg-name="Now英超1" tvg-logo="" group-title="云TV",Now英超1
@@ -159,20 +171,8 @@ http://iptv.4666888.xyz/iptv.php?id=20111
 http://iptv.4666888.xyz/iptv.php?id=20112
 #EXTINF:-1 tvg-id="MYTV_SUPER戏曲" tvg-name="MYTV_SUPER戏曲" tvg-logo="" group-title="云TV",MYTV_SUPER戏曲
 http://iptv.4666888.xyz/iptv.php?id=20113
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="" group-title="云TV",天映经典
-http://iptv.4666888.xyz/iptv.php?id=20114
-#EXTINF:-1 tvg-id="天映经典2" tvg-name="天映经典2" tvg-logo="" group-title="云TV",天映经典2
-http://iptv.4666888.xyz/iptv.php?id=20115
-#EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="" group-title="云TV",天映频道
-http://iptv.4666888.xyz/iptv.php?id=20116
-#EXTINF:-1 tvg-id="天映频道2" tvg-name="天映频道2" tvg-logo="" group-title="云TV",天映频道2
-http://iptv.4666888.xyz/iptv.php?id=20117
-#EXTINF:-1 tvg-id="PopC电影" tvg-name="PopC电影" tvg-logo="" group-title="云TV",PopC电影
-http://iptv.4666888.xyz/iptv.php?id=20118
 #EXTINF:-1 tvg-id="创世电视" tvg-name="创世电视" tvg-logo="" group-title="云TV",创世电视
 http://iptv.4666888.xyz/iptv.php?id=20119
-#EXTINF:-1 tvg-id="美亚电影(港)" tvg-name="美亚电影(港)" tvg-logo="" group-title="云TV",美亚电影(港)
-http://iptv.4666888.xyz/iptv.php?id=20120
 #EXTINF:-1 tvg-id="星光视界" tvg-name="星光视界" tvg-logo="" group-title="云TV",星光视界
 http://iptv.4666888.xyz/iptv.php?id=20121
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="云TV",重温经典
@@ -376,4 +376,4 @@ http://iptv.4666888.xyz/iptv.php?id=20239
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="云TV",龙华电影
 http://iptv.4666888.xyz/iptv.php?id=20240
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="" group-title="云TV",龙华戏剧
-http://iptv.4666888.xyz/iptv.php
+http://iptv.4666888.xyz/iptv.php?id=2024
