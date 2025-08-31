@@ -133,7 +133,7 @@
 台湾|东森戏剧 ETTV Drama,Smart//:id=ettvdrama
 台湾|东森超视,Smart//:id=ettvsuper
 台湾|东森财经新闻 ETTV Business,Smart//:id=ettvcaijing_twn
-台湾|寰宇财经,Smart//:id=huanyutaiwan_twn
+台湾|信吉頻道,Smart//:id=huanyutaiwan_twn
 台湾|寰宇新闻台,Smart//:id=huanyuxinwen_twn
 台湾|公视2,Smart//:id=ctv2_twn
 台湾|大爱1台,Smart//:id=daai_twn
