@@ -105,7 +105,7 @@
 台湾|中天新闻 HD,Smart//:id=ctinews
 台湾|中天娱乐 CTI Entertaiment,Smart//:id=ctient
 台湾|中天综合 CTI Metro,Smart//:id=ctizhonghe
-台湾|中天亚洲台,Smart//:id=ctiasia_twn
+台湾|中天新闻,Smart//:id=ctiasia_twn
 台湾|台视 TTV HD,Smart//:id=ttv_taiwan
 台湾|台视新闻台,Smart//:id=ttvnews_twn
 台湾|台视综合台,Smart//:id=ttvzhonghe
