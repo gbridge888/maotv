@@ -519,3 +519,43 @@ http://iptv.4666888.xyz/iptv.php?id=20300
 http://iptv.4666888.xyz/iptv.php?id=20301
 #EXTINF:-1 tvg-id="靖天资讯" tvg-name="靖天资讯" tvg-logo="" group-title="云TV",靖天资讯
 http://iptv.4666888.xyz/iptv.php?id=20302
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="88KU",中视
+http://123.51.136.80:8301/0.ts
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="" group-title="88KU",中视新闻
+http://123.51.136.80:8302/0.ts
+#EXTINF:-1 tvg-id="原住民卫视" tvg-name="原住民卫视" tvg-logo="" group-title="88KU",原住民卫视
+http://123.51.136.80:8303/0.ts
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="" group-title="88KU",公视
+http://123.51.136.80:8305/0.ts
+#EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="" group-title="88KU",公视台语
+http://123.51.136.80:8306/0.ts
+#EXTINF:-1 tvg-id="客家卫视" tvg-name="客家卫视" tvg-logo="" group-title="88KU",客家卫视
+http://123.51.136.80:8307/0.ts
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="88KU",民视
+http://123.51.136.80:8308/0.ts
+#EXTINF:-1 tvg-id="民视第一" tvg-name="民视第一" tvg-logo="" group-title="88KU",民视第一
+http://123.51.136.80:8309/0.ts
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="88KU",民视新闻
+http://123.51.136.80:8310/0.ts
+#EXTINF:-1 tvg-id="民视台湾" tvg-name="民视台湾" tvg-logo="" group-title="88KU",民视台湾
+http://123.51.136.80:8311/0.ts
+#EXTINF:-1 tvg-id="小公视" tvg-name="小公视" tvg-logo="" group-title="88KU",小公视
+http://123.51.136.80:8312/0.ts
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="" group-title="88KU",台视
+http://123.51.136.80:8313/0.ts
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="" group-title="88KU",台视新闻
+http://123.51.136.80:8314/0.ts
+#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="" group-title="88KU",台视财经
+http://123.51.136.80:8315/0.ts
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="88KU",台视综合
+http://123.51.136.80:8316/0.ts
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="" group-title="88KU",华视
+http://123.51.136.80:8317/0.ts
+#EXTINF:-1 tvg-id="华视教育体育文化" tvg-name="华视教育体育文化" tvg-logo="" group-title="88KU",华视教育体育文化
+http://123.51.136.80:8318/0.ts
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="" group-title="88KU",华视新闻
+http://123.51.136.80:8319/0.ts
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="88KU",中视经典
+http://123.51.136.80:8321/0.ts
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="" group-title="88KU",中视菁采
+http://123.51.136.80:8322/0.ts
