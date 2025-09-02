@@ -186,7 +186,7 @@
 台湾|公视,Smart//:id=ctv_taiwan
 台湾|中视经典,Smart//:id=zhongshi_twn
 台湾|爱尔达体育1台(备用),Smart//:id=eltasport_twn
-台湾|ELEVEN 1,Smart//:id=golfchannel_twn
+台湾|DAZN 1,Smart//:id=golfchannel_twn
 台湾|博斯高球1,Smart//:id=bosigolf1_twn
 台湾|探索动力,Smart//:id=discoveryturbo_twn
 台湾|Nickelodeon,Smart//:id=nickelodeon_twn
