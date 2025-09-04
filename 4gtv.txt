@@ -159,7 +159,7 @@ http://waptw.cassiustan.top:52727/4gtv-live206/index.m3u8?proxy=true
 http://waptw.cassiustan.top:52727/4gtv-live208/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="春電視",歷史頻道
 http://waptw.cassiustan.top:52727/4gtv-live026/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="愛爾達春電視台" tvg-name="愛爾達春電視台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="春電視",ELTA春電視
+#EXTINF:-1 tvg-id="愛爾達春電視台" tvg-name="愛爾達春電視台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="春電視",ELTA生活旅遊
 http://waptw.cassiustan.top:52727/4gtv-live120/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="春電視",LUXE TV
 http://waptw.cassiustan.top:52727/4gtv-live121/index.m3u8?proxy=true
