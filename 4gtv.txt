@@ -1,481 +1,481 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.iill.top/epg,https://bit.ly/a1xepg,https://epg.catvod.com/epg.xml,https://7pal.short.gy/alex-epg,https://bit.ly/a1xepg"
 
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="春電視",民視第一台
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="🏖️春電視",民視第一台
 http://waptw.cassiustan.top:52727/4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="春電視",民視台灣台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="🏖️春電視",民視台灣台
 http://waptw.cassiustan.top:52727/4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="春電視",民視HD
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="🏖️春電視",民視HD
 http://waptw.cassiustan.top:52727/4gtv-4gtv002/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="春電視",大愛電視
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="🏖️春電視",大愛電視
 http://waptw.cassiustan.top:52727/4gtv-live007/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="春電視",中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="🏖️春電視",中視
 http://waptw.cassiustan.top:52727/4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="春電視",中視經典台
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="🏖️春電視",中視經典台
 http://waptw.cassiustan.top:52727/4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="春電視",華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="🏖️春電視",華視
 http://waptw.cassiustan.top:52727/4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="春電視",三立綜合合
+#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="🏖️春電視",三立綜合合
 http://waptw.cassiustan.top:52727/4gtv-live207/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="春電視",客家電視
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="🏖️春電視",客家電視
 http://waptw.cassiustan.top:52727/4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="春電視",八大綜藝
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️春電視",八大綜藝
 http://waptw.cassiustan.top:52727/4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="春電視",中視菁采台
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="🏖️春電視",中視菁采台
 http://waptw.cassiustan.top:52727/4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="春電視",TVBS精采台
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="🏖️春電視",TVBS精采台
 http://waptw.cassiustan.top:52727/4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="春電視",ELTA娛樂
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="🏖️春電視",ELTA娛樂
 http://waptw.cassiustan.top:52727/4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="春電視",靖天綜合
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="🏖️春電視",靖天綜合
 http://waptw.cassiustan.top:52727/4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="春電視",靖天日本
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="🏖️春電視",靖天日本
 http://waptw.cassiustan.top:52727/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="春電視",新唐人亞太台
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="🏖️春電視",新唐人亞太台
 http://waptw.cassiustan.top:52727/4gtv-live050/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="春電視",Arirang TV
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🏖️春電視",Arirang TV
 http://waptw.cassiustan.top:52727/4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="春電視",Global Trekker
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="🏖️春電視",Global Trekker
 http://waptw.cassiustan.top:52727/4gtv-live112/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="春電視",原住民族電視台
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="🏖️春電視",原住民族電視台
 http://waptw.cassiustan.top:52727/4gtv-live014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物四台
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物四台
 http://waptw.cassiustan.top:52727/4gtv-live049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="春電視",LiveABC 互動英語台
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="🏖️春電視",LiveABC 互動英語台
 http://waptw.cassiustan.top:52727/4gtv-live030/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="春電視",達文西
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="🏖️春電視",達文西
 http://waptw.cassiustan.top:52727/4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="春電視",ELTV生活英語台
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="🏖️春電視",ELTV生活英語台
 http://waptw.cassiustan.top:52727/litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="春電視",Nick Jr.
+#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="🏖️春電視",Nick Jr.
 http://waptw.cassiustan.top:52727/4gtv-live032/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="春電視",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="🏖️春電視",Nickelodeon
 http://waptw.cassiustan.top:52727/4gtv-live105/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="春電視",DreamWorks
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="🏖️春電視",DreamWorks
 http://waptw.cassiustan.top:52727/4gtv-live017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="春電視",靖天卡通
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="🏖️春電視",靖天卡通
 http://waptw.cassiustan.top:52727/4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="春電視",靖洋卡通
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🏖️春電視",靖洋卡通
 http://waptw.cassiustan.top:52727/4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="春電視",MOMO親子
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="🏖️春電視",MOMO親子
 http://waptw.cassiustan.top:52727/4gtv-live107/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物一台
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物一台
 http://waptw.cassiustan.top:52727/4gtv-live047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物一台
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物一台
 http://waptw.cassiustan.top:52727/4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物一台
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物一台
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv102/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="春電視",鏡電視新聞台
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="🏖️春電視",鏡電視新聞台
 http://waptw.cassiustan.top:52727/4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="春電視",東森新聞
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="🏖️春電視",東森新聞
 http://waptw.cassiustan.top:52727/4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="春電視",華視新聞台
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="🏖️春電視",華視新聞台
 http://waptw.cassiustan.top:52727/4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="春電視",民視新聞
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="🏖️春電視",民視新聞
 http://waptw.cassiustan.top:52727/litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="春電視",三立iNEWS
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="🏖️春電視",三立iNEWS
 http://waptw.cassiustan.top:52727/4gtv-live089/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="春電視",東森財經新聞
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="🏖️春電視",東森財經新聞
 http://waptw.cassiustan.top:52727/4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="春電視",中視新聞台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="🏖️春電視",中視新聞台
 http://waptw.cassiustan.top:52727/4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="春電視",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="🏖️春電視",中天新聞台
 http://waptw.cassiustan.top:52727/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="春電視",BLOOMBERG TV
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="🏖️春電視",BLOOMBERG TV
 http://waptw.cassiustan.top:52727/4gtv-live059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="春電視",寰宇新聞
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="🏖️春電視",寰宇新聞
 http://waptw.cassiustan.top:52727/litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="春電視",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="🏖️春電視",寰宇新聞台灣台
 http://waptw.cassiustan.top:52727/4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="春電視",SBN 全球財經台
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="🏖️春電視",SBN 全球財經台
 http://waptw.cassiustan.top:52727/4gtv-live060/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="春電視",寰宇財經
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="🏖️春電視",寰宇財經
 http://waptw.cassiustan.top:52727/4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="春電視",TVBS HD
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="🏖️春電視",TVBS HD
 http://waptw.cassiustan.top:52727/4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物二台
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物二台
 http://waptw.cassiustan.top:52727/4gtv-live046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物二台
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物二台
 http://waptw.cassiustan.top:52727/4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物二台
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物二台
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv103/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="春電視",民視綜藝
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="🏖️春電視",民視綜藝
 http://waptw.cassiustan.top:52727/4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="春電視",豬哥亮歌廳秀
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="🏖️春電視",豬哥亮歌廳秀
 http://waptw.cassiustan.top:52727/4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="春電視",靖天育樂
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="🏖️春電視",靖天育樂
 http://waptw.cassiustan.top:52727/4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="春電視",靖天國際
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="🏖️春電視",靖天國際
 http://waptw.cassiustan.top:52727/4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="春電視",靖天歡樂
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="🏖️春電視",靖天歡樂
 http://waptw.cassiustan.top:52727/4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="春電視",靖天資訊
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="🏖️春電視",靖天資訊
 http://waptw.cassiustan.top:52727/4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="春電視",TVBS歡樂台
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="🏖️春電視",TVBS歡樂台
 http://waptw.cassiustan.top:52727/4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="春電視",韓國娛樂台
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="🏖️春電視",韓國娛樂台
 http://waptw.cassiustan.top:52727/4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="春電視",ROCK Entertainment
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="🏖️春電視",ROCK Entertainment
 http://waptw.cassiustan.top:52727/4gtv-live080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="春電視", Lifetime
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="🏖️春電視", Lifetime
 http://waptw.cassiustan.top:52727/4gtv-live029/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="春電視",電影原聲台 CMusic
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="🏖️春電視",電影原聲台 CMusic
 http://waptw.cassiustan.top:52727/4gtv-live031/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="春電視",Trace Urban
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="🏖️春電視",Trace Urban
 http://waptw.cassiustan.top:52727/4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="春電視",MTV Live
+#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="🏖️春電視",MTV Live
 http://waptw.cassiustan.top:52727/4gtv-live025/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="春電視",MEZZO LIVE HD
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="🏖️春電視",MEZZO LIVE HD
 http://waptw.cassiustan.top:52727/4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="春電視",CLASSICA 古典樂
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="🏖️春電視",CLASSICA 古典樂
 http://waptw.cassiustan.top:52727/4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="春電視",東森購物三台
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️春電視",東森購物三台
 http://waptw.cassiustan.top:52727/4gtv-live048/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="春電視",INULTRA
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="🏖️春電視",INULTRA
 http://waptw.cassiustan.top:52727/4gtv-live096/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="春電視",TRACE Sport Stars
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="🏖️春電視",TRACE Sport Stars
 http://waptw.cassiustan.top:52727/4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="春電視",智林體育
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="🏖️春電視",智林體育
 http://waptw.cassiustan.top:52727/4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="春電視",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="🏖️春電視",時尚運動X
 http://waptw.cassiustan.top:52727/4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="春電視",車迷 TV
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="🏖️春電視",車迷 TV
 http://waptw.cassiustan.top:52727/4gtv-live201/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="春電視", GINX Esports TV
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="🏖️春電視", GINX Esports TV
 http://waptw.cassiustan.top:52727/4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="春電視",Pet Club TV
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="🏖️春電視",Pet Club TV
 http://waptw.cassiustan.top:52727/4gtv-live110/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="春電視",民視旅遊
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="🏖️春電視",民視旅遊
 http://waptw.cassiustan.top:52727/litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="春電視",滾動力 Rollor
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="🏖️春電視",滾動力 Rollor
 http://waptw.cassiustan.top:52727/4gtv-live012/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="春電視",亞洲旅遊
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="🏖️春電視",亞洲旅遊
 http://waptw.cassiustan.top:52727/4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="春電視",FUN 4K探索娛樂
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="🏖️春電視",FUN 4K探索娛樂
 http://waptw.cassiustan.top:52727/4gtv-live011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="春電視",幸福空間居家台
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="🏖️春電視",幸福空間居家台
 http://waptw.cassiustan.top:52727/4gtv-live206/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="春電視",LOVE NATURE
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="🏖️春電視",LOVE NATURE
 http://waptw.cassiustan.top:52727/4gtv-live208/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="春電視",歷史頻道
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="🏖️春電視",歷史頻道
 http://waptw.cassiustan.top:52727/4gtv-live026/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="愛爾達春電視台" tvg-name="愛爾達春電視台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="春電視",ELTA生活旅遊
+#EXTINF:-1 tvg-id="愛爾達🏖️春電視台" tvg-name="愛爾達🏖️春電視台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="🏖️春電視",ELTA生活旅遊
 http://waptw.cassiustan.top:52727/4gtv-live120/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="春電視",LUXE TV
+#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="🏖️春電視",LUXE TV
 http://waptw.cassiustan.top:52727/4gtv-live121/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="春電視",TV5MONDE Style
+#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="🏖️春電視",TV5MONDE Style
 http://waptw.cassiustan.top:52727/4gtv-live122/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="春電視",MagellanTV頻道
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="🏖️春電視",MagellanTV頻道
 http://waptw.cassiustan.top:52727/4gtv-live123/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="春電視",公視戲劇
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="🏖️春電視",公視戲劇
 http://waptw.cassiustan.top:52727/4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="春電視",民視影劇
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="🏖️春電視",民視影劇
 http://waptw.cassiustan.top:52727/litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="春電視",HITS
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="🏖️春電視",HITS
 http://waptw.cassiustan.top:52727/4gtv-live620/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="春電視",八大精彩
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="🏖️春電視",八大精彩
 http://waptw.cassiustan.top:52727/4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="春電視",霹靂布袋戲
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="🏖️春電視",霹靂布袋戲
 http://waptw.cassiustan.top:52727/4gtv-live145/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="春電視",靖天戲劇
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="🏖️春電視",靖天戲劇
 http://waptw.cassiustan.top:52727/4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="春電視",靖洋戲劇
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="🏖️春電視",靖洋戲劇
 http://waptw.cassiustan.top:52727/4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="春電視",CI 罪案偵查頻道
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="🏖️春電視",CI 罪案偵查頻道
 http://waptw.cassiustan.top:52727/4gtv-live027/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="春電視",視納華仁紀實頻道
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="🏖️春電視",視納華仁紀實頻道
 http://waptw.cassiustan.top:52727/4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="春電視",影迷數位紀實台
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="🏖️春電視",影迷數位紀實台
 http://waptw.cassiustan.top:52727/litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="春電視",金光布袋戲
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="🏖️春電視",金光布袋戲
 http://waptw.cassiustan.top:52727/4gtv-live144/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="春電視",ROCK Action
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="🏖️春電視",ROCK Action
 http://waptw.cassiustan.top:52727/4gtv-live138/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="春電視",采昌影劇
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="🏖️春電視",采昌影劇
 http://waptw.cassiustan.top:52727/4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="春電視",靖天映畫
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="🏖️春電視",靖天映畫
 http://waptw.cassiustan.top:52727/4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="春電視",靖天電影
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="🏖️春電視",靖天電影
 http://waptw.cassiustan.top:52727/4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="春電視",影迷數位電影台
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="🏖️春電視",影迷數位電影台
 http://waptw.cassiustan.top:52727/4gtv-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="春電視",amc 電影台
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="🏖️春電視",amc 電影台
 http://waptw.cassiustan.top:52727/4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="春電視",Cinema World
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="🏖️春電視",Cinema World
 http://waptw.cassiustan.top:52727/4gtv-live069/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="春電視",歐洲光影
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="🏖️春電視",歐洲光影
 http://waptw.cassiustan.top:52727/4gtv-live157/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="春電視",好消息
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="🏖️春電視",好消息
 http://waptw.cassiustan.top:52727/litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="春電視",好消息2台
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="🏖️春電視",好消息2台
 http://waptw.cassiustan.top:52727/litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="春電視",大愛二台
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="🏖️春電視",大愛二台
 http://waptw.cassiustan.top:52727/4gtv-live106/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="春電視",人間衛視
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="🏖️春電視",人間衛視
 http://waptw.cassiustan.top:52727/4gtv-live008/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="春電視",FRANCE24 英文台
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="🏖️春電視",FRANCE24 英文台
 http://waptw.cassiustan.top:52727/4gtv-live146/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="春電視",半島國際新聞台
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="🏖️春電視",半島國際新聞台
 http://waptw.cassiustan.top:52727/litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="春電視",VOA 美國之音
+#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="🏖️春電視",VOA 美國之音
 http://waptw.cassiustan.top:52727/litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="春電視",CNBC Asia 財經台
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="🏖️春電視",CNBC Asia 財經台
 http://waptw.cassiustan.top:52727/4gtv-live130/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="春電視",DW德國之聲
+#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="🏖️春電視",DW德國之聲
 http://waptw.cassiustan.top:52727/4gtv-live071/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="春電視",國會頻道1
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="🏖️春電視",國會頻道1
 http://waptw.cassiustan.top:52727/4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="春電視",國會頻道2
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="🏖️春電視",國會頻道2
 http://waptw.cassiustan.top:52727/4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="春電視",TVBS綜藝台
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="🏖️春電視",TVBS綜藝台
 http://waptw.cassiustan.top:52727/4gtv-live087/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="春電視",TVBS台劇台
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="🏖️春電視",TVBS台劇台
 http://waptw.cassiustan.top:52727/4gtv-live088/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="春電視",經典電影台
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="🏖️春電視",經典電影台
 http://waptw.cassiustan.top:52727/4gtv-live021/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="春電視",經典卡通台
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="🏖️春電視",經典卡通台
 http://waptw.cassiustan.top:52727/4gtv-live022/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="春電視",精選動漫台
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="🏖️春電視",精選動漫台
 http://waptw.cassiustan.top:52727/4gtv-live024/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="春電視",戲劇免費看1台
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="🏖️春電視",戲劇免費看1台
 http://waptw.cassiustan.top:52727/4gtv-live010/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="春電視",民視第一台
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="🏖️春電視",民視第一台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv003/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="春電視",民視台灣台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="🏖️春電視",民視台灣台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv001/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="春電視",中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="🏖️春電視",中視
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="春電視",中視經典台
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="🏖️春電視",中視經典台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv080/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="春電視",華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="🏖️春電視",華視
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="春電視",華視新聞台
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="🏖️春電視",華視新聞台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="春電視",龍華洋片
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="🏖️春電視",龍華洋片
 http://waptw.cassiustan.top:52727/li-litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="春電視",龍華卡通
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="🏖️春電視",龍華卡通
 http://waptw.cassiustan.top:52727/li-litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="春電視",龍華電影
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🏖️春電視",龍華電影
 http://waptw.cassiustan.top:52727/li-litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="春電視",龍華日韓
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="🏖️春電視",龍華日韓
 http://waptw.cassiustan.top:52727/li-litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="春電視",龍華偶像
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="🏖️春電視",龍華偶像
 http://waptw.cassiustan.top:52727/li-litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="春電視",龍華戲劇
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="🏖️春電視",龍華戲劇
 http://waptw.cassiustan.top:52727/li-litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="春電視",龍華經典
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="🏖️春電視",龍華經典
 http://waptw.cassiustan.top:52727/li-litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="春電視",博斯魅力
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="🏖️春電視",博斯魅力
 http://waptw.cassiustan.top:52727/litv-longturn04/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="春電視",博斯高球I
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="🏖️春電視",博斯高球I
 http://waptw.cassiustan.top:52727/litv-longturn05/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="春電視",博斯高球II
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="🏖️春電視",博斯高球II
 http://waptw.cassiustan.top:52727/litv-longturn06/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="春電視",博斯運動I
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="🏖️春電視",博斯運動I
 http://waptw.cassiustan.top:52727/litv-longturn07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="春電視",博斯運動II
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="🏖️春電視",博斯運動II
 http://waptw.cassiustan.top:52727/litv-longturn08/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="春電視",博斯網球
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="🏖️春電視",博斯網球
 http://waptw.cassiustan.top:52727/litv-longturn09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="春電視",博斯無限I
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="🏖️春電視",博斯無限I
 http://waptw.cassiustan.top:52727/litv-longturn10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="春電視",博斯無限II
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="🏖️春電視",博斯無限II
 http://waptw.cassiustan.top:52727/litv-longturn13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="春電視",非凡新聞
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="🏖️春電視",非凡新聞
 http://waptw.cassiustan.top:52727/4gtv-4gtv010/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="春電視",非凡商業
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="🏖️春電視",非凡商業
 http://waptw.cassiustan.top:52727/4gtv-4gtv048/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="春電視",台視財經台
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="🏖️春電視",台視財經台
 http://waptw.cassiustan.top:52727/4gtv-4gtv056/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="春電視",中天亞洲台
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="🏖️春電視",中天亞洲台
 http://waptw.cassiustan.top:52727/4gtv-4gtv109/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="春電視",客家電視
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="🏖️春電視",客家電視
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv043/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="春電視",八大綜藝
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️春電視",八大綜藝
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv039/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="春電視",中視菁采台
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="🏖️春電視",中視菁采台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="春電視",TVBS精采台
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="🏖️春電視",TVBS精采台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv067/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="春電視",ELTA娛樂
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="🏖️春電視",ELTA娛樂
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv070/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="春電視",靖天綜合
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="🏖️春電視",靖天綜合
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="春電視",靖天日本
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="🏖️春電視",靖天日本
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="春電視",Arirang TV
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🏖️春電視",Arirang TV
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv079/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="春電視",達文西
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="🏖️春電視",達文西
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="春電視",ELTV生活英語台
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="🏖️春電視",ELTV生活英語台
 http://waptw.cassiustan.top:52727/li-litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="春電視",靖天卡通
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="🏖️春電視",靖天卡通
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv044/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="春電視",靖洋卡通
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🏖️春電視",靖洋卡通
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="春電視",鏡電視新聞台
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="🏖️春電視",鏡電視新聞台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv075/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="春電視",東森新聞
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="🏖️春電視",東森新聞
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv152/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="春電視",民視新聞
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="🏖️春電視",民視新聞
 http://waptw.cassiustan.top:52727/li-litv-ftv13/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="春電視",TVBS新聞台
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="🏖️春電視",TVBS新聞台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv072/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="春電視",東森財經新聞
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="🏖️春電視",東森財經新聞
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv153/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="春電視",中視新聞台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="🏖️春電視",中視新聞台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="春電視",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="🏖️春電視",中天新聞台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="春電視",寰宇新聞
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="🏖️春電視",寰宇新聞
 http://waptw.cassiustan.top:52727/li-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="春電視",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="🏖️春電視",寰宇新聞台灣台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="春電視",寰宇財經
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="🏖️春電視",寰宇財經
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="春電視",TVBS HD
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="🏖️春電視",TVBS HD
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv073/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="春電視",民視綜藝
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="🏖️春電視",民視綜藝
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv004/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="春電視",豬哥亮歌廳秀
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="🏖️春電視",豬哥亮歌廳秀
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv006/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="春電視",靖天育樂
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="🏖️春電視",靖天育樂
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv062/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="春電視",靖天國際
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="🏖️春電視",靖天國際
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv063/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="春電視",靖天歡樂
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="🏖️春電視",靖天歡樂
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv054/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="春電視",靖天資訊
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="🏖️春電視",靖天資訊
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv065/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="春電視",TVBS歡樂台
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="🏖️春電視",TVBS歡樂台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv068/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="春電視",韓國娛樂台
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="🏖️春電視",韓國娛樂台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv016/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="春電視",Trace Urban
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="🏖️春電視",Trace Urban
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv082/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="春電視",MEZZO LIVE HD
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="🏖️春電視",MEZZO LIVE HD
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv083/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="春電視",CLASSICA 古典樂
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="🏖️春電視",CLASSICA 古典樂
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv059/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="春電視",TRACE Sport Stars
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="🏖️春電視",TRACE Sport Stars
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv077/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="春電視",智林體育
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="🏖️春電視",智林體育
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv101/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="春電視",時尚運動X
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="🏖️春電視",時尚運動X
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv014/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="春電視", GINX Esports TV
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="🏖️春電視", GINX Esports TV
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="春電視",民視旅遊
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="🏖️春電視",民視旅遊
 http://waptw.cassiustan.top:52727/li-litv-ftv07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="春電視",亞洲旅遊
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="🏖️春電視",亞洲旅遊
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="春電視",公視戲劇
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="🏖️春電視",公視戲劇
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv042/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="春電視",民視影劇
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="🏖️春電視",民視影劇
 http://waptw.cassiustan.top:52727/li-litv-ftv09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="春電視",八大精彩
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="🏖️春電視",八大精彩
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv034/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="春電視",靖天戲劇
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="🏖️春電視",靖天戲劇
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv058/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="春電視",靖洋戲劇
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="🏖️春電視",靖洋戲劇
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv045/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="春電視",視納華仁紀實頻道
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="🏖️春電視",視納華仁紀實頻道
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="春電視",影迷數位紀實台
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="🏖️春電視",影迷數位紀實台
 http://waptw.cassiustan.top:52727/li-litv-ftv15/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="春電視",采昌影劇
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="🏖️春電視",采昌影劇
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv049/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="春電視",靖天映畫
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="🏖️春電視",靖天映畫
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv055/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="春電視",靖天電影
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="🏖️春電視",靖天電影
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv061/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="春電視",影迷數位電影台
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="🏖️春電視",影迷數位電影台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv011/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="春電視",amc 電影台
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="🏖️春電視",amc 電影台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv017/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="春電視",好消息
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="🏖️春電視",好消息
 http://waptw.cassiustan.top:52727/li-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="春電視",好消息2台
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="🏖️春電視",好消息2台
 http://waptw.cassiustan.top:52727/li-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="春電視",半島國際新聞台
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="🏖️春電視",半島國際新聞台
 http://waptw.cassiustan.top:52727/li-litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="春電視",VOA 美國之音
+#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="🏖️春電視",VOA 美國之音
 http://waptw.cassiustan.top:52727/li-litv-ftv03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="春電視",國會頻道1
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="🏖️春電視",國會頻道1
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="春電視",國會頻道2
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="🏖️春電視",國會頻道2
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="春電視",台灣戲劇台
+#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="🏖️春電視",台灣戲劇台
 http://waptw.cassiustan.top:52727/li-litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="春電視",Smart知識台
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="🏖️春電視",Smart知識台
 http://waptw.cassiustan.top:52727/li-litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="春電視",台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="🏖️春電視",台視新聞台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="春電視",台視HD
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="🏖️春電視",台視HD
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="春電視",第1商業台
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="🏖️春電視",第1商業台
 http://waptw.cassiustan.top:52727/li-4gtv-4gtv104/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="春電視",台視新聞台
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="🏖️春電視",台視新聞台
 http://waptw.cassiustan.top:52727/4gtv-4gtv051/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="春電視",台視HD
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="🏖️春電視",台視HD
 http://waptw.cassiustan.top:52727/4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="春電視",中視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="🏖️春電視",中視
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="春電視",中視新聞台
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="🏖️春電視",中視新聞台
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="春電視",華視
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="🏖️春電視",華視
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="春電視",華視新聞台
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="🏖️春電視",華視新聞台
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="春電視",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="🏖️春電視",中天新聞台
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="春電視",寰宇新聞
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="🏖️春電視",寰宇新聞
 http://waptw.cassiustan.top:52727/of-litv-longturn14/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="春電視",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="🏖️春電視",寰宇新聞台灣台
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv156/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="春電視",寰宇財經
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="🏖️春電視",寰宇財經
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv158/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="春電視",亞洲旅遊
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="🏖️春電視",亞洲旅遊
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv076/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="春電視",好消息
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="🏖️春電視",好消息
 http://waptw.cassiustan.top:52727/of-litv-ftv16/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="春電視",好消息2台
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="🏖️春電視",好消息2台
 http://waptw.cassiustan.top:52727/of-litv-ftv17/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="春電視",國會頻道1
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="🏖️春電視",國會頻道1
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv084/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="春電視",國會頻道2
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="🏖️春電視",國會頻道2
 http://waptw.cassiustan.top:52727/of-4gtv-4gtv085/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="春電視",台灣戲劇台
+#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="🏖️春電視",台灣戲劇台
 http://waptw.cassiustan.top:52727/litv-longturn22/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="春電視",Smart知識台
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="🏖️春電視",Smart知識台
 http://waptw.cassiustan.top:52727/litv-longturn19/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="春電視",第1商業台
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="🏖️春電視",第1商業台
 http://waptw.cassiustan.top:52727/4gtv-4gtv104/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="春電視",三立iNEWS
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="🏖️春電視",三立iNEWS
 http://waptw.cassiustan.top:52727/iNEWS/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="春電視",ELTV生活英語台
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="🏖️春電視",ELTV生活英語台
 http://waptw.cassiustan.top:52727/of-litv-longturn20/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="春電視",龍華洋片
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="🏖️春電視",龍華洋片
 http://waptw.cassiustan.top:52727/litv-longturn02/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="春電視",龍華卡通
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="🏖️春電視",龍華卡通
 http://waptw.cassiustan.top:52727/litv-longturn01/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="春電視",龍華電影
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🏖️春電視",龍華電影
 http://waptw.cassiustan.top:52727/litv-longturn03/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="春電視",龍華日韓
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="🏖️春電視",龍華日韓
 http://waptw.cassiustan.top:52727/litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="春電視",龍華偶像
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="🏖️春電視",龍華偶像
 http://waptw.cassiustan.top:52727/litv-longturn12/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="春電視",龍華戲劇
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="🏖️春電視",龍華戲劇
 http://waptw.cassiustan.top:52727/litv-longturn18/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="春電視",龍華經典
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="🏖️春電視",龍華經典
 http://waptw.cassiustan.top:52727/litv-longturn21/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="春電視",倪珍播新聞
+#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="🏖️春電視",倪珍播新聞
 http://waptw.cassiustan.top:52727/nnews-zh/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="春電視",倪珍越語新聞
+#EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="🏖️春電視",倪珍越語新聞
 http://waptw.cassiustan.top:52727/nnews-vn/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="春電視",倪珍報氣象
+#EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="🏖️春電視",倪珍報氣象
 http://waptw.cassiustan.top:52727/nnews-wf/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="歐飛點播",公視金獎台
@@ -977,97 +977,97 @@ http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBP
 http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="春電視",翡翠台4K
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🏖️春電視",翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="春電視",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🏖️春電視",翡翠台
 https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="春電視",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🏖️春電視",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="春電視",PopC
+#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="🏖️春電視",PopC
 https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="春電視",美亚电影台
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="🏖️春電視",美亚电影台
 https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
-#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="春電視",天映频道(印尼)
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="🏖️春電視",天映频道(印尼)
 https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
-#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="春電視",TVB Plus
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="🏖️春電視",TVB Plus
 https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="春電視",Animax
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🏖️春電視",Animax
 https://live.tvfix.org/live/animax/index.m3u8
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="春電視",华丽翡翠台
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="🏖️春電視",华丽翡翠台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="春電視",TVB星河
+#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🏖️春電視",TVB星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="春電視",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="🏖️春電視",明珠台
 https://live.tvfix.org/live/pearl/index.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="春電視",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🏖️春電視",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="春電視",TVBS
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🏖️春電視",TVBS
 https://live.tvfix.org/live/tvbs/index.m3u8
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="春電視",TVBS新闻台
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="🏖️春電視",TVBS新闻台
 https://live.tvfix.org/live/tvbsnews/index.m3u8
 
-#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="春電視",TVB Plus
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="🏖️春電視",TVB Plus
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="春電視",无线新闻台
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="🏖️春電視",无线新闻台
 https://live.tvfix.org/live/inews/index.m3u8
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="春電視",无线新闻
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="🏖️春電視",无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
-#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://epg.112114.xyz/logo/东森亚洲新闻台.png" group-title="春電視",亚洲新闻台
+#EXTINF:-1,tvg-id="东森亚洲新闻台" tvg-name="东森亚洲新闻台" tvg-logo="https://epg.112114.xyz/logo/东森亚洲新闻台.png" group-title="🏖️春電視",亚洲新闻台
 https://live.tvfix.org/live/newsasia/index.m3u8
 
-#EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png" group-title="春電視",娱乐新闻台
+#EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png" group-title="🏖️春電視",娱乐新闻台
 https://live.tvfix.org/live/enews/index.m3u8
-#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="春電視",TVB娱乐新闻台
+#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="🏖️春電視",TVB娱乐新闻台
 http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
-#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="春電視",ViuTV
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="🏖️春電視",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="春電視",ViuTVSix
+#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="🏖️春電視",ViuTVSix
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="春電視",RTHK31
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="🏖️春電視",RTHK31
 http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="春電視",RTHK32
+#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="🏖️春電視",RTHK32
 http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="春電視",千禧经典台
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="🏖️春電視",千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="春電視",美亚电影台
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="🏖️春電視",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1,tvg-id="天映" tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="春電視",天映频道
+#EXTINF:-1,tvg-id="天映" tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="🏖️春電視",天映频道
 http://php.jdshipin.com:8880/smt.php?id=Celestial
-#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="春電視",天映经典
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🏖️春電視",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="春電視",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="🏖️春電視",凤凰中文
 https://live.tvfix.org/live/fhzw/index.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="春電視",凤凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="🏖️春電視",凤凰中文
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="春電視",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="🏖️春電視",凤凰资讯
 https://live.tvfix.org/live/fhzx/index.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="春電視",凤凰资讯
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="🏖️春電視",凤凰资讯
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="春電視",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="🏖️春電視",凤凰香港
 https://live.tvfix.org/live/fhxg/index.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="春電視",凤凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="🏖️春電視",凤凰香港
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
-#EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="春電視",八度空间
+#EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="🏖️春電視",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
-#EXTINF:-1,tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="春電視",Astro AOD
+#EXTINF:-1,tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="🏖️春電視",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
-#EXTINF:-1,tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="春電視",Astro AEC
+#EXTINF:-1,tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="🏖️春電視",Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1,tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="春電視",爱奇艺
+#EXTINF:-1,tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="🏖️春電視",爱奇艺
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="春電視",Astro QJ
+#EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="🏖️春電視",Astro QJ
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
-#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="春電視",Astro欢喜台
+#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="🏖️春電視",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
