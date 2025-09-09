@@ -813,7 +813,7 @@ https://epg-1.iill.top/v/301.mp4
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",点击此频道·查看重要信息！🔔
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/抖音.png" group-title="•抖音「游戏」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
@@ -827,7 +827,7 @@ https://epg-1.iill.top/v/301.mp4
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「游戏」",点击此频道·查看重要信息！🔔
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/抖音.png" group-title="•抖音「影视」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
@@ -839,7 +839,7 @@ https://epg-1.iill.top/v/301.mp4
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「影视」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",点击此频道·查看重要信息！🔔
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/歪歪.png" group-title="•歪歪「影视」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
@@ -855,7 +855,7 @@ https://epg-1.iill.top/v/301.mp4
 https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「其他」",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",点击此频道·查看重要信息！🔔
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",点击此频道·查看重要信息！🔔
 https://epg-1.iill.top/v/301.mp4
 
 #INSERT_HERE
@@ -1193,171 +1193,171 @@ https://live.iill.top/twitch/Chess24
 https://live.iill.top/twitch/missmikkaa
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",RachtaZ
 https://live.iill.top/twitch/RachtaZ
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",不良林
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",不良林
 https://live.iill.top/youtube/@bulianglin
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",寰宇新闻
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",寰宇新闻
 https://live.iill.top/youtube/@globalnewstw
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",日テレNEWS
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",日テレNEWS
 https://live.iill.top/youtube/@ntv_news
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",SkyNews
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",SkyNews
 https://live.iill.top/youtube/@SkyNews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",中天新聞
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",中天新聞
 https://live.iill.top/youtube/vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",中天新聞CtiNews
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",中天新聞CtiNews
 https://live.iill.top/youtube/@中天新聞CtiNews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",中天電視CtiTv
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",中天電視CtiTv
 https://live.iill.top/youtube/@中天電視CtiTv
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",TVBS 選新聞
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",TVBS 選新聞
 https://live.iill.top/youtube/@TVBSNEWS02
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",TVBSNEWS01
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",TVBSNEWS01
 https://live.iill.top/youtube/TVBSNEWS01
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",TVBS 新聞
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",TVBS 新聞
 https://live.iill.top/youtube/m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",東森財經
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",東森財經
 https://live.iill.top/youtube/@57ETFN
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",鏡新聞
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",鏡新聞
 https://live.iill.top/youtube/@mnews-tw
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",中视经典
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",中视经典
 https://live.iill.top/youtube/@ctvent_classic
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",华视
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",华视
 https://live.iill.top/youtube/@CtsTw
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",中视
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",中视
 https://live.iill.top/youtube/@twctvnews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",台视
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",台视
 https://live.iill.top/youtube/@TTV_NEWS
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",8world
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",8world
 https://live.iill.top/youtube/@8worldSG
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",BirderKing
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",BirderKing
 https://live.iill.top/youtube/@BirderKing
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",民视
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",民视
 https://live.iill.top/youtube/@FTV_News
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",set新闻
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",set新闻
 https://live.iill.top/youtube/@setnews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",公视
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",公视
 https://live.iill.top/youtube/@PNNPTS
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",非凡电视
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",非凡电视
 https://live.iill.top/youtube/@ustv
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",ChannelsTV
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",ChannelsTV
 https://live.iill.top/youtube/@ChannelsTelevision
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",HZTV
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",HZTV
 https://live.iill.top/youtube/@hztv2212
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",华藏净宗弘化
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",华藏净宗弘化
 https://live.iill.top/youtube/@HDPLTV
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",净空法师
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",净空法师
 https://live.iill.top/youtube/@amtbhz
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",11点热炒店
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",11点热炒店
 https://live.iill.top/youtube/@chopchopshow
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",SwimwearUnderwear
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",SwimwearUnderwear
 https://live.iill.top/youtube/@SwimwearUnderwear
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",ウェザーニュース
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",ウェザーニュース
 https://live.iill.top/youtube/@weathernews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",LiveNOW
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",LiveNOW
 https://live.iill.top/youtube/YDfiTGGPYCk
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",CNA Insider
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",CNA Insider
 https://live.iill.top/youtube/fSUMKrxPEd8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",NHK World
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",NHK World
 https://live.iill.top/youtube/f0lYkdA-Gtw
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",CCTV中文国际（亚洲）
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",CCTV中文国际（亚洲）
 https://live.iill.top/youtube/@LiveNow24H
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",民视新闻
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",民视新闻
 https://live.iill.top/youtube/ylYJSBUgaMA&pp
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",TVBS 新聞台
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",TVBS 新聞台
 https://live.iill.top/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",BellatorMMA
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",BellatorMMA
 https://live.iill.top/youtube/BellatorMMA
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",朝日新聞LIVE
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",朝日新聞LIVE
 https://live.iill.top/youtube/1Xm5bjdI5hU
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",@ABCNews
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",@ABCNews
 https://live.iill.top/youtube/@ABCNews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",ABC News live
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",ABC News live
 https://live.iill.top/youtube/iipR5yUp36o
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",联合国
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",联合国
 https://live.iill.top/youtube/@unitednations
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",Lofi Girl
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",Lofi Girl
 https://live.iill.top/youtube/@LofiGirl
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",台灣廟會情報局LIVE【官方主頻道】
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",台灣廟會情報局LIVE【官方主頻道】
 https://live.iill.top/youtube/@temple-news
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",94要賺錢
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",94要賺錢
 https://live.iill.top/youtube/@money_setn
-#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/@94politics&youtube&logo" group-title="•YouTube「其他」",94要客訴
+#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/@94politics&youtube&logo" group-title="•YouTube",94要客訴
 https://live.iill.top/youtube/@94politics
-#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/dBPt4vfkF2Q&youtube&logo" group-title="•YouTube「其他」",少康戰情室
+#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/dBPt4vfkF2Q&youtube&logo" group-title="•YouTube",少康戰情室
 https://live.iill.top/youtube/dBPt4vfkF2Q
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",國會頻道１
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",國會頻道１
 https://live.iill.top/youtube/4HysYHJ6GkY
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",國會頻道２
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",國會頻道２
 https://live.iill.top/youtube/Lj8OWF6nzcg
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",台灣地震監視(地震速報、強震即時警報)
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",台灣地震監視(地震速報、強震即時警報)
 https://live.iill.top/youtube/@台灣地震監視
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",匯聚金曲
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",匯聚金曲
 https://live.iill.top/youtube/@Cantopopgreatesthits8090s
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",KKBOX 行週榜& 年度熱門流行歌
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",KKBOX 行週榜& 年度熱門流行歌
 https://live.iill.top/youtube/@KKBOX6868
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",70、80、90年代经典老歌
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",70、80、90年代经典老歌
 https://live.iill.top/youtube/@7080年代经典老歌-o1e
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",Chinese Mix
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",Chinese Mix
 https://live.iill.top/youtube/@FM190-ld7qz
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",Hot Douyin Studios
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",Hot Douyin Studios
 https://live.iill.top/youtube/@hottrendsdouyin
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",아리랑 라디오
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",아리랑 라디오
 https://live.iill.top/youtube/Music180Arirang
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",大爱
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",大爱
 https://live.iill.top/youtube/@DaAiVideo
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",【綜藝玩很大】24小時不間斷直播
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",【綜藝玩很大】24小時不間斷直播
 https://live.iill.top/youtube/@Mr.Player
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",【#超級冰冰Show】24H馬拉松直播🎤
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",【#超級冰冰Show】24H馬拉松直播🎤
 https://live.iill.top/youtube/@superbingbingshow
-#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/@ebcCTime&youtube&logo" group-title="•YouTube「娱乐」",關鍵時刻
+#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/@ebcCTime&youtube&logo" group-title="•YouTube",關鍵時刻
 https://live.iill.top/youtube/@ebcCTime
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",希望之聲
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",希望之聲
 https://live.iill.top/youtube/@SOH_TV
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",戲說台灣
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",戲說台灣
 https://live.iill.top/youtube/@TWStoryTV
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",57怪奇物語
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",57怪奇物語
 https://live.iill.top/youtube/@57StrangerThings
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",golf
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",golf
 https://live.iill.top/youtube/aa1qCh5Zp3E
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",Watchers Club [ 观察者俱乐部 ]
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",Watchers Club [ 观察者俱乐部 ]
 https://live.iill.top/youtube/@watchersclub
-#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/@HotDoorNight&youtube&logo" group-title="•YouTube「娱乐」",綜藝大熱門 Hot Door Night
+#EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/@HotDoorNight&youtube&logo" group-title="•YouTube",綜藝大熱門 Hot Door Night
 https://live.iill.top/youtube/@HotDoorNight
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",寰宇新闻台
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",寰宇新闻台
 https://live.iill.top/youtube/6IquAgfvYmc
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",時裝藝術表演
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",時裝藝術表演
 https://live.iill.top/youtube/@305miamivisuals
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",時裝藝術表演¹
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",時裝藝術表演¹
 https://live.iill.top/youtube/@NYFT
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",時裝藝術表演²
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",時裝藝術表演²
 https://live.iill.top/youtube/@shiftswim
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",時裝藝術表演³
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",時裝藝術表演³
 https://live.iill.top/youtube/@SPLASHme
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",TTV_NEWS
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",TTV_NEWS
 https://live.iill.top/youtube/xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",newsebc
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",newsebc
 https://live.iill.top/youtube/V1p33hqPrUk
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",CCTV 电视剧
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",CCTV 电视剧
 https://live.iill.top/youtube/@CCTVDrama
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",newsebc
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",newsebc
 https://live.iill.top/youtube/newsebc
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",新兵日記
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",新兵日記
 https://live.iill.top/youtube/@FTVDRAMA
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",JTBC Drama
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",JTBC Drama
 https://live.iill.top/youtube/@JTBCdrama
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",Mr Bean
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",Mr Bean
 https://live.iill.top/youtube/@MrBean
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",小猪佩奇 中文官方 - Peppa Pig
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",小猪佩奇 中文官方 - Peppa Pig
 https://live.iill.top/youtube/@PeppaPigChineseOfficial
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",大陸尋奇
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",大陸尋奇
 https://live.iill.top/youtube/@ctvchinatv
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「游戏」",皇家柳丁麻將日常
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",皇家柳丁麻將日常
 https://live.iill.top/youtube/@皇家柳丁麻將日常
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「游戏」",HiNas3ちゃんねる
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",HiNas3ちゃんねる
 https://live.iill.top/youtube/@HiNas3
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「游戏」",在下葉問
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",在下葉問
 https://live.iill.top/youtube/@jimmy1009
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「游戏」",陸子玄Lois
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",陸子玄Lois
 https://live.iill.top/youtube/@614
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube「游戏」",Mahjong Masters 麻將大師
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/YouTube.png" group-title="•YouTube",Mahjong Masters 麻將大師
 https://live.iill.top/youtube/@MahjongMasters
 #EXTINF:-1 tvg-logo="https://tv-1.iill.top/LOGO/56697889278&douyin&logo" group-title="•抖音「其他」",与辉同行
 http://dns.yiandrive.com:13571/douyin/56697889278
