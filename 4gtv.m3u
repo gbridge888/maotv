@@ -1,129 +1,129 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="4GTV",民視第一台
-http://4gtv.korice.eu.org/4gtv-4gtv003/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="4GTV",民視台灣台
-http://4gtv.korice.eu.org/4gtv-4gtv001/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv001/index.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="4GTV",民視HD
-http://4gtv.korice.eu.org/4gtv-4gtv002/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv002/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="4GTV",中視
-http://4gtv.korice.eu.org/4gtv-4gtv040/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv040/index.m3u8
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="4GTV",中視經典台
-http://4gtv.korice.eu.org/4gtv-4gtv080/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv080/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="4GTV",華視
-http://4gtv.korice.eu.org/4gtv-4gtv041/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv041/index.m3u8
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="4GTV",客家電視
-http://4gtv.korice.eu.org/4gtv-4gtv043/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv043/index.m3u8
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="4GTV",八大綜藝
-http://4gtv.korice.eu.org/4gtv-4gtv039/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv039/index.m3u8
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="4GTV",中視菁采台
-http://4gtv.korice.eu.org/4gtv-4gtv064/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv064/index.m3u8
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="4GTV",TVBS精采台
-http://4gtv.korice.eu.org/4gtv-4gtv067/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv067/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="4GTV",ELTA娛樂
-http://4gtv.korice.eu.org/4gtv-4gtv070/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv070/index.m3u8
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="4GTV",靖天綜合
-http://4gtv.korice.eu.org/4gtv-4gtv046/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv046/index.m3u8
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="4GTV",靖天日本
-http://4gtv.korice.eu.org/4gtv-4gtv047/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv047/index.m3u8
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="4GTV",Arirang TV
-http://4gtv.korice.eu.org/4gtv-4gtv079/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv079/index.m3u8
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="4GTV",達文西
-http://4gtv.korice.eu.org/4gtv-4gtv018/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv018/index.m3u8
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="4GTV",靖天卡通
-http://4gtv.korice.eu.org/4gtv-4gtv044/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv044/index.m3u8
 #EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="4GTV",靖洋卡通
-http://4gtv.korice.eu.org/4gtv-4gtv057/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv057/index.m3u8
 #EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="4GTV",東森購物一台
-http://4gtv.korice.eu.org/4gtv-4gtv102/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv102/index.m3u8
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="4GTV",鏡電視新聞台
-http://4gtv.korice.eu.org/4gtv-4gtv075/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="4GTV",東森新聞
-http://4gtv.korice.eu.org/4gtv-4gtv152/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv152/index.m3u8
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="4GTV",華視新聞台
-http://4gtv.korice.eu.org/4gtv-4gtv052/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv052/index.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="4GTV",東森財經新聞
-http://4gtv.korice.eu.org/4gtv-4gtv153/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="4GTV",中視新聞台
-http://4gtv.korice.eu.org/4gtv-4gtv074/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="4GTV",中天新聞台
-http://4gtv.korice.eu.org/4gtv-4gtv009/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="4GTV",寰宇新聞台灣台
-http://4gtv.korice.eu.org/4gtv-4gtv156/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv156/index.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="4GTV",TVBS HD
-http://4gtv.korice.eu.org/4gtv-4gtv073/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv073/index.m3u8
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="4GTV",東森購物二台
-http://4gtv.korice.eu.org/4gtv-4gtv103/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv103/index.m3u8
 #EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="4GTV",民視綜藝
-http://4gtv.korice.eu.org/4gtv-4gtv004/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv004/index.m3u8
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="4GTV",豬哥亮歌廳秀
-http://4gtv.korice.eu.org/4gtv-4gtv006/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv006/index.m3u8
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="4GTV",靖天育樂
-http://4gtv.korice.eu.org/4gtv-4gtv062/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv062/index.m3u8
 #EXTINF:-1 tvg-id="KLT靖天國際台HD" tvg-name="KLT靖天國際台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="4GTV",靖天國際
-http://4gtv.korice.eu.org/4gtv-4gtv063/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv063/index.m3u8
 #EXTINF:-1 tvg-id="NICETV靖天歡樂台" tvg-name="NICETV靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="4GTV",靖天歡樂
-http://4gtv.korice.eu.org/4gtv-4gtv054/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv054/index.m3u8
 #EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="4GTV",靖天資訊
-http://4gtv.korice.eu.org/4gtv-4gtv065/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv065/index.m3u8
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="4GTV",TVBS歡樂台
-http://4gtv.korice.eu.org/4gtv-4gtv068/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv068/index.m3u8
 #EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="4GTV",韓國娛樂台
-http://4gtv.korice.eu.org/4gtv-4gtv016/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv016/index.m3u8
 #EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="4GTV",TRACE Urban
-http://4gtv.korice.eu.org/4gtv-4gtv082/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv082/index.m3u8
 #EXTINF:-1 tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="4GTV",Mezzo Live HD
-http://4gtv.korice.eu.org/4gtv-4gtv083/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv083/index.m3u8
 #EXTINF:-1 tvg-id="CLASSICA古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="4GTV",CLASSICA古典樂
-http://4gtv.korice.eu.org/4gtv-4gtv059/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv059/index.m3u8
 #EXTINF:-1 tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="4GTV",TRACE Sport Stars
-http://4gtv.korice.eu.org/4gtv-4gtv077/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv077/index.m3u8
 #EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="4GTV",智林體育
-http://4gtv.korice.eu.org/4gtv-4gtv101/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv101/index.m3u8
 #EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="4GTV",時尚運動X
-http://4gtv.korice.eu.org/4gtv-4gtv014/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv014/index.m3u8
 #EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="4GTV", GINX Esports TV
-http://4gtv.korice.eu.org/4gtv-4gtv053/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv053/index.m3u8
 #EXTINF:-1 tvg-id="PETCLUBTVHD" tvg-name="PETCLUBTVHD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="4GTV",Pet Club TV
-http://4gtv.korice.eu.org/4gtv-4gtv110/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv110/index.m3u8
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="4GTV",亞洲旅遊
-http://4gtv.korice.eu.org/4gtv-4gtv076/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="4GTV",公視戲劇
-http://4gtv.korice.eu.org/4gtv-4gtv042/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv042/index.m3u8
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="4GTV",八大精彩
-http://4gtv.korice.eu.org/4gtv-4gtv034/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv034/index.m3u8
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="4GTV",靖天戲劇
-http://4gtv.korice.eu.org/4gtv-4gtv058/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv058/index.m3u8
 #EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="4GTV",靖洋戲劇
-http://4gtv.korice.eu.org/4gtv-4gtv045/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv045/index.m3u8
 #EXTINF:-1 tvg-id="CNEX紀實頻道" tvg-name="CNEX紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="4GTV",視納華仁紀實頻道
-http://4gtv.korice.eu.org/4gtv-4gtv013/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv013/index.m3u8
 #EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="4GTV",采昌影劇
-http://4gtv.korice.eu.org/4gtv-4gtv049/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv049/index.m3u8
 #EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="4GTV",靖天映畫
-http://4gtv.korice.eu.org/4gtv-4gtv055/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv055/index.m3u8
 #EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="4GTV",靖天電影
-http://4gtv.korice.eu.org/4gtv-4gtv061/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv061/index.m3u8
 #EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="4GTV",影迷數位電影台
-http://4gtv.korice.eu.org/4gtv-4gtv011/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv011/index.m3u8
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="4GTV",amc 電影台
-http://4gtv.korice.eu.org/4gtv-4gtv017/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv017/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="4GTV",國會頻道1台
-http://4gtv.korice.eu.org/4gtv-4gtv084/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv084/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="4GTV",國會頻道2台
-http://4gtv.korice.eu.org/4gtv-4gtv085/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv085/index.m3u8
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="4GTV",民視HD
-http://4gtv.korice.eu.org/4gtv-4gtv155/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv155/index.m3u8
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="4GTV",非凡新聞
-http://4gtv.korice.eu.org/4gtv-4gtv010/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv010/index.m3u8
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="4GTV",非凡商業
-http://4gtv.korice.eu.org/4gtv-4gtv048/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="4GTV",台視財經台
-http://4gtv.korice.eu.org/4gtv-4gtv056/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv056/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="4GTV",中天亞洲台
-http://4gtv.korice.eu.org/4gtv-4gtv109/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv109/index.m3u8
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="4GTV",台視新聞台
-http://4gtv.korice.eu.org/4gtv-4gtv051/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="4GTV",台視HD
-http://4gtv.korice.eu.org/4gtv-4gtv066/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv066/index.m3u8
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="4GTV",第1商業台
-http://4gtv.korice.eu.org/4gtv-4gtv104/index.m3u8
+http://tv123.vvvv.ee/4gtv/4gtv-4gtv104/index.m3u8
