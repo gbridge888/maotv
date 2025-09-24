@@ -14,7 +14,7 @@
         ],
 	"sites": [
 
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/IDYXOR94.png;md5;989f6d737e48a80952f1dcc332511c17"},
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"},
 //{"key":"空格7","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 //{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
@@ -49,7 +49,7 @@
 //{'key':'淘片资源(xml)','name':'淘片资源(xml)','type':0,'api':'https://taopianapi.com/cjapi/mc10/vod/xml.html','searchable':1,'quickSearch':1,'filterable':1},
 //{"key":"艾旦影视(xml)","name":"艾旦影视(xml)","type":0,"api":"https://www.lovedan.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"蛋蛋魔法(xml)","name":"蛋蛋魔法(xml)","type":0,"api":"https://ddmf.net/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"光速资源(xml)","name":"光速资源(xml)","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"光速资源(xml)","name":"光速资源(xml)","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"华为吧影视(xml)","name":"华为吧影视(xml)","type":0,"api":"https://hw8.live/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"黑木耳(xml)","name":"黑木耳(xml)","type":0,"api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
