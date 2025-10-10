@@ -27,7 +27,7 @@
 {"key":"豆瓣资源","name":"豆瓣资源","type":0,"api":"https://dbzy.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"魔爪资源","name":"魔爪资源","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"最大资源","name":"最大资源","type":0,"api":"https://api.zuidapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"樱花资源","name":"樱花资源","type":0,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"樱花资源","name":"樱花资源","type":0,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"魔都资源","name":"魔都资源","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"无尽资源","name":"无尽资源","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"iKun资源","name":"iKun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
