@@ -10,7 +10,7 @@
         ],
 	"sites": [
 
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"},
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac"},
 		
 {'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
