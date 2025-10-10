@@ -1,10 +1,6 @@
 {
-        //"spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1112.jar;md5;6F4ED9389C950C4826B2CFA415978ECB",
         "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;C45057E6962866AC965326BF8942CDD4",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-        //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["http://home.jundie.top:81/Cat/tv/live.txt"]
-	//	}]
-	//}],
         "lives": [
           {
           "name": "直播",
@@ -15,157 +11,34 @@
 	"sites": [
 
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"},
-//{"key":"空格7","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-//{"key":"xml","name":"------以下为XML资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 		
-//XML
-//{
-//      "key": "黑木耳(xml)",
-//      "name": "黑木耳(xml)",
-//      "type": 0,
-//      "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "categories": [
-//        "韩剧",
-//        "韩国综艺",
-//        "电影",
-//        "日剧",
-//        "国产剧",
-//        "欧美剧",
-//        "港剧",
-//        "台剧",
-//        "新马剧",
-//        "泰剧",
-//        "其他剧"
-//      ]
-//},
-{'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'电影天堂','name':'电影天堂','type':0,'api':'http://caiji.dyttzyapi.com/api.php/provide/vod','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'如意资源','name':'如意资源','type':0,'api':'http://cj.rycjapi.com/api.php/provide/vod','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'量子资源(xml)','name':'量子资源(xml)','type':0,'api':'https://cj.lziapi.com/api.php/provide/vod','searchable':1,'quickSearch':1,'filterable':1},
-{'key':'暴风资源','name':'暴风资源','type':0,'api':'https://bfzyapi.com/api.php/provide/vod','searchable':1,'quickSearch':1,'filterable':1},
-{"key":"天涯资源","name":"天涯资源","type":0,"api":"https://tyyszy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"非凡影视","name":"非凡影视","type":0,"api":"http://ffzy5.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360资源","name":"360资源","type":0,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"茅台资源","name":"茅台资源","type":0,"api":"https://caiji.maotaizy.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://wolongzyw.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"极速资源","name":"极速资源","type":0,"api":"https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"豆瓣资源","name":"豆瓣资源","type":0,"api":"https://dbzy.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"魔爪资源","name":"魔爪资源","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"最大资源","name":"最大资源","type":0,"api":"https://api.zuidapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"樱花资源","name":"樱花资源","type":0,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"魔都资源","name":"魔都资源","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"无尽资源","name":"无尽资源","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"iKun资源","name":"iKun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{'key':'电影天堂','name':'电影天堂','type':0,'api':'http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'如意资源','name':'如意资源','type':0,'api':'http://cj.rycjapi.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'量子资源(xml)','name':'量子资源(xml)','type':0,'api':'https://cj.lziapi.com/api.php/provide/vod/at/xm;','searchable':1,'quickSearch':1,'filterable':1},
+{'key':'暴风资源','name':'暴风资源','type':0,'api':'https://bfzyapi.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
+{"key":"天涯资源","name":"天涯资源","type":0,"api":"https://tyyszy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"非凡影视","name":"非凡影视","type":0,"api":"http://ffzy5.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360资源","name":"360资源","type":0,"api":"https://360zy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"茅台资源","name":"茅台资源","type":0,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"卧龙资源","name":"卧龙资源","type":0,"api":"https://wolongzyw.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"极速资源","name":"极速资源","type":0,"api":"https://jszyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"豆瓣资源","name":"豆瓣资源","type":0,"api":"https://dbzy.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"魔爪资源","name":"魔爪资源","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"最大资源","name":"最大资源","type":0,"api":"https://api.zuidapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"樱花资源","name":"樱花资源","type":0,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"魔都资源","name":"魔都资源","type":0,"api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"无尽资源","name":"无尽资源","type":0,"api":"https://api.wujinapi.me/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"iKun资源","name":"iKun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5","timeout":10},
-{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5","timeout":10},
-{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5","timeout":10},
-//{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/ubL_sdYi.png;md5;df37cbf496aabc22c6e721722fc56659","timeout":10},
+{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac","timeout":10},
+{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac","timeout":10},
+{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar": "https://pan.qingyuji.cn/f/Bq3ECm/o.png;md5;0deaec4a4e4a7e7b7de2e12db17290ac","timeout":10},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/rice0709.jar;md5;8432d174d72d5b608ae1bcd16d966847","timeout":10},
-
-//VOD
-//{
-//      "key": "泥巴",
-//      "name": "泥巴",
-//      "type": 3,
-//      "api": "csp_Z黑木耳haozy",
-//      "searchable": 1,
-//      "changeable": 1,
-//      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;6540FCED21F9B3FF71912F1F461C1FCF"
-//},
-//{
-//      "key": "韩圈",
-//      "name": "🦄韩圈┃蓝光┃无广",
-//      "type": 3,
-//      "api": "csp_HanXiaoQuan",
-//      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-//      "playerType": 2,
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "timeout": 10
-//},
-//{
-//      "key": "星星",
-//      "name": "星星",
-//      "type": 3,
-//      "api": "csp_Star",
-//      "searchable": 1,
-//      "changeable": 1,
-//      "jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/fm.jar;md5;7751AB5675370251EC75B701AAFA6F1C"
-//},
-//{
-//      "key": "大米星球",
-//      "name": "🌌大米┃星球┃蓝光",
-//      "type": 3,
-//      "api": "csp_AppDaMi",
-//      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1
-//},
-//{
-//      "key": "剧兔",
-//      "name": "🐇剧兔┃蓝光┃纯净",
-//      "type": 3,
-//      "api": "csp_AppYsV2",
-//      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-//      "ext": "https://www.zjtu.one/api.php/app/",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1
-//},
-//{
-//      "key": "影馆",
-//      "name": "🐖野猪┃蓝光┃纯净",
-//      "type": 3,
-//      "api": "csp_AppYsV2",
-//      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-//      "ext": "https://4kdyg.top/api.php/v1.vod",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1
-//},
-//{
-//      "key": "大师兄",
-//      "name": "🐥师兄┃蓝光┃纯净",
-//      "type": 3,
-//      "api": "csp_XBPQ",
-//      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=大师兄"
-//},
-//{
-//      "key": "素白白",
-//      "name": "🩴拖鞋┃秒播┃纯净",
-//      "type": 3,
-//      "api": "csp_Subaibai",
-//      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-//      "searchable": 1,
-//      "quickSearch": 1,
-//      "filterable": 1,
-//      "changeable": 1
-//},
-//{
-//      "key": "獨播",
-//      "name": "獨播",
-//      "type": 3,
-//      "api": "csp_XPathMacFilter",
-//      "searchable": 1,
-//      "changeable": 1,
-//      "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/duboku.json"
-//},
-
-//{'key':'U酷资源(vod)','name':'U酷资源(vod)','type':1,'api':'https://api.ukuapi.com/api.php/provide/vod/?ac=list','searchable':1,'quickSearch':1,'filterable':1},
 
 {"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"xbpq","name":"------以下为xBPQ资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
