@@ -10,7 +10,7 @@
         ],
 	"sites": [
 
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d"},
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1,"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/kk.jar;md5;D56C209CA830CFDB7CA80B38A49CD559"},
 		
 {'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
@@ -35,9 +35,9 @@
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d","timeout":10},
-{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d","timeout":10},
-{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d","timeout":10},
+{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/kk.jar;md5;D56C209CA830CFDB7CA80B38A49CD559","timeout":10},
+{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/kk.jar;md5;D56C209CA830CFDB7CA80B38A49CD559","timeout":10},
+{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/kk.jar;md5;D56C209CA830CFDB7CA80B38A49CD559","timeout":10},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar": "https://raw.githubusercontent.com/gbridge888/maotv/main/rice0709.jar;md5;8432d174d72d5b608ae1bcd16d966847","timeout":10},
 
 {"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
