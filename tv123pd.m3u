@@ -157,6 +157,8 @@ http://tv123.vvvv.ee/smtmn.php?id=eltasport1_twn
 http://tv123.vvvv.ee/smtmn.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="ea382422f252efcaa53800db4f87a05a" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0" group-title="体育频道", 爱尔达体育3台
 http://tv123.vvvv.ee/smtmn.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="ea382422f252efcaa53800db4f87a05a" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0" group-title="体育频道", 爱尔达体育4台
+http://tv123.vvvv.ee/smtmn.php?id=eltasports4_twn
 #EXTINF:-1 tvg-id="243a16f5a12120df29649be6019dacf8" tvg-logo="https://via.placeholder.com/150x80?text=Rugby+Pass+TV" group-title="体育频道", Rugby Pass TV
 http://tv123.vvvv.ee/smtmn.php?id=Rugbypasstv
 #EXTINF:-1 tvg-id="d4721512a241379205a8c39350c1c84c" tvg-logo="https://via.placeholder.com/150x80?text=RTM+Sports+HD" group-title="体育频道", RTM Sports HD
@@ -303,6 +305,8 @@ http://tv123.vvvv.ee/smtmn.php?id=eltasport1_twn
 http://tv123.vvvv.ee/smtmn.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="ea382422f252efcaa53800db4f87a05a" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0" group-title="台湾", 爱尔达体育3台
 http://tv123.vvvv.ee/smtmn.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="ea382422f252efcaa53800db4f87a05a" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0" group-title="体育频道", 爱尔达体育4台
+http://tv123.vvvv.ee/smtmn.php?id=eltasports4_twn
 #EXTINF:-1 tvg-id="1ed954e561f5a45908a012b533fbfeae" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Family" group-title="台湾", HBO Family
 http://tv123.vvvv.ee/smtmn.php?id=fyi_twn
 #EXTINF:-1 tvg-id="d77f4a118f1fa06bd2ce0624060d3f22" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8" group-title="台湾", 中视经典
