@@ -41,18 +41,7 @@
 {"key":"xbpq","name":"------以下为xBPQ资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBPQ (Best for filterable)
-{key:"csp_XBPQ_APP影院",name:"APP影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/app-xBPQ.json","jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;893092C310EC04D4FDD59BB4ACF4B748"},			
-{"key":"空格5","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
-{"key":"drpy","name":"------以下为DRPY资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-		
-{'key':'drpy_js_飞兔影视','name':'飞兔影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/飞兔影视.js'},
-{'key':'drpy_js_追剧迷','name':'追剧迷','type':3,'api':'./libs/drpy2.min.js','ext':'./js/追剧迷.js'},
-{'key':'drpy_js_达达龟','name':'达达龟','type':3,'api':'./libs/drpy2.min.js','ext':'./js/达达龟.js'},
-{'key':'drpy_js_看了么','name':'看了么','type':3,'api':'./libs/drpy2.min.js','ext':'./js/看了么.js'},
-{'key':'drpy_js_子子影视','name':'子子影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/子子影视.js'},
-{'key':'drpy_js_去看吧','name':'去看吧','type':3,'api':'./libs/drpy2.min.js','ext':'./js/去看吧.js'},
-{'key':'drpy_js_NT动漫','name':'NT动漫','type':3,'api':'./libs/drpy2.min.js','ext':'./js/NT动漫.js'},
-{key':'drpy_js_139影视','name':'139影视','type':3,'api':'./libs/drpy2.min.js','ext':'./js/139影视.js'}
+{key:"csp_XBPQ_APP影院",name:"APP影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/app-xBPQ.json","jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;893092C310EC04D4FDD59BB4ACF4B748"}
 
 ],
     "parses" : [
