@@ -112,11 +112,12 @@ http://bxtv.3a.ink/api.php?id=xingying
 http://tv123.vvvv.ee/bx/api.php?id=qxjd
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tv123.vvvv.ee/bx/logo/翡翠.png" group-title="BXTV",翡翠台
 http://tv123.vvvv.ee/bx/api.php?id=fct
-#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰中文.png" group-title="BXTV",鳳凰衛視中文台http://tv123.vvvv.ee/bx/api.php?id=fhzw 
-#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰资讯.png" group-title="BXTV",鳳凰衛視資訊台  http://tv123.vvvv.ee/bx/api.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰中文.png" group-title="BXTV",鳳凰衛視中文台
+http://tv123.vvvv.ee/bx/api.php?id=fhzw 
+#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰资讯.png" group-title="BXTV",鳳凰衛視資訊台  
+http://tv123.vvvv.ee/bx/api.php?id=fhzx
 #EXTINF:-1 tvg-name="鳳凰衛視香港" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰香港.png" group-title="BXTV",鳳凰衛視香港台
 http://tv123.vvvv.ee/bx/api.php?id=fhhk
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-logo="https://logo.catvod.com/beIN SPORTS 1.png" group-title="🌀試看",beIN SPORTS 1
 https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSbeINSPORTS.flv
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://logo.catvod.com/beIN SPORTS 2.png" group-title="🌀試看",beIN SPORTS 2
