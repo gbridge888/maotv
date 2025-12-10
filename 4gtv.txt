@@ -110,8 +110,169 @@ http://bxtv.3a.ink/api.php?id=baogu
 http://bxtv.3a.ink/api.php?id=xingying
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="http://tv123.vvvv.ee/bx/logo/千禧经典.png" group-title="BXTV",千禧經典台
 http://tv123.vvvv.ee/bx/api.php?id=qxjd
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tv123.vvvv.ee/bx/logo/翡翠.png" group-title="BXTV",翡翠>台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tv123.vvvv.ee/bx/logo/翡翠.png" group-title="BXTV",翡翠台
 http://tv123.vvvv.ee/bx/api.php?id=fct
-#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰中文.png" group-title="BXTV",鳳凰衛視中文台                                                                                   http://tv123.vvvv.ee/bx/api.php?id=fhzw                                                               #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰资讯.png" group-title="BXTV",鳳凰衛視資訊台                                                                                   http://tv123.vvvv.ee/bx/api.php?id=fhzx
+#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰中文.png" group-title="BXTV",鳳凰衛視中文台http://tv123.vvvv.ee/bx/api.php?id=fhzw #EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰资讯.png" group-title="BXTV",鳳凰衛視資訊台  http://tv123.vvvv.ee/bx/api.php?id=fhzx
 #EXTINF:-1 tvg-name="鳳凰衛視香港" tvg-logo="http://tv123.vvvv.ee/bx/logo/凤凰香港.png" group-title="BXTV",鳳凰衛視香港台
 http://tv123.vvvv.ee/bx/api.php?id=fhhk
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-logo="https://logo.catvod.com/beIN SPORTS 1.png" group-title="🌀試看",beIN SPORTS 1
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSbeINSPORTS.flv
+#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-logo="https://logo.catvod.com/beIN SPORTS 2.png" group-title="🌀試看",beIN SPORTS 2
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF35462beINSPORTS2.flv
+#EXTINF:-1 tvg-name="now新闻" tvg-logo="https://logo.catvod.com/now新闻.png" group-title="🌀試看",now新闻
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF354621122.flv
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://logo.catvod.com/中天新闻台.png" group-title="🌀試看",中天新闻台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212312.flv
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://logo.catvod.com/TVBS新聞.png" group-title="🌀試看",TVBS新聞
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212314.flv
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://logo.catvod.com/民視新聞台.png" group-title="🌀試看",民視新聞台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212315.flv
+#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://logo.catvod.com/東森新聞台.png" group-title="🌀試看",東森新聞台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212316.flv
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://logo.catvod.com/華視新聞.png" group-title="🌀試看",華視新聞
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212317.flv
+#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://logo.catvod.com/鏡電視新聞台.png" group-title="🌀試看",鏡電視新聞台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212318.flv
+#EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://logo.catvod.com/東森財經新聞台.png" group-title="🌀試看",東森財經新聞台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212319.flv
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://logo.catvod.com/中視新聞.png" group-title="🌀試看",中視新聞
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212320.flv
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://logo.catvod.com/寰宇新聞台.png" group-title="🌀試看",寰宇新聞台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212321.flv
+#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://logo.catvod.com/寰宇新聞台灣台.png" group-title="🌀試看",寰宇新聞台灣台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212322.flv
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://logo.catvod.com/三立新聞iNEWS.png" group-title="🌀試看",三立新聞iNEWS
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212323.flv
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://logo.catvod.com/Bloomberg TV.png" group-title="🌀試看",Bloomberg TV
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212324.flv
+#EXTINF:-1 tvg-name="SBN全球財經台" tvg-logo="https://logo.catvod.com/SBN全球財經台.png" group-title="🌀試看",SBN全球財經台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212325.flv
+#EXTINF:-1 tvg-name="FRANCE24 英文台" tvg-logo="https://logo.catvod.com/FRANCE24 英文台.png" group-title="🌀試看",FRANCE24 英文台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212326.flv
+#EXTINF:-1 tvg-name="半島國際新聞台" tvg-logo="https://logo.catvod.com/半島國際新聞台.png" group-title="🌀試看",半島國際新聞台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212327.flv
+#EXTINF:-1 tvg-name="NHK WORLD-JAPAN" tvg-logo="https://logo.catvod.com/NHK WORLD-JAPAN.png" group-title="🌀試看",NHK WORLD-JAPAN
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212328.flv
+#EXTINF:-1 tvg-name="CNBC Asia 財經台" tvg-logo="https://logo.catvod.com/CNBC Asia 財經台.png" group-title="🌀試看",CNBC Asia 財經台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212329.flv
+#EXTINF:-1 tvg-name="DW德國之聲" tvg-logo="https://logo.catvod.com/DW德國之聲.png" group-title="🌀試看",DW德國之聲
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212330.flv
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://logo.catvod.com/民視第一台.png" group-title="🌀試看",民視第一台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212331.flv
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://logo.catvod.com/民視台灣台.png" group-title="🌀試看",民視台灣台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212332.flv
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://logo.catvod.com/民視.png" group-title="🌀試看",民視
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212333.flv
+#EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://logo.catvod.com/三立綜合台.png" group-title="🌀試看",三立綜合台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212334.flv
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/華視.png" group-title="🌀試看",華視
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212335.flv
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中視.png" group-title="🌀試看",中視
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212336.flv
+#EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://logo.catvod.com/中視經典台.png" group-title="🌀試看",中視經典台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212337.flv
+#EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://logo.catvod.com/中視菁采台.png" group-title="🌀試看",中視菁采台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212338.flv
+#EXTINF:-1 tvg-name="八大綜藝台" tvg-logo="https://logo.catvod.com/八大綜藝台.png" group-title="🌀試看",八大綜藝台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212339.flv
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://logo.catvod.com/TVBS精采台.png" group-title="🌀試看",TVBS精采台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212340.flv
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://logo.catvod.com/民視綜藝台.png" group-title="🌀試看",民視綜藝台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212341.flv
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://logo.catvod.com/TVBS.png" group-title="🌀試看",TVBS
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212342.flv
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://logo.catvod.com/TVBS歡樂台.png" group-title="🌀試看",TVBS歡樂台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212343.flv
+#EXTINF:-1 tvg-name="TVBS綜藝台" tvg-logo="https://logo.catvod.com/TVBS綜藝台.png" group-title="🌀試看",TVBS綜藝台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212344.flv
+#EXTINF:-1 tvg-name="TVBS台劇台" tvg-logo="https://logo.catvod.com/TVBS台劇台.png" group-title="🌀試看",TVBS台劇台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212345.flv
+#EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://logo.catvod.com/靖天綜合台.png" group-title="🌀試看",靖天綜合台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212346.flv
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://logo.catvod.com/靖天日本台.png" group-title="🌀試看",靖天日本台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212347.flv
+#EXTINF:-1 tvg-name="KLT-靖天國際台" tvg-logo="https://logo.catvod.com/KLT-靖天國際台.png" group-title="🌀試看",KLT-靖天國際台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212348.flv
+#EXTINF:-1 tvg-name="靖天資訊台" tvg-logo="https://logo.catvod.com/靖天資訊台.png" group-title="🌀試看",靖天資訊台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212349.flv
+#EXTINF:-1 tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://logo.catvod.com/Nice TV 靖天歡樂台.png" group-title="🌀試看",Nice TV 靖天歡樂台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212350.flv
+#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://logo.catvod.com/新唐人亞太台.png" group-title="🌀試看",新唐人亞太台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212351.flv
+#EXTINF:-1 tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://logo.catvod.com/ARIRANG阿里郎頻道.png" group-title="🌀試看",ARIRANG阿里郎頻道
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212352.flv
+#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://logo.catvod.com/Global Trekker.png" group-title="🌀試看",Global Trekker
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212353.flv
+#EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://logo.catvod.com/原住民族電視台.png" group-title="🌀試看",原住民族電視台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212354.flv
+#EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://logo.catvod.com/客家電視台.png" group-title="🌀試看",客家電視台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212355.flv
+#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://logo.catvod.com/國會頻道1.png" group-title="🌀試看",國會頻道1
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212356.flv
+#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://logo.catvod.com/國會頻道2.png" group-title="🌀試看",國會頻道2
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212357.flv
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://logo.catvod.com/好消息.png" group-title="🌀試看",好消息
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212358.flv
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://logo.catvod.com/好消息2台.png" group-title="🌀試看",好消息2台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212359.flv
+#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="🌀試看",大愛電視
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212360.flv
+#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://logo.catvod.com/大愛二台.png" group-title="🌀試看",大愛二台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212361.flv
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://logo.catvod.com/人間衛視.png" group-title="🌀試看",人間衛視
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212362.flv
+#EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://logo.catvod.com/民視旅遊台.png" group-title="🌀試看",民視旅遊台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212363.flv
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://logo.catvod.com/亞洲旅遊台.png" group-title="🌀試看",亞洲旅遊台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212364.flv
+#EXTINF:-1 tvg-name="愛爾達生活旅遊台" tvg-logo="https://logo.catvod.com/愛爾達生活旅遊台.png" group-title="🌀試看",愛爾達生活旅遊台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212365.flv
+#EXTINF:-1 tvg-name="fun探索娛樂台" tvg-logo="https://logo.catvod.com/fun探索娛樂台.png" group-title="🌀試看",fun探索娛樂台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212366.flv
+#EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://logo.catvod.com/幸福空間居家台.png" group-title="🌀試看",幸福空間居家台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212367.flv
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://logo.catvod.com/Love Nature.png" group-title="🌀試看",Love Nature
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212368.flv
+#EXTINF:-1 tvg-name="History 歷史頻道" tvg-logo="https://logo.catvod.com/History 歷史頻道.png" group-title="🌀試看",History 歷史頻道
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212369.flv
+#EXTINF:-1 tvg-name="LUXE TV Channel" tvg-logo="https://logo.catvod.com/LUXE TV Channel.png" group-title="🌀試看",LUXE TV Channel
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212370.flv
+#EXTINF:-1 tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://logo.catvod.com/TV5MONDE STYLE HD 生活時尚.png" group-title="🌀試看",TV5MONDE STYLE HD 生活時尚
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212371.flv
+#EXTINF:-1 tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://logo.catvod.com/MagellanTV頻道 (麥哲倫頻道).png" group-title="🌀試看",MagellanTV頻道 (麥哲倫頻道)
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212372.flv
+#EXTINF:-1 tvg-name="Lifetime 娛樂頻道" tvg-logo="https://logo.catvod.com/Lifetime 娛樂頻道.png" group-title="🌀試看",Lifetime 娛樂頻道
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212373.flv
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://logo.catvod.com/ROCK Entertainment.png" group-title="🌀試看",ROCK Entertainment
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212374.flv
+#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://logo.catvod.com/八大精彩台.png" group-title="🌀試看",八大精彩台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212375.flv
+#EXTINF:-1 tvg-name="靖天育樂台" tvg-logo="https://logo.catvod.com/靖天育樂台.png" group-title="🌀試看",靖天育樂台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212376.flv
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://logo.catvod.com/豬哥亮歌廳秀.png" group-title="🌀試看",豬哥亮歌廳秀
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212377.flv
+#EXTINF:-1 tvg-name="韓國娛樂台 KMTV" tvg-logo="https://logo.catvod.com/韓國娛樂台 KMTV.png" group-title="🌀試看",韓國娛樂台 KMTV
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212378.flv
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-logo="https://logo.catvod.com/愛爾達娛樂台.png" group-title="🌀試看",愛爾達娛樂台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212379.flv
+#EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://logo.catvod.com/民視影劇台.png" group-title="🌀試看",民視影劇台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212380.flv
+#EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://logo.catvod.com/公視戲劇.png" group-title="🌀試看",公視戲劇
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212381.flv
+#EXTINF:-1 tvg-name="采昌影劇台" tvg-logo="https://logo.catvod.com/采昌影劇台.png" group-title="🌀試看",采昌影劇台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212382.flv
+#EXTINF:-1 tvg-name="靖天戲劇台" tvg-logo="https://logo.catvod.com/靖天戲劇台.png" group-title="🌀試看",靖天戲劇台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212383.flv
+#EXTINF:-1 tvg-name="靖洋戲劇台" tvg-logo="https://logo.catvod.com/靖洋戲劇台.png" group-title="🌀試看",靖洋戲劇台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212384.flv
+#EXTINF:-1 tvg-name="靖天映畫" tvg-logo="https://logo.catvod.com/靖天映畫.png" group-title="🌀試看",靖天映畫
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212385.flv
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://logo.catvod.com/靖天電影台.png" group-title="🌀試看",靖天電影台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212386.flv
+#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://logo.catvod.com/影迷數位電影台.png" group-title="🌀試看",影迷數位電影台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212387.flv
+#EXTINF:-1 tvg-name="amc電影台" tvg-logo="https://logo.catvod.com/amc電影台.png" group-title="🌀試看",amc電影台
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212388.flv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://logo.catvod.com/CinemaWorld.png" group-title="🌀試看",CinemaWorld
+https://hls-pull-wicketpw.speedws.com/live/IcmEedSDSFSFDF3546212389.flv
