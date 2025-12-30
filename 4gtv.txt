@@ -10,10 +10,6 @@ http://tv123.vvvv.ee/bx/api.php?id=wxxw
 http://tv123.vvvv.ee/bx/api.php?id=meiya
 #EXTINF:-1 tvg-name="PopC" tvg-logo="http://tv123.vvvv.ee/bx/logo/POPC.png" group-title="BXTV",PopC
 http://tv123.vvvv.ee/bx/api.php?id=popc
-#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="http://tv123.vvvv.ee/bx/logo/VIUTV.png" group-title="BXTV",NOW爆谷台
-http://bxtv.3a.ink/api.php?id=baogu
-#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="http://tv123.vvvv.ee/bx/logo/VIUTV.png" group-title="BXTV",NOW爆谷星影台
-http://bxtv.3a.ink/api.php?id=xingying
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="http://tv123.vvvv.ee/bx/logo/千禧经典.png" group-title="BXTV",千禧經典台
 http://tv123.vvvv.ee/bx/api.php?id=qxjd
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://tv123.vvvv.ee/bx/logo/翡翠.png" group-title="BXTV",翡翠台
