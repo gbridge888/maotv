@@ -57,7 +57,7 @@ check_with_ffprobe() {
     
     # 使用 ffprobe 检测格式信息
     local format_info
-    format_info=$(timeout 15 ffprobe -v quiet -print_format json -show_format "$url" 2>/dev/null || echo "{}")
+    format_info=$(timeout 5 ffprobe -v quiet -print_format json -show_format "$url" 2>/dev/null || echo "{}")
     
     # 检查是否是MP4格式
     if echo "$format_info" | grep -q "\"format_name\":.*mp4"; then
@@ -73,7 +73,7 @@ check_with_ffprobe() {
     
     # 检查编解码器
     local codec_info
-    codec_info=$(timeout 15 ffprobe -v quiet -print_format json -show_streams "$url" 2>/dev/null || echo "{}")
+    codec_info=$(timeout 5 ffprobe -v quiet -print_format json -show_streams "$url" 2>/dev/null || echo "{}")
     
     # 如果主要是h264/aac且没有其他流媒体特征，可能是MP4
     if echo "$codec_info" | grep -q "\"codec_name\":\"h264\"" && \
@@ -98,7 +98,7 @@ check_stream_url() {
     local content_type
     
     # 方法1: 检查HTTP状态码
-    http_code=$(curl -L --max-time 10 --retry 1 \
+    http_code=$(curl -L --max-time 5 --retry 1 \
                     -o /dev/null -s -w "%{http_code}" "$url" 2>/dev/null || echo "000")
     
     # 如果状态码不是2xx/3xx，直接返回无效

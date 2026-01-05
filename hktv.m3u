@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="HKTV" tvg-logo="https://logo.catvod.com/HKTV.png" group-title="HKTV",HKTV
-https://vd2.bdstatic.com/mda-refjgvx7nhrha8js/cae_h264/1747403357338896764/mda-refjgvx7nhrha8js.mp4
 #EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://logo.catvod.com/Now星影台.png" group-title="HKTV",Now星影台
 http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="HKTV",翡翠台
@@ -43,8 +41,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港频道" tvg-logo="https://logo.catvod.com/凤凰香港频道.png" group-title="HKTV",凤凰香港频道
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://logo.catvod.com/翡翠台4K.png" group-title="HKTV",翡翠台4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="HKTV",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://logo.catvod.com/凤凰中文.png" group-title="港台频道",凤凰中文
@@ -81,66 +77,14 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zPwqou&tk=inWducl7RAaR
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i88oYz&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="NowSports" tvg-logo="https://logo.catvod.com/NowSports.png" group-title="港台频道",NowSports
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3Pc9bu&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://logo.catvod.com/TVB生活台.png" group-title="港台频道",TVB生活台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FyFJFW&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://logo.catvod.com/TVB星河(国语).png" group-title="港台频道",TVB星河(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G1TGvK&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVB功夫(国语)" tvg-logo="https://logo.catvod.com/TVB功夫(国语).png" group-title="港台频道",TVB功夫(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KVZj41&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now爆谷(国语)" tvg-logo="https://logo.catvod.com/Now爆谷(国语).png" group-title="港台频道",Now爆谷(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wIJ9VJ&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now星影(国语)" tvg-logo="https://logo.catvod.com/Now星影(国语).png" group-title="港台频道",Now星影(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WQJN9G&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://logo.catvod.com/Now华剧台.png" group-title="港台频道",Now华剧台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VoKP97&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://logo.catvod.com/Now剧集台.png" group-title="港台频道",Now剧集台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByfzKp&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://logo.catvod.com/Now紫金国际.png" group-title="港台频道",Now紫金国际
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=S4YQUR&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="极限电影台" tvg-logo="https://logo.catvod.com/极限电影台.png" group-title="港台频道",极限电影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HkyFGb&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://logo.catvod.com/PopC电影.png" group-title="港台频道",PopC电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ny8sWB&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HUB娱家台" tvg-logo="https://logo.catvod.com/HUB娱家台.png" group-title="港台频道",HUB娱家台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e4zihH&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HUB都会台" tvg-logo="https://logo.catvod.com/HUB都会台.png" group-title="港台频道",HUB都会台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iiyorE&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="星空卫视(国际)" tvg-logo="https://logo.catvod.com/星空卫视(国际).png" group-title="港台频道",星空卫视(国际)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IReOcL&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="美亚电影(台湾)" tvg-logo="https://logo.catvod.com/美亚电影(台湾).png" group-title="港台频道",美亚电影(台湾)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8p0P1z&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="动物星球(台湾)" tvg-logo="https://logo.catvod.com/动物星球(台湾).png" group-title="港台频道",动物星球(台湾)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xQ0tld&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="港台频道",年代新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MkAOPu&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="港台频道",寰宇新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ruVxcR&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="港台频道",东森新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q1oXEA&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港台频道",中视新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VSUr8U&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="港台频道",中天新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=r2JgUA&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="港台频道",TVBS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kFEDzo&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="港台频道",香港卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HyEuCi&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://logo.catvod.com/莲花卫视.png" group-title="港台频道",莲花卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FZaGBP&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://logo.catvod.com/环球电视台.png" group-title="港台频道",环球电视台
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RjC932&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="香港环球卫视" tvg-logo="https://logo.catvod.com/香港环球卫视.png" group-title="港台频道",香港环球卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eu30vu&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="https://logo.catvod.com/亚洲卫视.png" group-title="港台频道",亚洲卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VHLOUI&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="亚太第一卫视" tvg-logo="https://logo.catvod.com/亚太第一卫视.png" group-title="港台频道",亚太第一卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HHhv1F&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="华文卫视" tvg-logo="https://logo.catvod.com/华文卫视.png" group-title="港台频道",华文卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fQgTQj&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="1905电影" tvg-logo="https://logo.catvod.com/1905电影.png" group-title="港台频道",1905电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKPWmH&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="1905环球" tvg-logo="https://logo.catvod.com/1905环球.png" group-title="港台频道",1905环球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8ofuVF&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="港台频道",重温经典
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jDvgFS&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="Y+剧场" tvg-logo="https://logo.catvod.com/Y+剧场.png" group-title="港台频道",Y+剧场
@@ -183,8 +127,6 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jHWAkj&tk=inWducl7RAaR
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vw4Cd5&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="Astr" tvg-logo="https://logo.catvod.com/Astr.png" group-title="港台频道",Astr
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iZcKfP&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://logo.catvod.com/TVBPlus.png" group-title="港台频道",TVBPlus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9wia9K&tk=inWducl7RAaR Plus
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影.png" group-title="港台频道",美亚电影
 http://74.91.26.218:82/live/mydy.m3u8
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="港台频道",天映频道
@@ -207,88 +149,20 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Obh4dt&tk=inWducl7RAaR
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j7vp2A&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://logo.catvod.com/TVB Plus.png" group-title="港台频道",TVB Plus
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jxWqt8&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://logo.catvod.com/無綫新聞台.png" group-title="港台频道",無綫新聞台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MCMnUN&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="港台频道",明珠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eTNx6M&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://logo.catvod.com/HOY 國際財經台.png" group-title="港台频道",HOY 國際財經台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Inym11&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="港台频道",HOY TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XDzJ6c&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HOY 資訊台" tvg-logo="https://logo.catvod.com/HOY 資訊台.png" group-title="港台频道",HOY 資訊台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=loWJIz&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://logo.catvod.com/ViuTVsix.png" group-title="港台频道",ViuTVsix
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ronvIv&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/ViuTV.png" group-title="港台频道",ViuTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FNoHsv&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://logo.catvod.com/Now直播台.png" group-title="港台频道",Now直播台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oMaW8w&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://logo.catvod.com/Now新聞台.png" group-title="港台频道",Now新聞台
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zPwqou&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="Now財經台" tvg-logo="https://logo.catvod.com/Now財經台.png" group-title="港台频道",Now財經台
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i88oYz&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="NowSports" tvg-logo="https://logo.catvod.com/NowSports.png" group-title="港台频道",NowSports
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3Pc9bu&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://logo.catvod.com/TVB生活台.png" group-title="港台频道",TVB生活台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FyFJFW&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVB星河(国语)" tvg-logo="https://logo.catvod.com/TVB星河(国语).png" group-title="港台频道",TVB星河(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G1TGvK&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVB功夫(国语)" tvg-logo="https://logo.catvod.com/TVB功夫(国语).png" group-title="港台频道",TVB功夫(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KVZj41&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now爆谷(国语)" tvg-logo="https://logo.catvod.com/Now爆谷(国语).png" group-title="港台频道",Now爆谷(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wIJ9VJ&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now星影(国语)" tvg-logo="https://logo.catvod.com/Now星影(国语).png" group-title="港台频道",Now星影(国语)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WQJN9G&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://logo.catvod.com/Now华剧台.png" group-title="港台频道",Now华剧台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VoKP97&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://logo.catvod.com/Now剧集台.png" group-title="港台频道",Now剧集台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByfzKp&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://logo.catvod.com/Now紫金国际.png" group-title="港台频道",Now紫金国际
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=S4YQUR&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="极限电影台" tvg-logo="https://logo.catvod.com/极限电影台.png" group-title="港台频道",极限电影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HkyFGb&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="PopC电影" tvg-logo="https://logo.catvod.com/PopC电影.png" group-title="港台频道",PopC电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ny8sWB&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HUB娱家台" tvg-logo="https://logo.catvod.com/HUB娱家台.png" group-title="港台频道",HUB娱家台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e4zihH&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="HUB都会台" tvg-logo="https://logo.catvod.com/HUB都会台.png" group-title="港台频道",HUB都会台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iiyorE&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="星空卫视(国际)" tvg-logo="https://logo.catvod.com/星空卫视(国际).png" group-title="港台频道",星空卫视(国际)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IReOcL&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="美亚电影(台湾)" tvg-logo="https://logo.catvod.com/美亚电影(台湾).png" group-title="港台频道",美亚电影(台湾)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8p0P1z&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="动物星球(台湾)" tvg-logo="https://logo.catvod.com/动物星球(台湾).png" group-title="港台频道",动物星球(台湾)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xQ0tld&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="港台频道",年代新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MkAOPu&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="港台频道",寰宇新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ruVxcR&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="港台频道",东森新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q1oXEA&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="港台频道",中视新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VSUr8U&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="港台频道",中天新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=r2JgUA&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="港台频道",TVBS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kFEDzo&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://logo.catvod.com/香港卫视.png" group-title="港台频道",香港卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HyEuCi&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://logo.catvod.com/莲花卫视.png" group-title="港台频道",莲花卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FZaGBP&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://logo.catvod.com/环球电视台.png" group-title="港台频道",环球电视台
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RjC932&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="香港环球卫视" tvg-logo="https://logo.catvod.com/香港环球卫视.png" group-title="港台频道",香港环球卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eu30vu&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="亚洲卫视" tvg-logo="https://logo.catvod.com/亚洲卫视.png" group-title="港台频道",亚洲卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VHLOUI&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="亚太第一卫视" tvg-logo="https://logo.catvod.com/亚太第一卫视.png" group-title="港台频道",亚太第一卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HHhv1F&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="华文卫视" tvg-logo="https://logo.catvod.com/华文卫视.png" group-title="港台频道",华文卫视
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fQgTQj&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="1905电影" tvg-logo="https://logo.catvod.com/1905电影.png" group-title="港台频道",1905电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKPWmH&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="1905环球" tvg-logo="https://logo.catvod.com/1905环球.png" group-title="港台频道",1905环球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8ofuVF&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://logo.catvod.com/重温经典.png" group-title="港台频道",重温经典
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jDvgFS&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="Y+剧场" tvg-logo="https://logo.catvod.com/Y+剧场.png" group-title="港台频道",Y+剧场
@@ -301,8 +175,6 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lpNXwY&tk=inWducl7RAaR
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YSqMZ2&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="港台频道",明珠台
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=56Njkj&tk=inWducl7RAaR
-#EXTINF:-1 tvg-name="星河" tvg-logo="https://logo.catvod.com/星河.png" group-title="港台频道",星河
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=U0qks5&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://logo.catvod.com/娱乐新闻台.png" group-title="港台频道",娱乐新闻台
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MjbnUD&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="无线千禧台" tvg-logo="https://logo.catvod.com/无线千禧台.png" group-title="港台频道",无线千禧台
@@ -335,69 +207,3 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iZcKfP&tk=inWducl7RAaR
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9wia9K&tk=inWducl7RAaR
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="风云港澳",鳳凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://logo.catvod.com/TVB翡翠.png" group-title="风云港澳",TVB翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-name="TVB翡翠(馬來)" tvg-logo="https://logo.catvod.com/TVB翡翠(馬來).png" group-title="风云港澳",TVB翡翠(馬來)
-http://iptv.4666888.xyz/iptv2A.php?id=28
-#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://logo.catvod.com/TVB明珠.png" group-title="风云港澳",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://logo.catvod.com/TVBJ1.png" group-title="风云港澳",TVBJ1
-http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://logo.catvod.com/TVB1.png" group-title="风云港澳",TVB1
-http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://logo.catvod.com/千禧经典.png" group-title="风云港澳",千禧经典
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://logo.catvod.com/HOY77.png" group-title="风云港澳",HOY77
-http://iptv.4666888.xyz/iptv2A.php?id=35
-#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://logo.catvod.com/HOY78.png" group-title="风云港澳",HOY78
-http://iptv.4666888.xyz/iptv2A.php?id=31
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="风云港澳",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
-#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://logo.catvod.com/TVB娱乐新闻.png" group-title="风云港澳",TVB娱乐新闻
-http://iptv.4666888.xyz/iptv2A.php?id=36
-#EXTINF:-1 tvg-name="MYTV黃金翡翠" tvg-logo="https://logo.catvod.com/MYTV黃金翡翠.png" group-title="风云港澳",MYTV黃金翡翠
-http://iptv.4666888.xyz/iptv2A.php?id=32
-#EXTINF:-1 tvg-name="TVB翡翠劇集" tvg-logo="https://logo.catvod.com/TVB翡翠劇集.png" group-title="风云港澳",TVB翡翠劇集
-http://iptv.4666888.xyz/iptv2A.php?id=33
-#EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://logo.catvod.com/澳視澳門.png" group-title="风云港澳",澳視澳門
-http://iptv.4666888.xyz/iptv2A.php?id=41
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://logo.catvod.com/TVBS新聞.png" group-title="风云台湾",TVBS新聞
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://logo.catvod.com/非凡新闻.png" group-title="风云台湾",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://logo.catvod.com/民视.png" group-title="风云台湾",民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
-#EXTINF:-1 tvg-name="華藝中文" tvg-logo="https://logo.catvod.com/華藝中文.png" group-title="风云台湾",華藝中文
-http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="风云台湾",爱奇艺
-http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://logo.catvod.com/靖洋戏剧.png" group-title="风云台湾",靖洋戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-name="靖天电影" tvg-logo="https://logo.catvod.com/靖天电影.png" group-title="风云台湾",靖天电影
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-name="邵氏武侠" tvg-logo="https://logo.catvod.com/邵氏武侠.png" group-title="风云台湾",邵氏武侠
-http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1 tvg-name="東森电影" tvg-logo="https://logo.catvod.com/東森电影.png" group-title="风云台湾",東森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 tvg-name="龍華电影" tvg-logo="https://logo.catvod.com/龍華电影.png" group-title="风云台湾",龍華电影
-http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://logo.catvod.com/民視綜藝.png" group-title="风云台湾",民視綜藝
-http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://logo.catvod.com/TVBS精采.png" group-title="风云台湾",TVBS精采
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-name="邵氏电影" tvg-logo="https://logo.catvod.com/邵氏电影.png" group-title="风云台湾",邵氏电影
-http://iptv.4666888.xyz/iptv2A.php?id=39
-#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://logo.catvod.com/東森洋片.png" group-title="风云台湾",東森洋片
-http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-name="爱尔达综合" tvg-logo="https://logo.catvod.com/爱尔达综合.png" group-title="风云台湾",爱尔达综合
-http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-name="ROCK_Action" tvg-logo="https://logo.catvod.com/ROCK_Action.png" group-title="风云台湾",ROCK_Action
-http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://logo.catvod.com/台视综合.png" group-title="风云台湾",台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=51
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="风云台湾",八度空间
-http://iptv.4666888.xyz/iptv2A.php?id=52
-#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://logo.catvod.com/民视影剧.png" group-title="风云台湾",民视影剧
-http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="风云台湾",中视经典
-http://iptv.4666888.xyz/iptv2A.php?id=54
