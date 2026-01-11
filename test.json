@@ -40,7 +40,7 @@
 {"key":"xbpq","name":"------以下为xBPQ资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 //XBPQ (Best for filterable)
-{key:"csp_XBPQ_APP影院",name:"APP影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/app-xBPQ.json","jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;893092C310EC04D4FDD59BB4ACF4B748"}
+//{key:"csp_XBPQ_APP影院",name:"APP影院(xBPQ)",type:3,api:"csp_XBPQ",searchable:1,quickSearch:1,filterable:1,ext:"https://raw.githubusercontent.com/gbridge888/maotv/main/app-xBPQ.json","jar":"https://raw.githubusercontent.com/gbridge888/maotv/main/1226.jar;md5;893092C310EC04D4FDD59BB4ACF4B748"}
 
 ],
     "parses" : [
