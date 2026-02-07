@@ -5,12 +5,11 @@
           {
           "name": "直播",
           "type": 0,
-          "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+          "url": "https://tv123.vvvv.ee/tv.m3u"
           }
         ],
 	"sites": [
 
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
 		
 {'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
