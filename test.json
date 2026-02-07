@@ -10,6 +10,7 @@
         ],
 	"sites": [
 
+{"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":1,"ext":{"sp":"Douban"}},
 		
 {'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
