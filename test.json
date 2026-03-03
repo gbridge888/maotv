@@ -53,11 +53,11 @@
             },
             "timeout": 10
 },
-{"key":"云云弹幕版","name":" 云云┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"YunYun","danmu":true},
+//{"key":"云云弹幕版","name":" 云云┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"YunYun","danmu":true},
 "timeout":10},
 {"key":"雄鹰弹幕版","name":"🦅雄鹰┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"XiongYing","danmu":true},
-"timeout":10},
-{"key":"一起弹幕版","name":"📺一起┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Yqs","danmu":true},
+"timeout":10}
+//{"key":"一起弹幕版","name":"📺一起┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Yqs","danmu":true},
 "timeout":10}
 
 //{"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
