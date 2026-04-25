@@ -52,6 +52,35 @@
                 "danmu": true
             },
             "timeout": 10
+},
+{
+            "key": "热播",
+            "name": "📺热播┃App",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "TianTian",
+                "site": 0
+            },
+            "timeout": 10
+},
+{
+            "key": "奇奇",
+            "name": "🐵奇奇┃App",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiQi"
+            },
+            "timeout": 10
 }
 //{"key":"云云弹幕版","name":" 云云┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"YunYun","danmu":true},
 //"timeout":10},
