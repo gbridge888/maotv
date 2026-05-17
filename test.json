@@ -1,5 +1,5 @@
 {
-        "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/kk.jar;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+        "spider":"https://raw.githubusercontent.com/gbridge888/maotv/main/王二小.jar;md5;03a6211a751367f46f1704a8b1d10d36",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
         "lives": [
           {
@@ -30,58 +30,55 @@
 {"key":"空格6","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},		
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"瓜子","name":"🍉瓜子┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Guazi","danmu":true},
-"timeout":10},
-{"key":"文才","name":"🌺文才┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Jpys","danmu":true},
-"timeout":10},
-{"key":"糯米","name":"🍓糯米┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Nmys","danmu":true},
-"timeout":10},
-//{"key":"小苹果弹幕版","name":"🍎苹果┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Xpg","danmu":true},
-//"timeout":10},
 {
-            "key": "独播弹幕版",
-            "name": "👠独播┃弹幕",
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播💥",
             "type": 3,
-            "api": "csp_AweSomeGuard",
+            "api": "csp_WexHanXiaoQuanGuard",
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "Duboku",
-                "danmu": true
-            },
-            "timeout": 10
+            "changeable": 1
 },
 {
-            "key": "热播",
-            "name": "📺热播┃App",
+            "key": "WexWenCai",
+            "name": "💥文才┃秒播💥",
             "type": 3,
-            "api": "csp_AweSomeGuard",
+            "api": "csp_WexWenCaiGuard",
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "sp": "TianTian",
-                "site": 0
-            },
-            "timeout": 10
+            "changeable": 1
 },
 {
-            "key": "奇奇",
-            "name": "🐵奇奇┃App",
+            "key": "WexDuBoKu",
+            "name": "💥独播┃秒播💥",
             "type": 3,
-            "api": "csp_AweSomeGuard",
+            "api": "csp_WexDuBoKuGuard",
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "QiQi"
-            },
-            "timeout": 10
+            "changeable": 1
+},
+{
+            "key": "WexYiYs",
+            "name": "💥伊影┃秒播💥",
+            "type": 3,
+            "api": "csp_WexYiYsGuard",
+            "searchable": 1,
+            "changeable": 1
+},
+{
+            "key": "WexReBo",
+            "name": "💥热播┃秒播💥",
+            "type": 3,
+            "api": "csp_WexReBoGuard",
+            "searchable": 1,
+            "changeable": 1
+},
+{
+            "key": "WexBoBo",
+            "name": "🎇伯伯┃秒播🎇",
+            "type": 3,
+            "api": "csp_WexBoBoGuard",
+            "searchable": 1,
+            "changeable": 1
 }
+
 //{"key":"云云弹幕版","name":" 云云┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"YunYun","danmu":true},
 //"timeout":10},
 //{"key":"雄鹰弹幕版","name":"🦅雄鹰┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"XiongYing","danmu":true},
