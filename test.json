@@ -48,14 +48,6 @@
             "changeable": 1
 },
 {
-            "key": "WexWenCai",
-            "name": "💥文才┃秒播💥",
-            "type": 3,
-            "api": "csp_WexWenCaiGuard",
-            "searchable": 1,
-            "changeable": 1
-},
-{
             "key": "WexDuBoKu",
             "name": "💥独播┃秒播💥",
             "type": 3,
