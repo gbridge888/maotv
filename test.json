@@ -40,14 +40,6 @@
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {
-            "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播💥",
-            "type": 3,
-            "api": "csp_WexHanXiaoQuanGuard",
-            "searchable": 1,
-            "changeable": 1
-},
-{
             "key": "WexDuBoKu",
             "name": "💥独播┃秒播💥",
             "type": 3,
