@@ -11,16 +11,25 @@
 	"sites": [
 
 {
-            "key": "Doubana",
-            "name": "🐮【更新日期:20260505】🐮",
-            "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/gbridge888/maotv/main/20260414181247-ae51abfbfe.txt"
+      "key": "NewDouBan",
+      "name": "🐮【王二小放牛娃】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
 },
-		
+{
+      "key": "Doubana",
+      "name": "🐮【更新日期:20260614】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+},		
 {'key':'百度资源(xml)','name':'百度资源(xml)','type':0,'api':'https://api.apibdzy.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'优质资源(xml)','name':'优质资源(xml)','type':0,'api':'https://api.1080zyku.com/inc/api_all.php','searchable':1,'quickSearch':1,'filterable':1},
 {'key':'电影天堂','name':'电影天堂','type':0,'api':'http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml','searchable':1,'quickSearch':1,'filterable':1},
