@@ -85,22 +85,43 @@
             "searchable": 1,
             "changeable": 1
 },
-{
-            "key": "WexIkanBot",
-            "name": "🎇爱看┃采集🎇",
+ {
+            "key": "WexAiYiYs",
+            "name": "💥伊影┃秒播💥",
             "type": 3,
-            "api": "csp_WexIkanBotGuard",
+            "api": "csp_WexAiYiYsGuard",
             "searchable": 1,
-            "changeable": 1
-},
-{
-            "key": "WexBoBo",
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiBoBo",
             "name": "🎇伯伯┃秒播🎇",
             "type": 3,
-            "api": "csp_WexBoBoGuard",
+            "api": "csp_WexAiBoBoGuard",
             "searchable": 1,
-            "changeable": 1
-}
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiIkanBot",
+            "name": "🎇爱看┃采集🎇",
+            "type": 3,
+            "api": "csp_WexAiIkanBotGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }
+
 
 //{"key":"云云弹幕版","name":" 云云┃弹幕","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"YunYun","danmu":true},
 //"timeout":10},
