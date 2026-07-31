@@ -52,12 +52,22 @@
 {"key":"vod","name":"------以下为VOD资源------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 
 {
-            "key": "WexDuBoKu",
+            "key": "WexAiGuaZi",
+            "name": "💥瓜子┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAiGuaZiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+},
+{
+            "key": "WexAiDuBoKu",
             "name": "💥独播┃秒播💥",
             "type": 3,
-            "api": "csp_WexDuBoKuGuard",
+            "api": "csp_WexAiDuBoKuGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
 },
 {
             "key": "WexYiYs",
