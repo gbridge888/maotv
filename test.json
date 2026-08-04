@@ -70,22 +70,6 @@
             "changeable": 0
 },
 {
-            "key": "WexYiYs",
-            "name": "💥伊影┃秒播💥",
-            "type": 3,
-            "api": "csp_WexYiYsGuard",
-            "searchable": 1,
-            "changeable": 1
-},
-{
-            "key": "WexReBo",
-            "name": "💥热播┃秒播💥",
-            "type": 3,
-            "api": "csp_WexReBoGuard",
-            "searchable": 1,
-            "changeable": 1
-},
- {
             "key": "WexAiYiYs",
             "name": "💥伊影┃秒播💥",
             "type": 3,
