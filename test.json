@@ -110,15 +110,6 @@
             "changeable": 0
         },
         {
-            "key": "WexAiReBo",
-            "name": "💥热播┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiReBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "WexAiBoBo",
             "name": "🎇伯伯┃秒播🎇",
             "type": 3,
