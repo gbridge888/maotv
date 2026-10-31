@@ -92,6 +92,15 @@
             "changeable": 0
 },
 {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+},
+{
             "key": "WexAiDuBoKu",
             "name": "💥独播┃秒播💥",
             "type": 3,
